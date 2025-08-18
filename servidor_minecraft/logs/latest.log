@@ -7034,3 +7034,4 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [21:46:52] [Server thread/INFO]: Made Octlopez04 a server operator
 [21:46:52] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@29f99e5f (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [21:46:52] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1baa9662 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[22:10:41] [Server thread/INFO]: Villager class_1646['Unemployed'/45, l='ServerLevel[world]', x=124.70, y=67.00, z=-9.55] died, message: 'Unemployed was slain by Zombie'
