@@ -1,0 +1,22 @@
+{
+  "id": "iamond_130-36-384",
+  "name": "iamond",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--12604199-waypoint-icon.png",
+  "x": 130,
+  "y": -36,
+  "z": -384,
+  "r": 63,
+  "g": 172,
+  "b": 217,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

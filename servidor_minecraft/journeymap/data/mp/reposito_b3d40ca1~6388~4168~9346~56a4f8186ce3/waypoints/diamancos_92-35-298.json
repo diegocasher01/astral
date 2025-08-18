@@ -1,0 +1,22 @@
+{
+  "id": "diamancos_92-35-298",
+  "name": "diamancos",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5405714-waypoint-icon.png",
+  "x": 92,
+  "y": -35,
+  "z": -298,
+  "r": 173,
+  "g": 131,
+  "b": 238,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

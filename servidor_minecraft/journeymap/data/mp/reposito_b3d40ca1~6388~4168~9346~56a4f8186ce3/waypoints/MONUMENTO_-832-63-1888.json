@@ -1,0 +1,22 @@
+{
+  "id": "MONUMENTO_-832-63-1888",
+  "name": "MONUMENTO",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16477491-waypoint-icon.png",
+  "x": -832,
+  "y": 63,
+  "z": -1888,
+  "r": 4,
+  "g": 146,
+  "b": 205,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

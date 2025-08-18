@@ -1,0 +1,29 @@
+{
+	version: 1
+	uuid: "5d715e32995d33dcaf6da80ee555a961"
+	name: "Octlopez04"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		225D156FEDCD5C4E: 1
+		0FFF0F95A45D6A56: 1
+	}
+	started: {
+		50A67A22E5C03589: 1755026222584L
+		0000000000000001: 1755026222584L
+		6ADD71B3CD955A72: 1755026222584L
+		225D156FEDCD5C4E: 1755026222584L
+		0FFF0F95A45D6A56: 1755026222909L
+		70E54AE7E953CDB2: 1755026222909L
+	}
+	completed: {
+		225D156FEDCD5C4E: 1755026222589L
+		0FFF0F95A45D6A56: 1755026222909L
+		70E54AE7E953CDB2: 1755026222909L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
