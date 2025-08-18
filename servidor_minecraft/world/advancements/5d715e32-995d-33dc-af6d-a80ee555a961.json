@@ -10184,12 +10184,13 @@
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
       "broad_axe": "2025-08-18 08:16:03 +0000",
+      "scythe": "2025-08-18 22:21:15 +0000",
       "excavator": "2025-08-18 09:16:38 +0000",
       "sledge_hammer": "2025-08-18 08:08:29 +0000",
       "vein_hammer": "2025-08-18 08:28:08 +0000",
       "cleaver": "2025-08-18 08:21:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
