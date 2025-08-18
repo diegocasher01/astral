@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/redstone": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_slab": {
     "criteria": {
       "has_item": "2025-08-17 05:41:17 +0000"
@@ -1326,6 +1332,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-08-18 22:43:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
@@ -1619,6 +1631,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
   "definedsblocks:recipes/definedsblocks.general/mossy_coarse_dirt_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-08-17 02:28:59 +0000"
@@ -1799,6 +1817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_byte_panel": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
@@ -1874,6 +1898,12 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-17 02:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
     },
     "done": true
   },
@@ -2085,6 +2115,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/decorations/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-18 08:49:48 +0000"
@@ -2100,6 +2136,12 @@
   "mcdw:recipes/bows/bow_trickbow": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-08-18 22:50:35 +0000"
     },
     "done": true
   },
@@ -2517,6 +2559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-08-18 22:53:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-08-16 21:57:17 +0000"
@@ -2574,6 +2622,12 @@
   "dustrial_decor:recipes/misc/rusty_iron_ingot": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-08-18 22:50:35 +0000"
     },
     "done": true
   },
@@ -3305,6 +3359,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-18 08:48:38 +0000",
       "minecraft:spider": "2025-08-18 08:57:05 +0000",
+      "minecraft:creeper": "2025-08-18 22:53:26 +0000",
       "minecraft:zombie": "2025-08-18 08:49:55 +0000"
     },
     "done": false
@@ -4103,6 +4158,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/redstone_small_dust_from_dust": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-08-16 21:57:21 +0000"
@@ -4271,6 +4332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/raw_tin_blocks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:05 +0000"
@@ -4280,6 +4347,12 @@
   "create:recipes/create.palettes/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-18 09:06:36 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-08-18 22:50:35 +0000"
     },
     "done": true
   },
@@ -4370,6 +4443,12 @@
   "create:recipes/create.palettes/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-17 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
     },
     "done": true
   },
@@ -4985,6 +5064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_swift_striker": {
     "criteria": {
       "has_diamond": "2025-08-18 07:51:38 +0000"
@@ -5204,6 +5289,12 @@
   "create:recipes/create.base/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-08-17 03:04:48 +0000"
+    },
+    "done": true
+  },
+  "definedsblocks:recipes/definedsblocks.general/future_block": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
     },
     "done": true
   },
@@ -5564,6 +5655,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-18 08:53:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-08-18 22:50:35 +0000"
     },
     "done": true
   },
@@ -6886,6 +6983,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/gunpowder": {
+    "criteria": {
+      "has_tnt": "2025-08-18 22:53:27 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_trapdoor": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
@@ -7160,6 +7263,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/part_builder": {
     "criteria": {
       "has_item": "2025-08-17 02:51:50 +0000"
@@ -7343,6 +7452,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-17 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
     },
     "done": true
   },
@@ -7563,6 +7678,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/diesel_generator": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -7693,6 +7814,12 @@
   "techreborn:recipes/redstone/crafting_table/dust/redstone_from_small": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-08-18 22:50:35 +0000"
     },
     "done": true
   },
@@ -8176,6 +8303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/lapotronic_orbpack": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -8203,6 +8336,18 @@
   "createdeco:recipes/createdeco.metals/zinc_hull": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_4": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_3": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
     },
     "done": true
   },
@@ -8982,6 +9127,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2025-08-17 03:36:40 +0000"
@@ -9500,6 +9651,12 @@
   "create:recipes/create.base/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/computer_normal": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
     },
     "done": true
   },
@@ -10279,6 +10436,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-08-17 05:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-18 22:50:35 +0000"
     },
     "done": true
   },
