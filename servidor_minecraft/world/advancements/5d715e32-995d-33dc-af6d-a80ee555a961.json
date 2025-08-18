@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-08-18 08:30:08 +0000"
@@ -479,6 +485,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_slayer": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
@@ -554,6 +566,12 @@
   "mcdw:recipes/staves/staff_battlestaff_of_terror": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -686,6 +704,12 @@
   "farmersdelight:recipes/farmersdelight/honey_glazed_ham_block": {
     "criteria": {
       "has_smoked_ham": "2025-08-17 03:52:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -1026,6 +1050,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-08-17 05:42:35 +0000"
@@ -1083,6 +1113,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-18 08:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-18 21:55:55 +0000"
     },
     "done": true
   },
@@ -1287,6 +1323,12 @@
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-08-17 03:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -1775,6 +1817,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/andesite_small_dust_from_dust": {
+    "criteria": {
+      "has_andesite_dust": "2025-08-18 21:56:09 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_great_hammer": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
@@ -1841,6 +1889,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
   "dustrial_decor:recipes/decorations/large_lantern": {
     "criteria": {
       "has_torch": "2025-08-17 02:52:09 +0000"
@@ -1884,6 +1938,12 @@
   "campanion:recipes/combat/diamond_spear": {
     "criteria": {
       "has_diamond": "2025-08-18 07:51:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -1965,6 +2025,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-18 07:44:11 +0000"
@@ -1974,6 +2040,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-08-17 03:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -2121,9 +2193,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/neutron_reflector": {
     "criteria": {
       "has_copper_plate": "2025-08-17 04:32:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -2618,6 +2702,12 @@
   "techreborn:recipes/crafting_table/parts/water_coolant_cell_10k": {
     "criteria": {
       "has_water_bucket": "2025-08-17 02:25:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-08-18 21:55:55 +0000"
     },
     "done": true
   },
@@ -3237,6 +3327,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-08-18 21:55:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/stripped_rubber_wood": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -3276,6 +3372,12 @@
   "mcdw:recipes/swords/sword_masters_katana": {
     "criteria": {
       "has_gold_ingot": "2025-08-17 05:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -3464,6 +3566,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-08-17 03:57:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-08-18 21:55:55 +0000"
     },
     "done": true
   },
@@ -3803,6 +3911,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/solar_panel/basic_solar_panel": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -4073,6 +4187,12 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/misc/cardboard": {
+    "criteria": {
+      "has_paper": "2025-08-18 21:55:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2025-08-17 03:33:40 +0000"
@@ -4088,6 +4208,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-08-16 21:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -4196,6 +4322,12 @@
   "another_furniture:recipes/another_furniture/service_bell": {
     "criteria": {
       "has_nugget": "2025-08-17 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -4424,6 +4556,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-18 08:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -5646,6 +5784,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/granite_dust": {
+    "criteria": {
+      "has_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-17 02:54:15 +0000"
@@ -5691,6 +5835,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/raw_tin_blocks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -5775,6 +5925,12 @@
   "techreborn:recipes/centrifuge/spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-08-18 08:57:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -5889,6 +6045,12 @@
   "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-08-17 05:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -6616,6 +6778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/gray_stained_glass_from_glass_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-17 03:03:15 +0000"
@@ -6667,6 +6835,12 @@
   "copycats:recipes/crafting/copycat_vertical_slice": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -6784,6 +6958,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-18 08:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -7371,6 +7551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-18 08:23:18 +0000"
@@ -7609,6 +7795,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2025-08-17 04:31:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -8356,6 +8548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-18 21:55:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/cooked_meat": {
     "criteria": {
       "has_cooked_meat": "2025-08-17 03:30:12 +0000"
@@ -8658,6 +8856,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.props/red_gold_lamp": {
     "criteria": {
       "has_item": "2025-08-18 07:44:30 +0000"
@@ -8727,6 +8931,12 @@
   "copycats:recipes/crafting/copycat_stairs": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -9083,7 +9293,8 @@
       "chicken": "2025-08-18 08:34:39 +0000",
       "cooked_mutton": "2025-08-18 08:46:38 +0000",
       "cooked_beef": "2025-08-17 03:39:43 +0000",
-      "apple": "2025-08-17 04:29:53 +0000"
+      "apple": "2025-08-17 04:29:53 +0000",
+      "cooked_chicken": "2025-08-18 21:58:44 +0000"
     },
     "done": false
   },
@@ -9235,6 +9446,12 @@
   "techreborn:recipes/extractor/rubber_from_sap": {
     "criteria": {
       "has_sap": "2025-08-17 05:35:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
     },
     "done": true
   },
@@ -9460,6 +9677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/flint": {
     "criteria": {
       "has_item": "2025-08-17 02:54:15 +0000"
@@ -9601,6 +9824,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_bacon": {
     "criteria": {
       "cooked_bacon": "2025-08-16 21:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-08-18 21:55:55 +0000"
     },
     "done": true
   },
