@@ -9487,6 +9487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-19 03:07:57 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_stairs": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"

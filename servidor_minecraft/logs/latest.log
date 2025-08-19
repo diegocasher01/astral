@@ -165,3 +165,18 @@
 [02:43:30] [Server thread/INFO]: Lumi_uwu has made the advancement [Ice Bucket Challenge]
 [02:44:18] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [03:01:11] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[03:03:14] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
+[03:03:14] [Server thread/INFO]: Octlopez04 left the game
+[03:03:15] [Server thread/INFO]: Octlopez04[/100.105.105.97:54193] logged in with entity id 31700 at (549.0739234031408, -52.0, 216.69533492885782)
+[03:03:15] [Server thread/INFO]: Syncing config to Octlopez04 (5d715e32-995d-33dc-af6d-a80ee555a961)
+[03:03:15] [Server thread/INFO]: Loading config from file...
+[03:03:15] [Netty Epoll Server IO #1/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[03:03:15] [Server thread/INFO]: Octlopez04 joined the game
+[03:03:15] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@df87dab (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[03:03:15] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5e9e644e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[03:03:15] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Octlopez04 -> Global
+[03:03:15] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Octlopez04. Normal: GRAVE / Robbing: INVENTORY
+[03:03:16] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@df87dab (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[03:03:16] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5e9e644e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[03:03:16] [Netty Epoll Server IO #1/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[03:11:57] [Server thread/WARN]: The namespace kaisyn contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
