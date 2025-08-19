@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-19 05:17:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-08-19 05:02:46 +0000"
@@ -714,6 +720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-19 05:20:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-08-19 01:13:28 +0000"
@@ -723,6 +735,12 @@
   "techreborn:recipes/chemical_reactor/light_blue_candle_from_light_gray_candle_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-19 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-08-19 05:17:34 +0000"
     },
     "done": true
   },
@@ -744,6 +762,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-08-19 05:17:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
     "criteria": {
       "has_plantball": "2025-08-19 01:00:42 +0000"
@@ -753,6 +777,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_gauge": {
     "criteria": {
       "has_item": "2025-08-19 01:27:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/flint_dust": {
+    "criteria": {
+      "has_flint": "2025-08-19 05:20:12 +0000"
     },
     "done": true
   },
@@ -2238,6 +2268,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-08-19 05:17:35 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/gunpowder_pinch": {
     "criteria": {
       "has_gunpowder": "2025-08-19 02:34:24 +0000"
@@ -2733,6 +2769,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-08-19 05:17:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-19 01:03:32 +0000"
@@ -3094,6 +3136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-08-19 05:20:12 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/powder_charge": {
     "criteria": {
       "has_gunpowder": "2025-08-19 02:34:24 +0000"
@@ -3307,6 +3355,12 @@
   "techreborn:recipes/extractor/brown_dye_from_cocoa_beans": {
     "criteria": {
       "has_cocoa_beans": "2025-08-19 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-08-19 05:19:15 +0000"
     },
     "done": true
   },
@@ -5022,6 +5076,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-08-19 05:17:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-08-19 02:29:43 +0000"
@@ -5268,6 +5328,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-08-19 05:17:34 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/zinc_trapdoor": {
     "criteria": {
       "has_item": "2025-08-19 01:23:16 +0000"
@@ -5498,6 +5564,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-08-19 05:20:12 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/gas_mask": {
     "criteria": {
       "has_wool": "2025-08-19 01:58:52 +0000"
@@ -5586,6 +5658,12 @@
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2025-08-19 01:13:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/coal_dust_from_block": {
+    "criteria": {
+      "has_coal_block": "2025-08-19 05:19:15 +0000"
     },
     "done": true
   },
@@ -5724,6 +5802,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-08-19 02:58:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/coal_plate_from_block": {
+    "criteria": {
+      "has_coal_block": "2025-08-19 05:19:15 +0000"
     },
     "done": true
   },
@@ -6544,6 +6628,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-08-19 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/gravel": {
+    "criteria": {
+      "has_flint": "2025-08-19 05:20:12 +0000"
     },
     "done": true
   },
