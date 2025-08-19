@@ -100,3 +100,11 @@
 [01:13:28] [Server thread/INFO]: Lumi_uwu has made the advancement [Sturdier Rocks]
 [01:16:38] [Server thread/INFO]: Lumi_uwu has made the advancement [The Andesite Age]
 [01:18:30] [Server thread/INFO]: Lumi_uwu has made the advancement [Harnessed Hydraulics]
+[01:28:23] [Server thread/INFO]: Lumi_uwu has reached the goal [Advanced Tool Making]
+[01:28:55] [Server thread/INFO]: Lumi_uwu has reached the goal [Cast Collector]
+[01:29:33] [Server thread/INFO]: Lumi_uwu has made the advancement [Not So Sticky]
+[01:30:09] [Server thread/INFO]: Lumi_uwu has made the advancement [Diamonds!]
+[01:31:33] [Server thread/INFO]: Lumi_uwu was slain by Octlopez04
+[01:31:33] [Server thread/INFO]: Grave spawned at: 332, 64, -5 | overworld
+[01:31:35] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@df87dab (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:31:35] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5e9e644e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
