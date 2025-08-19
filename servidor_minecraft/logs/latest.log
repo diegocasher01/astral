@@ -118,3 +118,39 @@
 [01:50:36] [Server thread/INFO]: Lumi_uwu has made the advancement ['X' Marks the Spot]
 [01:51:13] [Server thread/INFO]: Octlopez04 has made the advancement [Suit Up]
 [01:51:57] [Server thread/INFO]: Lumi_uwu has made the advancement [Voluntary Exile]
+[01:53:59] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:54:37] [Server thread/INFO]: Lumi_uwu was slain by Ravager
+[01:54:37] [Server thread/INFO]: Grave spawned at: 192, 64, -11 | overworld
+[01:54:38] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@df87dab (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:54:38] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5e9e644e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:54:41] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:54:45] [Server thread/INFO]: Grave at 192, 64, -11 was replaced with Block{minecraft:air}
+[01:54:45] [Server thread/INFO]: Lumi_uwu is retrieving their grave at 192, 64, -11
+[01:54:45] [Server thread/INFO]: Lumi_uwu retrieved the items from the grave
+[01:55:09] [Server thread/INFO]: Octlopez04 has completed the challenge [Hero of the Village]
+[01:55:09] [Server thread/INFO]: Lumi_uwu has completed the challenge [Hero of the Village]
+[01:56:04] [Server thread/INFO]: Lumi_uwu has made the advancement [Barrel Booty]
+[01:56:28] [Server thread/INFO]: Saving grave backup data
+[01:56:57] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:57:02] [Server thread/INFO]: <Octlopez04> -TP O L
+[01:57:09] [Server thread/INFO]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[01:57:11] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
+[01:57:11] [Server thread/INFO]: Octlopez04 left the game
+[01:57:12] [Server thread/INFO]: Octlopez04[/100.105.105.97:53835] logged in with entity id 16959 at (125.59003528295521, 68.0, 16.1515417710369)
+[01:57:12] [Server thread/INFO]: Syncing config to Octlopez04 (5d715e32-995d-33dc-af6d-a80ee555a961)
+[01:57:12] [Server thread/INFO]: Loading config from file...
+[01:57:12] [Netty Epoll Server IO #7/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[01:57:12] [Server thread/INFO]: Octlopez04 joined the game
+[01:57:13] [Netty Epoll Server IO #7/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@df87dab (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:57:13] [Netty Epoll Server IO #7/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5e9e644e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:57:13] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Octlopez04 -> Global
+[01:57:13] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Octlopez04. Normal: GRAVE / Robbing: INVENTORY
+[01:57:13] [Netty Epoll Server IO #7/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@df87dab (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:57:13] [Netty Epoll Server IO #7/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5e9e644e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:57:13] [Netty Epoll Server IO #7/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[01:57:53] [Server thread/INFO]: Lumi_uwu has made the advancement [Hunt and Gather]
+[01:58:02] [Server thread/INFO]: Lumi_uwu has made the advancement [Disme A Dozen]
+[01:58:42] [Server thread/INFO]: Octlopez04 has made the advancement [Close Quarters]
+[02:02:24] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:04:27] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:05:20] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
