@@ -92,3 +92,8 @@
 [01:00:48] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5e9e644e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [01:00:48] [Netty Epoll Server IO #5/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
 [01:01:10] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:03:38] [Server thread/INFO]: Lumi_uwu has reached the goal [Encyclopedia]
+[01:05:54] [Server thread/INFO]: Lumi_uwu has made the advancement [Tech Reborn]
+[01:07:44] [Server thread/INFO]: Lumi_uwu has made the advancement [Acquire Hardware]
+[01:07:44] [Server thread/INFO]: Lumi_uwu has made the advancement [Cuprum Bokum]
+[01:08:25] [Server thread/INFO]: Lumi_uwu has made the advancement [Sweet Dreams]
