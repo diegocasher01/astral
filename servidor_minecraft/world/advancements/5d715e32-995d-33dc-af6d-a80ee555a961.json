@@ -2243,6 +2243,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/jungle_pressure_plate_from_slab": {
+    "criteria": {
+      "has_jungle_slab": "2025-08-19 09:08:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
@@ -3333,6 +3339,12 @@
   "techreborn:recipes/chemical_reactor/red_candle_from_orange_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-19 09:02:44 +0000"
     },
     "done": true
   },
@@ -4474,6 +4486,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/birch_pressure_plate_from_slab": {
+    "criteria": {
+      "has_birch_slab": "2025-08-19 09:10:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-08-17 03:38:07 +0000"
@@ -4897,6 +4915,12 @@
   "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-18 09:06:36 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/another_furniture/jungle_shutter": {
+    "criteria": {
+      "has_slab": "2025-08-19 09:08:51 +0000"
     },
     "done": true
   },
@@ -5610,6 +5634,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-08-19 09:02:52 +0000",
       "rice": "2025-08-17 04:24:53 +0000",
       "potato": "2025-08-19 03:28:56 +0000",
       "wheat": "2025-08-19 00:24:18 +0000"
@@ -6129,6 +6154,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-08-18 08:23:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-19 09:02:44 +0000"
     },
     "done": true
   },
@@ -7593,6 +7624,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-19 09:02:44 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitro_carbon": {
     "criteria": {
       "has_nitrogen": "2025-08-16 21:56:14 +0000"
@@ -7937,6 +7974,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/another_furniture/birch_planter_box": {
+    "criteria": {
+      "has_slab": "2025-08-19 09:10:23 +0000"
+    },
+    "done": true
+  },
   "vinery:cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
@@ -8162,6 +8205,13 @@
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_obsidian": "2025-08-19 00:30:09 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-08-19 09:02:52 +0000",
+      "has_the_recipe": "2025-08-19 09:02:52 +0000"
     },
     "done": true
   },
@@ -8649,6 +8699,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-19 09:02:44 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/armor/sapphire_helmet": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -9094,6 +9150,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-08-19 09:02:44 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/blue_candle_from_candle_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
@@ -9139,6 +9201,12 @@
   "create:recipes/create.palettes/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-18 08:49:48 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/another_furniture/jungle_bench": {
+    "criteria": {
+      "has_slab": "2025-08-19 09:08:51 +0000"
     },
     "done": true
   },
@@ -9308,6 +9376,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/another_furniture/birch_shutter": {
+    "criteria": {
+      "has_slab": "2025-08-19 09:10:23 +0000"
     },
     "done": true
   },
@@ -9983,6 +10057,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/another_furniture/birch_bench": {
+    "criteria": {
+      "has_slab": "2025-08-19 09:10:23 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_wool_from_white_wool_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
@@ -10394,6 +10474,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-08-18 08:48:38 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/another_furniture/jungle_planter_box": {
+    "criteria": {
+      "has_slab": "2025-08-19 09:08:51 +0000"
     },
     "done": true
   },
@@ -11390,6 +11476,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/spears/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-08-19 09:02:52 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/decorations/liquid_trash_can": {
     "criteria": {
       "recipe_condition": "2025-08-17 03:27:05 +0000"
@@ -11627,6 +11719,12 @@
   "travelersbackpack:recipes/travelersbackpack/iron_golem_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/poisonous_potato": {
+    "criteria": {
+      "has_poisonous_potato": "2025-08-19 09:02:52 +0000"
     },
     "done": true
   },
