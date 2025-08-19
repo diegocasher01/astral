@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/misc/rusty_iron_nugget": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-19 05:43:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/pink_carpet_from_light_gray_carpet_with_magenta_dye": {
     "criteria": {
       "has_magenta_dye": "2025-08-19 02:21:33 +0000"
@@ -494,6 +500,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-19 01:08:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lsu_storage": {
+    "criteria": {
+      "has_lapis_block": "2025-08-19 05:43:19 +0000"
     },
     "done": true
   },
@@ -1747,6 +1759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-08-19 05:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-08-19 01:20:24 +0000"
@@ -2926,6 +2944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-08-19 05:43:19 +0000"
+    },
+    "done": true
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-08-19 02:35:39 +0000"
@@ -3115,6 +3139,12 @@
   "techreborn:recipes/techreborn.item_group/smelting/refined_iron_plate_from_c_iron_plates": {
     "criteria": {
       "has_tag_c_iron_plates": "2025-08-19 01:19:51 +0000"
+    },
+    "done": true
+  },
+  "dustrial_decor:recipes/building_blocks/industrial_iron_block": {
+    "criteria": {
+      "has_industrial_iron_billet": "2025-08-19 05:49:06 +0000"
     },
     "done": true
   },
@@ -4233,6 +4263,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-19 05:43:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/zinc_blocks_slab": {
     "criteria": {
       "has_tag_c_zinc_blocks": "2025-08-19 05:15:32 +0000"
@@ -4453,6 +4489,12 @@
   "campanion:recipes/combat/stone_spear": {
     "criteria": {
       "has_stone": "2025-08-19 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/diamond_plate_from_block": {
+    "criteria": {
+      "has_diamond_block": "2025-08-19 05:43:14 +0000"
     },
     "done": true
   },
@@ -5576,6 +5618,12 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/redstone/industrial_iron_door": {
+    "criteria": {
+      "has_industrial_billet": "2025-08-19 05:49:06 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
     "criteria": {
       "has_item": "2025-08-19 05:20:12 +0000"
@@ -6087,6 +6135,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/lapis_plate": {
+    "criteria": {
+      "has_lapis_block": "2025-08-19 05:43:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-19 02:27:35 +0000"
@@ -6096,6 +6150,12 @@
   "mcdw:recipes/bows/bow_power_bow": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "dustrial_decor:recipes/building_blocks/cast_iron_block": {
+    "criteria": {
+      "has_cast_iron_billet": "2025-08-19 05:49:09 +0000"
     },
     "done": true
   },
@@ -6268,6 +6328,12 @@
   "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-19 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/another_furniture/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-08-19 05:43:55 +0000"
     },
     "done": true
   },
@@ -6679,6 +6745,12 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/building_blocks/cast_iron_balustrade": {
+    "criteria": {
+      "has_cast_iron_billet": "2025-08-19 05:49:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/implosion_compressor/red_garnet_dust": {
     "criteria": {
       "has_redstone_block": "2025-08-19 01:33:29 +0000"
@@ -6889,9 +6961,21 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/decorations/redstone_lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-19 05:43:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-08-19 02:29:15 +0000"
+    },
+    "done": true
+  },
+  "beautify:candleabras": {
+    "criteria": {
+      "requirement": "2025-08-19 05:43:55 +0000"
     },
     "done": true
   },
@@ -7261,6 +7345,12 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/redstone/industrial_iron_trapdoor": {
+    "criteria": {
+      "has_industrial_billet": "2025-08-19 05:49:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-19 01:06:01 +0000"
@@ -7294,6 +7384,12 @@
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-08-19 01:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-19 05:43:55 +0000"
     },
     "done": true
   },
