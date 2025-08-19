@@ -63,3 +63,32 @@
 [00:30:09] [Server thread/INFO]: Octlopez04 has made the advancement [Ice Bucket Challenge]
 [00:34:11] [Server thread/INFO]: Octlopez04 has made the advancement [The Sturdiest Rocks]
 [00:45:03] [Server thread/INFO]: Octlopez04 has made the advancement [Voluntary Exile]
+[01:00:42] [Server thread/INFO]: Lumi_uwu[/100.108.54.3:60933] logged in with entity id 10197 at (-6.5, 67.0, 7.5)
+[01:00:42] [Server thread/INFO]: Syncing config to Lumi_uwu (18e495cc-ed40-33fc-8880-4b50499ba5c5)
+[01:00:42] [Server thread/INFO]: Loading config from file...
+[01:00:42] [Server thread/INFO]: Lumi_uwu joined the game
+[01:00:42] [Server thread/INFO]: Lumi_uwu has made the advancement [Welcome to Create]
+[01:00:42] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@df87dab (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:00:42] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5e9e644e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:00:42] [Netty Epoll Server IO #4/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[01:00:43] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@df87dab (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:00:43] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5e9e644e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:00:43] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@df87dab (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:00:43] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5e9e644e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:00:44] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Lumi_uwu -> Global
+[01:00:44] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Lumi_uwu. Normal: GRAVE / Robbing: INVENTORY
+[01:00:45] [Server thread/INFO]: Lumi_uwu lost connection: Disconnected
+[01:00:45] [Server thread/INFO]: Lumi_uwu left the game
+[01:00:47] [Server thread/INFO]: Lumi_uwu[/100.108.54.3:60954] logged in with entity id 10405 at (-6.5, 67.0, 7.5)
+[01:00:47] [Server thread/INFO]: Syncing config to Lumi_uwu (18e495cc-ed40-33fc-8880-4b50499ba5c5)
+[01:00:47] [Server thread/INFO]: Loading config from file...
+[01:00:47] [Netty Epoll Server IO #5/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[01:00:47] [Server thread/INFO]: Lumi_uwu joined the game
+[01:00:48] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@df87dab (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:00:48] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5e9e644e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:00:48] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: Lumi_uwu -> Global
+[01:00:48] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Lumi_uwu. Normal: GRAVE / Robbing: INVENTORY
+[01:00:48] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@df87dab (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:00:48] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5e9e644e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:00:48] [Netty Epoll Server IO #5/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[01:01:10] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
