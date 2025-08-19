@@ -7966,3 +7966,4 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [06:00:13] [FTB Backups scheduled executor 0/INFO]: Removed old backup 2025-8-19_0-0-0.zip
 [06:00:13] [FTB Backups scheduled executor 0/INFO]: File missing, removing from backups /workspaces/astral/servidor_minecraft/backups/2025-8-19_0-0-0.zip
 [06:00:13] [FTB Backups scheduled executor 0/INFO]: Writing to file /workspaces/astral/servidor_minecraft/backups/backups.json
+[06:02:51] [Server thread/INFO]: Octlopez04 has made the advancement [Ready for the Depths]
