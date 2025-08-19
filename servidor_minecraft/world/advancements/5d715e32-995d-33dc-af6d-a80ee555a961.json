@@ -1122,6 +1122,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-19 23:47:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/cinnabar_small_dust_from_dust": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -1719,6 +1725,12 @@
   "vinery:stove": {
     "criteria": {
       "has_campfire": "2025-08-17 04:22:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -2922,6 +2934,12 @@
   "tconstruct:smeltery/gold_casting": {
     "criteria": {
       "crafted_cast": "2025-08-18 07:29:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -5098,6 +5116,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/proximity_fuze": {
+    "criteria": {
+      "has_quartz": "2025-08-19 23:47:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/coal_plate_from_block": {
     "criteria": {
       "has_coal_block": "2025-08-17 03:58:35 +0000"
@@ -5308,6 +5332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-19 23:47:18 +0000"
+    },
+    "done": true
+  },
   "dustrial_decor:recipes/misc/cardboard": {
     "criteria": {
       "has_paper": "2025-08-18 21:55:55 +0000"
@@ -5347,6 +5377,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -5446,6 +5482,12 @@
     },
     "done": true
   },
+  "ae2:recipes/combat/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-19 23:47:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-18 09:06:36 +0000"
@@ -5497,6 +5539,12 @@
   "techreborn:recipes/crafting_table/machine/medium_voltage_su": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -6459,6 +6507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-19 23:47:18 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials_and_you": {
     "criteria": {
       "has_item": "2025-08-17 02:51:50 +0000"
@@ -6612,6 +6666,12 @@
   "create:recipes/create.palettes/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-19 23:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -6804,6 +6864,12 @@
   "copycats:recipes/crafting/copycat_slice": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-08-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -7176,6 +7242,12 @@
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-08-19 05:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -10312,6 +10384,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/quartz_shuriken": {
+    "criteria": {
+      "has_item": "2025-08-19 23:47:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-08-17 02:54:20 +0000"
@@ -10750,6 +10828,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-19 23:47:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-08-16 21:57:39 +0000"
@@ -11053,6 +11137,12 @@
   "techreborn:recipes/grinder/basalt_dust_from_basalt": {
     "criteria": {
       "has_basalt": "2025-08-18 08:49:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -11393,6 +11483,12 @@
   "techreborn:recipes/chemical_reactor/brown_stained_glass_from_red_stained_glass_with_green_dye": {
     "criteria": {
       "has_green_dye": "2025-08-19 08:48:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/redstone/misc/vanilla_comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -11804,6 +11900,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-19 23:47:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-08-19 23:21:50 +0000"
@@ -11939,6 +12041,12 @@
   "createdeco:recipes/createdeco.bricks/cracked_red_long_bricks_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-17 04:21:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/quartz_dust_from_gem": {
+    "criteria": {
+      "has_quartz": "2025-08-19 23:47:18 +0000"
     },
     "done": true
   },
@@ -13007,6 +13115,12 @@
   "techreborn:recipes/chemical_reactor/lime_stained_glass_pane_from_white_stained_glass_pane_with_green_dye": {
     "criteria": {
       "has_green_dye": "2025-08-19 08:48:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/redstone/misc/vanilla_daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-19 23:47:18 +0000"
     },
     "done": true
   },
