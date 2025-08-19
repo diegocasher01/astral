@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-19 02:41:04 +0000"
@@ -1117,9 +1123,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
     "criteria": {
       "has_calcium_carbonate": "2025-08-19 01:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-19 02:58:32 +0000"
     },
     "done": true
   },
@@ -1597,6 +1615,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitro_carbon": {
     "criteria": {
       "has_nitrogen": "2025-08-19 01:00:42 +0000"
@@ -1738,6 +1762,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-08-19 01:58:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_water_bucket": {
+    "criteria": {
+      "has_water_bucket": "2025-08-19 03:01:17 +0000"
     },
     "done": true
   },
@@ -1898,6 +1928,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_stained_glass_from_light_gray_stained_glass_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-19 02:21:30 +0000"
@@ -2028,6 +2064,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/clay_dust": {
     "criteria": {
       "has_clay_ball": "2025-08-19 02:29:43 +0000"
@@ -2061,6 +2103,12 @@
   "techreborn:recipes/vacuum_freezer/helium": {
     "criteria": {
       "has_heliumplasma": "2025-08-19 01:00:42 +0000"
+    },
+    "done": true
+  },
+  "dustrial_decor:recipes/building_blocks/barbed_chain_link_fence": {
+    "criteria": {
+      "has_chain": "2025-08-19 02:57:10 +0000"
     },
     "done": true
   },
@@ -2181,6 +2229,12 @@
   "techreborn:recipes/chemical_reactor/cyan_carpet_from_white_carpet_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-19 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "dustrial_decor:recipes/building_blocks/chain_link_fence": {
+    "criteria": {
+      "has_chain": "2025-08-19 02:57:10 +0000"
     },
     "done": true
   },
@@ -3166,6 +3220,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/paper_from_book": {
+    "criteria": {
+      "has_book": "2025-08-19 02:58:32 +0000"
+    },
+    "done": true
+  },
   "dustrial_decor:recipes/misc/industrial_iron_billet": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
@@ -3247,6 +3307,12 @@
   "techreborn:recipes/centrifuge/sulfur_cell": {
     "criteria": {
       "has_sulfur": "2025-08-19 01:00:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
     },
     "done": true
   },
@@ -3974,6 +4040,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-19 02:29:11 +0000"
@@ -4070,6 +4142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-19 02:58:32 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_resolute_tempest_knife": {
     "criteria": {
       "has_diamond": "2025-08-19 01:30:09 +0000"
@@ -4152,6 +4230,12 @@
   "mcdw:recipes/bows/bow_snow_bow": {
     "criteria": {
       "has_base_bow": "2025-08-19 01:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-19 03:01:17 +0000"
     },
     "done": true
   },
@@ -4242,6 +4326,12 @@
   "create:recipes/create.base/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-08-19 01:23:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
     },
     "done": true
   },
@@ -4498,6 +4588,12 @@
     },
     "done": false
   },
+  "create:recipes/create.palettes/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-08-19 01:18:50 +0000"
@@ -4603,6 +4699,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-08-19 02:29:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/manual": {
+    "criteria": {
+      "has_book": "2025-08-19 02:58:32 +0000"
     },
     "done": true
   },
@@ -4736,6 +4838,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/faucet": {
     "criteria": {
       "has_item": "2025-08-19 01:27:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
     },
     "done": true
   },
@@ -5237,6 +5345,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-08-19 02:56:56 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_stairs": {
     "criteria": {
       "has_item": "2025-08-19 01:23:16 +0000"
@@ -5277,6 +5391,12 @@
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2025-08-19 01:13:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
     },
     "done": true
   },
@@ -5364,6 +5484,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/magenta_carpet_from_pink_concrete_powder_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-19 01:06:39 +0000"
@@ -5376,6 +5502,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/table": {
     "criteria": {
       "has_item": "2025-08-19 01:27:29 +0000"
@@ -5385,6 +5523,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-19 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-19 02:58:32 +0000"
     },
     "done": true
   },
@@ -5508,6 +5652,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-19 01:03:32 +0000"
@@ -5574,6 +5724,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
   "dustrial_decor:recipes/misc/cardboard": {
     "criteria": {
       "has_paper": "2025-08-19 02:03:03 +0000"
@@ -5637,6 +5793,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-19 02:33:23 +0000",
+      "cooked_mutton": "2025-08-19 02:51:37 +0000",
       "cooked_beef": "2025-08-19 01:19:41 +0000",
       "bread": "2025-08-19 01:51:10 +0000"
     },
@@ -5664,6 +5821,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-08-19 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2025-08-19 02:58:31 +0000"
     },
     "done": true
   },
@@ -5703,9 +5866,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
   "beautify:trellis": {
     "criteria": {
       "requirement": "2025-08-19 01:28:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
     },
     "done": true
   },
@@ -6075,6 +6250,12 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/building_blocks/wrapped_chains": {
+    "criteria": {
+      "has_chain": "2025-08-19 02:57:10 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/warped_drawer": {
     "criteria": {
       "has_planks": "2025-08-19 01:28:02 +0000"
@@ -6108,6 +6289,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/tool/bronze_hoe": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-08-19 01:12:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
     },
     "done": true
   },
@@ -6756,6 +6943,12 @@
   "createdeco:recipes/createdeco.bricks/cracked_red_bricks_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-19 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2025-08-19 02:58:32 +0000"
     },
     "done": true
   },
