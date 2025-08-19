@@ -4778,7 +4778,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "rice": "2025-08-17 04:24:53 +0000"
+      "rice": "2025-08-17 04:24:53 +0000",
+      "wheat": "2025-08-19 00:24:18 +0000"
     },
     "done": false
   },
@@ -8974,6 +8975,12 @@
   "techreborn:recipes/crafting_table/dust/gunpowder": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-19 00:24:18 +0000"
     },
     "done": true
   },
