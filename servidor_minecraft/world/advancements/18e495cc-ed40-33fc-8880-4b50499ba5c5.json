@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-19 02:15:04 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/mossy_red_brick_tiles_slab_vert_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-19 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
     },
     "done": true
   },
@@ -335,6 +347,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/gold_hull": {
+    "criteria": {
+      "has_item": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/nugget/diamond_nugget": {
     "criteria": {
       "has_diamond": "2025-08-19 01:30:09 +0000"
@@ -398,6 +416,12 @@
   "createdeco:recipes/createdeco.props/black_decal": {
     "criteria": {
       "has_item": "2025-08-19 01:19:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_rope": {
+    "criteria": {
+      "has_rope": "2025-08-19 02:18:50 +0000"
     },
     "done": true
   },
@@ -720,6 +744,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/honey_glazed_ham_block": {
     "criteria": {
       "has_smoked_ham": "2025-08-19 01:22:10 +0000"
@@ -889,6 +919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2025-08-19 01:15:34 +0000"
@@ -916,6 +952,12 @@
   "dustrial_decor:recipes/misc/cast_iron_billet": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/gold_bars": {
+    "criteria": {
+      "has_ingot": "2025-08-19 02:20:38 +0000"
     },
     "done": true
   },
@@ -1021,6 +1063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-19 01:08:08 +0000"
@@ -1075,6 +1123,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/oak_shelf": {
     "criteria": {
       "has_planks": "2025-08-19 01:18:50 +0000"
@@ -1090,6 +1150,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-19 01:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
     },
     "done": true
   },
@@ -1207,6 +1273,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_the_end": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
@@ -1309,6 +1381,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-08-19 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-08-19 01:58:43 +0000"
@@ -1408,6 +1492,12 @@
   "mcdw:recipes/shortbows/bow_shortbow": {
     "criteria": {
       "has_stick": "2025-08-19 01:28:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_grave_bane": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
     },
     "done": true
   },
@@ -1644,6 +1734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/vacuum_freezer/helium": {
     "criteria": {
       "has_heliumplasma": "2025-08-19 01:00:42 +0000"
@@ -1806,6 +1902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/white_curtain": {
     "criteria": {
       "has_wool": "2025-08-19 01:58:52 +0000"
@@ -1863,6 +1965,18 @@
   "copycats:recipes/crafting/copycat_iron_trapdoor": {
     "criteria": {
       "has_item": "2025-08-19 01:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-19 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
     },
     "done": true
   },
@@ -1938,6 +2052,12 @@
   "create:recipes/create.palettes/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-08-19 01:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
     },
     "done": true
   },
@@ -2047,6 +2167,18 @@
     "criteria": {
       "has_beryllium": "2025-08-19 01:00:42 +0000",
       "has_wolframium": "2025-08-19 01:00:42 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/spears/spear_fortune": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-08-19 02:15:04 +0000"
     },
     "done": true
   },
@@ -2164,6 +2296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-08-19 01:23:51 +0000"
@@ -2182,6 +2320,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_the_beginning": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/goggles": {
     "criteria": {
       "has_item": "2025-08-19 01:13:28 +0000"
@@ -2197,6 +2341,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-19 02:18:37 +0000"
     },
     "done": true
   },
@@ -2266,15 +2416,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/gold_cable": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_vertical_half_layer": {
     "criteria": {
       "has_item": "2025-08-19 01:23:16 +0000"
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-08-19 02:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-19 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-19 02:18:37 +0000"
     },
     "done": true
   },
@@ -2293,6 +2461,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-08-19 01:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
     },
     "done": true
   },
@@ -2392,9 +2566,21 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/decorations/large_gold_chain": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_heavy_weighted_pressure_plate": {
     "criteria": {
       "has_item": "2025-08-19 01:23:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/brown_dye_from_cocoa_beans": {
+    "criteria": {
+      "has_cocoa_beans": "2025-08-19 02:20:45 +0000"
     },
     "done": true
   },
@@ -2567,6 +2753,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
+    "criteria": {
+      "has_item": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-08-19 01:18:50 +0000"
@@ -2624,6 +2816,12 @@
   "ae2:recipes/ae2.main/network/cables/dense_covered_gray": {
     "criteria": {
       "has_dyes/black": "2025-08-19 01:06:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-08-19 02:18:37 +0000"
     },
     "done": true
   },
@@ -2724,6 +2922,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/wire_mill/gold_cable": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-08-19 01:06:19 +0000"
@@ -2782,6 +2986,12 @@
   "campanion:recipes/decorations/leather_tanner": {
     "criteria": {
       "has_stick": "2025-08-19 01:28:02 +0000"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
     },
     "done": true
   },
@@ -2882,6 +3092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-08-19 01:07:44 +0000"
@@ -2912,6 +3128,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-08-19 02:18:37 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/double_axes/axe_double": {
     "criteria": {
       "has_stick": "2025-08-19 01:28:02 +0000"
@@ -2933,6 +3155,12 @@
   "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
     "criteria": {
       "has_nitrogen": "2025-08-19 01:00:42 +0000"
+    },
+    "done": true
+  },
+  "campanion:recipes/misc/skipping_stone": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
     },
     "done": true
   },
@@ -3032,9 +3260,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-19 01:20:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/blackstone": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
     },
     "done": true
   },
@@ -3071,6 +3311,12 @@
   "techreborn:recipes/compressor/iron_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/alloy_smelter/electrum_ingot": {
+    "criteria": {
+      "has_gold": "2025-08-19 02:20:38 +0000"
     },
     "done": true
   },
@@ -3141,6 +3387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-19 01:20:24 +0000"
@@ -3156,6 +3408,18 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout_multiple": {
     "criteria": {
       "has_item": "2025-08-19 01:08:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-19 02:15:04 +0000"
+    },
+    "done": true
+  },
+  "campanion:recipes/combat/stone_spear": {
+    "criteria": {
+      "has_stone": "2025-08-19 02:14:00 +0000"
     },
     "done": true
   },
@@ -3180,6 +3444,12 @@
   "createdeco:recipes/createdeco.bricks/mossy_red_bricks_slab_vert_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-19 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
     },
     "done": true
   },
@@ -3506,6 +3776,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/gold_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "beautify:progression/root": {
     "criteria": {
       "Install": "2025-08-19 01:00:42 +0000"
@@ -3515,6 +3791,12 @@
   "extended_drawers:recipes/extended_drawers.main/connector": {
     "criteria": {
       "has_connector": "2025-08-19 01:33:21 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_broken_sawblade": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
     },
     "done": true
   },
@@ -3551,6 +3833,12 @@
   "createdeco:recipes/createdeco.metals/copper_bars": {
     "criteria": {
       "has_item": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
     },
     "done": true
   },
@@ -3921,6 +4209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/cracked_red_short_bricks_slab_vert_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-19 01:27:52 +0000"
@@ -3957,6 +4251,13 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-08-19 01:18:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/spears/spear_grave_bane": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000",
+      "has_the_recipe": "2025-08-19 02:20:38 +0000"
     },
     "done": true
   },
@@ -3999,6 +4300,18 @@
   "techreborn:recipes/compressor/compressed_plantball": {
     "criteria": {
       "has_plantball_material": "2025-08-19 01:33:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-19 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
     },
     "done": true
   },
@@ -4081,6 +4394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-08-19 02:20:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2025-08-19 01:17:25 +0000"
@@ -4144,6 +4463,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/table": {
     "criteria": {
       "has_item": "2025-08-19 01:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
     },
     "done": true
   },
@@ -4216,6 +4541,12 @@
   "createdeco:recipes/createdeco.props/gray_placard": {
     "criteria": {
       "has_dye": "2025-08-19 01:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
     },
     "done": true
   },
@@ -4315,6 +4646,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/safety_net": {
+    "criteria": {
+      "has_rope": "2025-08-19 02:18:50 +0000"
+    },
+    "done": true
+  },
   "beautify:frames": {
     "criteria": {
       "requirement": "2025-08-19 01:58:52 +0000"
@@ -4356,6 +4693,12 @@
   "create:recipes/create.palettes/andesite_bars_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-08-19 01:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
     },
     "done": true
   },
@@ -4527,6 +4870,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/decorations/liquid_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-08-19 02:19:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-19 01:20:24 +0000"
@@ -4572,6 +4921,12 @@
   "mcdw:recipes/crossbows/crossbow_voidcaller_crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
     },
     "done": true
   },
@@ -4857,6 +5212,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/gold_bars": {
+    "criteria": {
+      "has_item": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitrocoal_fuel": {
     "criteria": {
       "has_glyceryl": "2025-08-19 01:00:42 +0000"
@@ -4923,6 +5284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/diorite_dust": {
     "criteria": {
       "has_diorite": "2025-08-19 01:20:24 +0000"
@@ -4932,6 +5299,12 @@
   "create:recipes/create.base/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-08-19 01:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-08-19 02:14:00 +0000"
     },
     "done": true
   },
@@ -4968,6 +5341,12 @@
   "tconstruct:recipes/tconstruct/general/tables/cast_chest": {
     "criteria": {
       "has_item": "2025-08-19 01:14:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/gold_ingot_with_mercury": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
     },
     "done": true
   },
@@ -5169,6 +5548,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/alloy_smelter/netherite_ingot": {
+    "criteria": {
+      "has_gold": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_gold_cable_shapeless": {
     "criteria": {
       "has_rubber": "2025-08-19 01:29:33 +0000"
@@ -5282,6 +5667,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2025-08-19 01:13:29 +0000"
@@ -5315,6 +5706,18 @@
   "mcdw:recipes/spears/spear_spear": {
     "criteria": {
       "has_base": "2025-08-19 01:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
+  "campanion:recipes/combat/golden_spear": {
+    "criteria": {
+      "has_gold": "2025-08-19 02:20:38 +0000"
     },
     "done": true
   },
