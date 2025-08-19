@@ -5302,6 +5302,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/abilities": {
+    "criteria": {
+      "tool_belt": "2025-08-19 09:20:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-18 08:53:39 +0000"
