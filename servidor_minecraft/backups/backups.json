@@ -2,11 +2,11 @@
   "backups": [
     {
       "worldName": "world",
-      "createTime": 1755561600154,
-      "backupLocation": "/workspaces/astral/servidor_minecraft/backups/2025-8-19_0-0-0.zip",
-      "size": 34156815,
-      "ratio": 0.67982024,
-      "sha1": "08c28065debeb39095c9cfe2e7aa14de76844b33",
+      "createTime": 1755583200140,
+      "backupLocation": "/workspaces/astral/servidor_minecraft/backups/2025-8-19_6-0-0.zip",
+      "size": 40356520,
+      "ratio": 0.71016765,
+      "sha1": "592770f6d0bd6c2acdc61c95329301062d8343f2",
       "preview": "",
       "snapshot": false,
       "backupName": "automated",

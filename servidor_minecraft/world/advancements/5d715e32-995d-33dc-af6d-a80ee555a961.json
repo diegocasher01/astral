@@ -1290,6 +1290,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/copper_plate_from_block": {
+    "criteria": {
+      "has_copper_block": "2025-08-19 05:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-16 21:57:33 +0000"
@@ -1431,6 +1437,12 @@
   "techreborn:recipes/chemical_reactor/blue_wool_from_cyan_wool_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-08-19 05:53:36 +0000"
     },
     "done": true
   },
@@ -3042,6 +3054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-19 05:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-16 21:57:33 +0000"
@@ -4258,6 +4276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-08-19 05:53:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
@@ -4870,6 +4894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-19 05:53:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/armor/peridot_boots": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -5220,6 +5250,12 @@
     },
     "done": true
   },
+  "create:backtank": {
+    "criteria": {
+      "0": "2025-08-19 05:59:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/bronze_blocks_wall_stonecutter": {
     "criteria": {
       "has_tag_c_bronze_blocks": "2025-08-18 08:02:16 +0000"
@@ -5268,6 +5304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-08-19 05:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-18 09:25:04 +0000"
@@ -5295,6 +5337,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-08-19 02:30:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_boots": {
+    "criteria": {
+      "has_item": "2025-08-19 05:53:50 +0000"
     },
     "done": true
   },
@@ -5349,6 +5397,12 @@
   "mcdw:recipes/gauntlets/gauntlet_maulers": {
     "criteria": {
       "has_leather": "2025-08-18 08:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-08-19 05:58:33 +0000"
     },
     "done": true
   },
@@ -6006,6 +6060,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/copper_sheet_metal_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-19 05:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
@@ -6147,6 +6207,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/iridium_blocks_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-08-19 05:53:07 +0000"
     },
     "done": true
   },
@@ -8166,6 +8232,12 @@
   "createdeco:recipes/createdeco.props/lime_decal": {
     "criteria": {
       "has_item": "2025-08-17 03:52:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/netherite_backtank": {
+    "criteria": {
+      "has_item": "2025-08-19 05:55:23 +0000"
     },
     "done": true
   },
@@ -10241,6 +10313,12 @@
   "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-19 05:53:07 +0000"
     },
     "done": true
   },
