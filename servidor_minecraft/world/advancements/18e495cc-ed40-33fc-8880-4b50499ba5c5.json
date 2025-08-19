@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-08-19 01:50:36 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/tables/book_substitute": {
     "criteria": {
       "has_item": "2025-08-19 01:03:01 +0000"
@@ -437,6 +443,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-08-19 01:50:36 +0000"
+    },
+    "done": false
+  },
   "mcdw:recipes/crossbows/crossbow_slayer": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
@@ -572,6 +584,12 @@
   "create:recipes/create.base/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2025-08-19 01:13:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/bread": {
+    "criteria": {
+      "has_bread": "2025-08-19 01:50:23 +0000"
     },
     "done": true
   },
@@ -1143,6 +1161,12 @@
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-08-19 01:45:37 +0000"
     },
     "done": true
   },
@@ -3390,7 +3414,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sparse_jungle": "2025-08-19 01:00:42 +0000",
-      "minecraft:old_growth_birch_forest": "2025-08-19 01:04:25 +0000"
+      "minecraft:forest": "2025-08-19 01:49:55 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-19 01:04:25 +0000",
+      "minecraft:plains": "2025-08-19 01:49:56 +0000"
     },
     "done": false
   },
@@ -3739,7 +3765,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-08-19 01:19:41 +0000"
+      "cooked_beef": "2025-08-19 01:19:41 +0000",
+      "bread": "2025-08-19 01:51:10 +0000"
     },
     "done": false
   },
