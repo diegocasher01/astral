@@ -182,3 +182,5 @@
 [03:11:57] [Server thread/WARN]: The namespace kaisyn contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [03:21:33] [Server thread/INFO]: Lumi_uwu lost connection: Disconnected
 [03:21:33] [Server thread/INFO]: Lumi_uwu left the game
+[04:18:28] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
+[04:18:28] [Server thread/INFO]: Octlopez04 left the game
