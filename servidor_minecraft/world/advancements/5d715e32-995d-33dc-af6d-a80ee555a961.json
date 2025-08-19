@@ -575,6 +575,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-08-19 23:14:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-08-19 02:54:18 +0000"
@@ -963,6 +969,12 @@
   "createdeco:recipes/createdeco.metals/andesite_sheet_metal_from_andesite_casing_stonecutting": {
     "criteria": {
       "has_andesite_casing": "2025-08-17 03:33:40 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/smoke_shell": {
+    "criteria": {
+      "has_hay_block": "2025-08-19 23:21:50 +0000"
     },
     "done": true
   },
@@ -1674,6 +1686,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-08-19 23:14:37 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_vertical_slope": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
@@ -2180,6 +2198,12 @@
   "beautify:lamps": {
     "criteria": {
       "requirement": "2025-08-17 03:04:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-08-19 23:14:37 +0000"
     },
     "done": true
   },
@@ -5893,6 +5917,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "onion": "2025-08-19 09:02:52 +0000",
+      "tomato": "2025-08-19 23:14:47 +0000",
       "rice": "2025-08-17 04:24:53 +0000",
       "potato": "2025-08-19 03:28:56 +0000",
       "wheat": "2025-08-19 00:24:18 +0000",
@@ -9110,6 +9135,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "pasta_with_meatballs": "2025-08-19 23:17:13 +0000",
       "fried_rice": "2025-08-19 22:48:07 +0000"
     },
     "done": false
@@ -11559,6 +11585,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-17 02:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-19 23:21:50 +0000"
     },
     "done": true
   },
