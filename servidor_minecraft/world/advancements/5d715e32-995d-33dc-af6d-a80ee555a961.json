@@ -6842,6 +6842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-08-19 22:40:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2025-08-19 08:48:59 +0000"
@@ -8793,6 +8799,12 @@
   "create:recipes/create.base/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "dustrial_decor:recipes/building_blocks/cinder_block": {
+    "criteria": {
+      "has_concrete": "2025-08-19 22:42:10 +0000"
     },
     "done": true
   },
