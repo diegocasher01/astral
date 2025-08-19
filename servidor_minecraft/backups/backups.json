@@ -1,0 +1,17 @@
+{
+  "backups": [
+    {
+      "worldName": "world",
+      "createTime": 1755561600154,
+      "backupLocation": "/workspaces/astral/servidor_minecraft/backups/2025-8-19_0-0-0.zip",
+      "size": 34156815,
+      "ratio": 0.67982024,
+      "sha1": "08c28065debeb39095c9cfe2e7aa14de76844b33",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}
