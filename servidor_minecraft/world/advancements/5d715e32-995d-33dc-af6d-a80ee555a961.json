@@ -912,6 +912,12 @@
     },
     "done": true
   },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-08-19 00:34:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
     "criteria": {
       "has_calcium_carbonate": "2025-08-16 21:56:14 +0000"
@@ -2331,6 +2337,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-08-19 00:34:11 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_boneclub": {
     "criteria": {
       "has_string": "2025-08-18 08:57:06 +0000"
@@ -2988,6 +3000,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-08-19 00:30:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-08-17 03:34:27 +0000"
@@ -3063,6 +3081,12 @@
   "techreborn:recipes/alloy_smelter/electrum_ingot": {
     "criteria": {
       "has_gold": "2025-08-17 05:42:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/obsidian_plate_from_block": {
+    "criteria": {
+      "has_obsidian": "2025-08-19 00:30:09 +0000"
     },
     "done": true
   },
@@ -3551,6 +3575,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2025-08-19 00:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-08-17 05:42:35 +0000"
@@ -3560,6 +3590,12 @@
   "techreborn:recipes/crafting_table/tool/rock_cutter": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2025-08-19 00:34:11 +0000"
     },
     "done": true
   },
@@ -6966,6 +7002,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2025-08-19 00:30:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/smoked_ham": {
     "criteria": {
       "has_ham": "2025-08-16 21:59:21 +0000"
@@ -7468,6 +7510,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-19 00:30:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -7586,6 +7634,12 @@
   "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-17 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-08-19 00:34:11 +0000"
     },
     "done": true
   },
@@ -9682,6 +9736,12 @@
   "railways:recipes/railways/crafting/smokestack_caboosestyle": {
     "criteria": {
       "has_item": "2025-08-17 04:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-19 00:30:09 +0000"
     },
     "done": true
   },
