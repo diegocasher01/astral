@@ -1856,6 +1856,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/slime/sky/crystal_smelting": {
+    "criteria": {
+      "has_crystal": "2025-08-19 23:31:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/skillet": {
     "criteria": {
       "has_brick": "2025-08-17 04:10:10 +0000"
@@ -5179,6 +5185,12 @@
   "mcdw:recipes/bows/bow_bonebow": {
     "criteria": {
       "has_gold_ingot": "2025-08-17 05:42:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/sky/crystal_block": {
+    "criteria": {
+      "has_item": "2025-08-19 23:31:40 +0000"
     },
     "done": true
   },
