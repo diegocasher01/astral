@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-19 02:41:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-19 02:27:35 +0000"
@@ -1150,6 +1156,12 @@
   "techreborn:recipes/chemical_reactor/blue_carpet_from_cyan_carpet_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-19 01:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-19 02:41:04 +0000"
     },
     "done": true
   },
@@ -2088,6 +2100,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/gunpowder_pinch": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
@@ -2427,6 +2445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-19 02:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-19 02:27:35 +0000"
@@ -2686,6 +2710,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-08-19 02:35:39 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_carpet_from_light_gray_carpet_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-19 02:21:30 +0000"
@@ -2890,6 +2920,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/powder_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_from_brick": {
     "criteria": {
       "has_item": "2025-08-19 01:27:29 +0000"
@@ -3088,6 +3124,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/wrought_iron_cannon_chamber": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/brown_dye_from_cocoa_beans": {
     "criteria": {
       "has_cocoa_beans": "2025-08-19 02:20:45 +0000"
@@ -3212,6 +3254,12 @@
     "criteria": {
       "has_hydrogen": "2025-08-19 01:00:42 +0000",
       "has_carbon": "2025-08-19 01:00:42 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/wrought_iron_drop_mortar_end_mirrored": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
     },
     "done": true
   },
@@ -3540,6 +3588,12 @@
       "0": "2025-08-19 01:17:53 +0000"
     },
     "done": false
+  },
+  "techreborn:recipes/centrifuge/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-19 02:41:04 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
@@ -4035,6 +4089,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/pair_of_cannon_wheels": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_katana": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
@@ -4252,6 +4312,7 @@
       "minecraft:ravager": "2025-08-19 01:53:57 +0000",
       "minecraft:vindicator": "2025-08-19 01:51:57 +0000",
       "minecraft:spider": "2025-08-19 02:05:24 +0000",
+      "minecraft:creeper": "2025-08-19 02:34:21 +0000",
       "minecraft:zombie": "2025-08-19 02:04:41 +0000"
     },
     "done": false
@@ -4421,6 +4482,12 @@
   "techreborn:recipes/chemical_reactor/green_stained_glass_pane_from_lime_stained_glass_pane_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-19 01:06:39 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/empty_powder_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
     },
     "done": true
   },
@@ -4620,6 +4687,12 @@
   "reinfchest:recipes/decorations/diamond_chest": {
     "criteria": {
       "has_diamond": "2025-08-19 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/wrought_iron_cannon_end": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
     },
     "done": true
   },
@@ -5242,6 +5315,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/cannon_carriage": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/sickles/sickle_skull_scythe": {
     "criteria": {
       "has_copper_ingot": "2025-08-19 01:07:44 +0000"
@@ -5470,6 +5549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/pink_candle_from_light_gray_candle_with_magenta_dye": {
     "criteria": {
       "has_magenta_dye": "2025-08-19 02:21:33 +0000"
@@ -5508,6 +5593,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-19 02:33:23 +0000",
       "cooked_beef": "2025-08-19 01:19:41 +0000",
       "bread": "2025-08-19 01:51:10 +0000"
     },
@@ -5619,6 +5705,12 @@
   "techreborn:recipes/chemical_reactor/gray_stained_glass_pane_from_light_gray_stained_glass_pane_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-19 01:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
     },
     "done": true
   },
@@ -5763,6 +5855,12 @@
   "mcdw:recipes/soul_daggers/dagger_soul_knife": {
     "criteria": {
       "has_base": "2025-08-19 01:13:41 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/cannon_mount": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
     },
     "done": true
   },
@@ -6000,6 +6098,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/log_cannon_end": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/flint": {
     "criteria": {
       "has_item": "2025-08-19 01:23:15 +0000"
@@ -6090,6 +6194,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/log_cannon_chamber": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-08-19 02:06:30 +0000"
@@ -6147,6 +6257,12 @@
   "techreborn:recipes/chemical_reactor/cyan_wool_from_light_blue_wool_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-19 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
     },
     "done": true
   },
@@ -6438,6 +6554,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/wrought_iron_drop_mortar_end": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-19 02:30:54 +0000"
@@ -6567,6 +6689,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-19 01:06:01 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/machine_gun_round": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 02:34:24 +0000"
     },
     "done": true
   },
