@@ -12640,6 +12640,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/zinc_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-08-19 10:16:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/linear_chassis": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
