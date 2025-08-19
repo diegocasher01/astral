@@ -1983,6 +1983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-08-19 02:43:30 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/puny_smelting": {
     "criteria": {
       "has_item": "2025-08-19 01:26:21 +0000"
@@ -2289,6 +2295,12 @@
   "techreborn:recipes/chemical_reactor/lime_wool_from_yellow_wool_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-19 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2025-08-19 02:43:30 +0000"
     },
     "done": true
   },
@@ -3136,6 +3148,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-19 02:43:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/titanium_ingot": {
     "criteria": {
       "has_titanium_dust": "2025-08-19 01:00:42 +0000"
@@ -3926,6 +3944,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-08-19 02:43:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-08-19 02:14:00 +0000"
@@ -4007,6 +4031,12 @@
   "techreborn:recipes/chemical_reactor/light_blue_carpet_from_light_gray_concrete_powder_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-19 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/obsidian_plate_from_block": {
+    "criteria": {
+      "has_obsidian": "2025-08-19 02:43:30 +0000"
     },
     "done": true
   },
@@ -4313,7 +4343,8 @@
       "minecraft:vindicator": "2025-08-19 01:51:57 +0000",
       "minecraft:spider": "2025-08-19 02:05:24 +0000",
       "minecraft:creeper": "2025-08-19 02:34:21 +0000",
-      "minecraft:zombie": "2025-08-19 02:04:41 +0000"
+      "minecraft:zombie": "2025-08-19 02:04:41 +0000",
+      "minecraft:zombie_villager": "2025-08-19 02:42:54 +0000"
     },
     "done": false
   },
@@ -4590,6 +4621,12 @@
   "createdeco:recipes/createdeco.metals/copper_bars": {
     "criteria": {
       "has_item": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2025-08-19 02:43:30 +0000"
     },
     "done": true
   },
@@ -5465,6 +5502,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_obsidian": "2025-08-19 02:43:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-19 01:03:32 +0000"
@@ -5861,6 +5904,12 @@
   "createbigcannons:recipes/createbigcannons/cannon_mount": {
     "criteria": {
       "has_gunpowder": "2025-08-19 02:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-19 02:43:30 +0000"
     },
     "done": true
   },
