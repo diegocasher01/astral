@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_block_from_ingots": {
+    "criteria": {
+      "has_item": "2025-08-19 10:08:53 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/copper_hull": {
     "criteria": {
       "has_item": "2025-08-17 03:04:48 +0000"
@@ -1578,6 +1584,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-08-19 10:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
@@ -2511,6 +2523,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2025-08-19 10:09:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/blue_stained_glass_pane_from_cyan_stained_glass_pane_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-17 03:03:15 +0000"
@@ -3299,6 +3317,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2025-08-19 10:09:26 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/jungle_drawer": {
     "criteria": {
       "has_planks": "2025-08-16 21:58:03 +0000"
@@ -3702,6 +3726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-19 10:09:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/calcium_carbonate": {
     "criteria": {
       "has_carbon": "2025-08-16 21:56:14 +0000",
@@ -3941,6 +3971,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/tool/peridot_hoe": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-19 10:09:26 +0000"
     },
     "done": true
   },
@@ -7320,6 +7356,12 @@
   "create:recipes/create.palettes/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-08-18 09:06:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-08-19 10:08:53 +0000"
     },
     "done": true
   },
