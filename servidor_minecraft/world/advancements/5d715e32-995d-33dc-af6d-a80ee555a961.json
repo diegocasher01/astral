@@ -839,6 +839,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-08-19 09:41:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitro_diesel": {
     "criteria": {
       "has_diesel": "2025-08-16 21:56:14 +0000",
@@ -1910,6 +1916,12 @@
   "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-19 09:41:02 +0000"
     },
     "done": true
   },
@@ -3579,6 +3591,12 @@
   "techreborn:recipes/chemical_reactor/purple_candle_from_magenta_candle_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-19 09:41:02 +0000"
     },
     "done": true
   },
@@ -5643,7 +5661,8 @@
       "onion": "2025-08-19 09:02:52 +0000",
       "rice": "2025-08-17 04:24:53 +0000",
       "potato": "2025-08-19 03:28:56 +0000",
-      "wheat": "2025-08-19 00:24:18 +0000"
+      "wheat": "2025-08-19 00:24:18 +0000",
+      "carrot": "2025-08-19 09:41:05 +0000"
     },
     "done": false
   },
@@ -7370,6 +7389,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/decorations/ultimate_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-08-19 09:38:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-17 02:52:08 +0000"
@@ -8239,6 +8264,12 @@
     },
     "done": true
   },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2025-08-19 09:38:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/green_carpet_from_yellow_concrete_powder_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
@@ -8329,6 +8360,12 @@
   "create:recipes/create.palettes/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-08-19 09:41:02 +0000"
     },
     "done": true
   },
@@ -9081,6 +9118,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-08-17 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-19 09:41:02 +0000"
     },
     "done": true
   },
