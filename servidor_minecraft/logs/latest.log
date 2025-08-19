@@ -39,3 +39,23 @@
 [00:00:00] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder ae2:spatial_storage
 [00:00:00] [FTB Backups backup thread 0/WARN]: Did not find a region folder for level: /workspaces/astral/servidor_minecraft/./world/./DIM-1
 [00:00:03] [FTB Backups backup thread 0/INFO]: Backup preview created, Scan took 507ms, Capture took 2210ms
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world minecraft:overworld save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world createastral:moon_debris save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:venus_orbit save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:glacio_orbit save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:mercury_orbit save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:venus save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:mercury save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:mars_orbit save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:mars save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world minecraft:the_end save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:earth_orbit save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:moon_orbit save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world ae2:spatial_storage save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world minecraft:the_nether save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:glacio save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:moon_debris_orbit save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:moon save state to false
+[00:00:05] [FTB Backups backup thread 0/INFO]: Backup size 32.6MB World Size 47.9MB
+[00:00:05] [FTB Backups backup thread 0/INFO]: Writing to file /workspaces/astral/servidor_minecraft/backups/backups.json
+[00:00:05] [FTB Backups backup thread 0/INFO]: New backup created at /workspaces/astral/servidor_minecraft/backups/2025-8-19_0-0-0.zip size: 32.6MB Took: 0m, 5s, 109ms Sha1: 08c28065debeb39095c9cfe2e7aa14de76844b33
