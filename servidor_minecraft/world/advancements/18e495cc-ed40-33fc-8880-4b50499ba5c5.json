@@ -1020,6 +1020,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-08-19 05:26:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitro_diesel": {
     "criteria": {
       "has_diesel": "2025-08-19 01:00:42 +0000",
@@ -3181,6 +3187,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-08-19 02:18:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-08-19 05:26:26 +0000"
     },
     "done": true
   },
