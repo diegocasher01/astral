@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/chicken_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-08-16 21:58:53 +0000"
@@ -320,6 +326,12 @@
   "createdeco:recipes/createdeco.props/cyan_decal": {
     "criteria": {
       "has_item": "2025-08-17 03:52:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/standard_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -449,6 +461,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/sandstone_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_diamond_sword_var": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
@@ -548,6 +566,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-08-16 21:58:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/netherite_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -749,6 +773,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bee_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "campanion:recipes/tools/large_unbuilt_tent": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:16 +0000"
@@ -825,6 +855,12 @@
   "create:water_wheel": {
     "criteria": {
       "0": "2025-08-17 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/end_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -999,6 +1035,12 @@
   "techreborn:recipes/centrifuge/hydrogen_cell": {
     "criteria": {
       "has_hydrogen": "2025-08-16 21:56:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/diamond_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -1272,6 +1314,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/cow_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.props/light_blue_decal": {
     "criteria": {
       "has_item": "2025-08-17 03:52:30 +0000"
@@ -1317,6 +1365,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/armor/bronze_chestplate": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-08-17 03:28:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/bat_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -1416,9 +1470,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/snow_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-08-17 02:54:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/nether_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -1512,6 +1578,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/sheep_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/fusion_reactor/helium_plasma": {
     "criteria": {
       "has_helium3": "2025-08-16 21:56:14 +0000",
@@ -1540,6 +1612,12 @@
   "techreborn:root": {
     "criteria": {
       "raw_metal_in_inventory": "2025-08-17 02:56:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/bookshelf_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -1613,6 +1691,12 @@
   "mcdw:recipes/shields/shield_vanguard": {
     "criteria": {
       "has_planks": "2025-08-17 02:51:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/cactus_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -1745,6 +1829,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/squid_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-17 02:52:08 +0000"
@@ -1772,6 +1862,12 @@
   "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/dragon_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -1871,9 +1967,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/spider_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-17 02:52:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/iron_golem_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -2033,6 +2141,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/hay_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/dust/glowstone_dust_from_small": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -2175,6 +2289,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/creeper_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-08-18 08:23:18 +0000"
@@ -2202,6 +2322,12 @@
   "mcdw:recipes/daggers/dagger_the_beginning": {
     "criteria": {
       "has_gold_ingot": "2025-08-17 05:42:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/cake_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -2331,9 +2457,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/magma_cube_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cells/item_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/villager_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -2766,6 +2904,12 @@
   "create:recipes/create.base/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2025-08-17 04:31:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/coal_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -3662,6 +3806,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/skeleton_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/red_brick_tiles_slab_vert_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-17 04:21:14 +0000"
@@ -3749,6 +3899,12 @@
   "copycats:recipes/crafting/copycat_half_panel": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/enderman_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -3879,6 +4035,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/wolf_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_wool_from_magenta_wool_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
@@ -3894,6 +4056,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/tool/sapphire_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/redstone_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -4102,6 +4270,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/horse_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:16 +0000"
@@ -4111,6 +4285,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-08-16 21:57:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/end_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -4336,6 +4516,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/diamond_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/ocelot_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_carpet_from_magenta_concrete_powder_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
@@ -4417,6 +4609,12 @@
   "createbigcannons:recipes/createbigcannons/cannon_carriage": {
     "criteria": {
       "has_gunpowder": "2025-08-19 02:34:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/pig_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -4558,6 +4756,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/iron_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.props/orange_decal": {
     "criteria": {
       "has_item": "2025-08-17 03:52:30 +0000"
@@ -4609,6 +4813,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/wither_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -4825,6 +5035,12 @@
   "dustrial_decor:recipes/misc/sheet_metal": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/magma_cube_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -5074,6 +5290,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bookshelf_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/white_sofa": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:17 +0000"
@@ -5137,6 +5359,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-08-18 09:25:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/spider_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -5259,6 +5487,12 @@
   "create:backtank": {
     "criteria": {
       "0": "2025-08-19 05:59:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/creeper_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -5409,6 +5643,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-08-19 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/melon_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -5820,6 +6060,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/gold_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/oak_table": {
     "criteria": {
       "has_planks": "2025-08-17 02:51:32 +0000"
@@ -6072,6 +6318,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/sponge_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
@@ -6129,6 +6381,12 @@
   "create:recipes/create.base/crafting/kinetics/basin": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/skeleton_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -6330,6 +6588,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/wolf_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-08-16 21:57:38 +0000",
@@ -6400,6 +6664,12 @@
   "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_magenta_stained_glass_pane_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/emerald_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -6619,6 +6889,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/fox_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_byte": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
@@ -6673,6 +6949,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/redstone_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2025-08-17 03:33:40 +0000"
@@ -6688,6 +6970,12 @@
   "techreborn:recipes/chemical_reactor/purple_wool_from_blue_wool_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/pig_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -6862,6 +7150,12 @@
   "techreborn:recipes/crafting_table/parts/iridium_neutron_reflector": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/ocelot_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -7070,6 +7364,12 @@
       "iron": "2025-08-17 02:58:07 +0000"
     },
     "done": false
+  },
+  "travelersbackpack:recipes/travelersbackpack/dragon_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
   },
   "techreborn:recipes/chemical_reactor/sodium_persulfate": {
     "criteria": {
@@ -7301,6 +7601,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/quartz_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-18 07:44:11 +0000"
@@ -7427,6 +7733,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/pumpkin_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.props/purple_decal": {
     "criteria": {
       "has_item": "2025-08-17 03:52:30 +0000"
@@ -7466,6 +7778,12 @@
   "createdeco:recipes/createdeco.metals/iron_sheet_metal_from_iron_block_stonecutting": {
     "criteria": {
       "has_iron_block": "2025-08-17 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/wither_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -8013,6 +8331,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/ghast_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-08-18 09:06:37 +0000"
@@ -8139,6 +8463,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/enderman_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:16 +0000"
@@ -8154,6 +8484,12 @@
   "techreborn:recipes/centrifuge/helium_cell": {
     "criteria": {
       "has_helium": "2025-08-16 21:56:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/blaze_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -8253,6 +8589,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/gold_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/lantern": {
     "criteria": {
       "has_item": "2025-08-17 04:29:48 +0000"
@@ -8314,6 +8656,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/iron_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-08-17 03:04:48 +0000"
@@ -8371,6 +8719,12 @@
   "techreborn:recipes/grinder/coal_dust": {
     "criteria": {
       "has_coal": "2025-08-16 21:57:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/lapis_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -8458,6 +8812,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/melon_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-08-18 22:50:35 +0000"
@@ -8479,6 +8839,12 @@
   "techreborn:recipes/chemical_reactor/blue_candle_from_candle_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/standard_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -8699,6 +9065,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/lapis_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
     "criteria": {
       "has_nitrogen": "2025-08-16 21:56:14 +0000"
@@ -8786,6 +9158,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/raw_lead_blocks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/bat_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -9029,6 +9407,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/emerald_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-08-16 21:57:41 +0000"
@@ -9110,6 +9494,12 @@
   "techreborn:recipes/chemical_reactor/blue_carpet_from_light_blue_carpet_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/sponge_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -9200,6 +9590,12 @@
   "extended_drawers:recipes/extended_drawers.main/quad_drawer": {
     "criteria": {
       "has_single_drawer": "2025-08-17 03:08:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/blaze_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -9521,6 +9917,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/snow_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
@@ -9575,9 +9977,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/netherite_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-08-18 21:55:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/nether_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -9842,6 +10256,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bee_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/andesite_hull": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
@@ -10001,6 +10421,12 @@
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/chicken_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -10187,6 +10613,12 @@
   "techreborn:recipes/extractor/rubber_from_slime_ball": {
     "criteria": {
       "has_slime_ball": "2025-08-17 05:40:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/cow_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -10574,6 +11006,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/fox_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-08-16 21:58:53 +0000"
@@ -10583,6 +11021,12 @@
   "techreborn:recipes/chemical_reactor/pink_stained_glass_pane_from_white_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/horse_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -10607,6 +11051,12 @@
   "computercraft:recipes/computercraft/computer_normal": {
     "criteria": {
       "has_redstone": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/pumpkin_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -10658,15 +11108,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/quartz_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/make_part": {
     "criteria": {
       "crafted_part": "2025-08-17 02:52:30 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/cactus_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/tinker_station": {
     "criteria": {
       "has_item": "2025-08-17 02:51:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/hay_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -10679,6 +11147,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-17 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/squid_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -10850,6 +11324,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/iron_golem_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-17 02:54:15 +0000"
@@ -10958,6 +11438,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/coal_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/copper_platform": {
     "criteria": {
       "has_bars": "2025-08-17 03:04:48 +0000"
@@ -11048,6 +11534,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/ghast_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-18 08:49:48 +0000"
@@ -11105,6 +11597,12 @@
   "techreborn:recipes/wire_mill/copper_cable": {
     "criteria": {
       "has_copper_ingot": "2025-08-17 03:04:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/sandstone_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
@@ -11246,6 +11744,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/villager_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/gold_sheet_metal_from_gold_block_stonecutting": {
     "criteria": {
       "has_gold_block": "2025-08-17 05:42:31 +0000"
@@ -11297,6 +11801,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/cake_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
     },
     "done": true
   },
@@ -11464,6 +11974,12 @@
   "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel_alt": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/sheep_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
     },
     "done": true
   },
