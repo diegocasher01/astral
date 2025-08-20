@@ -7978,6 +7978,12 @@
     },
     "done": true
   },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-08-20 00:54:00 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/black_lamp": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:17 +0000"

@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-20 00:56:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_candle_from_light_gray_candle_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-19 02:21:30 +0000"
@@ -1191,6 +1197,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/tin_blocks_slab": {
     "criteria": {
       "has_tag_c_tin_blocks": "2025-08-19 05:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-20 00:56:08 +0000"
     },
     "done": true
   },
@@ -6301,6 +6313,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-20 00:56:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-19 01:23:15 +0000"
@@ -6670,6 +6688,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-19 01:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-20 00:56:08 +0000"
     },
     "done": true
   },
@@ -9111,7 +9135,8 @@
       "cooked_mutton": "2025-08-19 02:51:37 +0000",
       "cooked_beef": "2025-08-19 01:19:41 +0000",
       "bread": "2025-08-19 01:51:10 +0000",
-      "melon_slice": "2025-08-20 00:37:53 +0000"
+      "melon_slice": "2025-08-20 00:37:53 +0000",
+      "cooked_chicken": "2025-08-20 00:57:52 +0000"
     },
     "done": false
   },
