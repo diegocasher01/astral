@@ -4439,6 +4439,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/rubber_from_log": {
+    "criteria": {
+      "has_rubber_log": "2025-08-20 05:22:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
     "criteria": {
       "has_experience_bottle": "2025-08-19 02:58:31 +0000"
@@ -4624,6 +4630,12 @@
       "has_the_recipe": "2025-08-19 05:57:55 +0000"
     },
     "done": true
+  },
+  "tconstruct:smeltery/abilities": {
+    "criteria": {
+      "tool_belt": "2025-08-20 05:19:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -6450,6 +6462,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/decorations/ultimate_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-08-20 05:24:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-19 01:03:32 +0000"
@@ -6784,6 +6802,12 @@
   "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/rubber_logs": {
+    "criteria": {
+      "has_rubber_logs": "2025-08-20 05:22:37 +0000"
     },
     "done": true
   },
@@ -7192,6 +7216,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-19 01:20:24 +0000"
+    },
+    "done": true
+  },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2025-08-20 05:24:31 +0000"
     },
     "done": true
   },
@@ -9396,6 +9426,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/red_garnet_blocks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/stick_from_armor_stand": {
+    "criteria": {
+      "has_armor_stand": "2025-08-20 05:19:37 +0000"
     },
     "done": true
   },

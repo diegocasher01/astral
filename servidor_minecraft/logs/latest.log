@@ -7899,3 +7899,6 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [05:11:51] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5dfce0c7 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [05:11:51] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7a114e27 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [05:13:30] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[05:20:06] [Server thread/ERROR]: Caught unhandled exception : [INSTANCE] java.lang.ClassCastException: class com.simibubi.create.content.equipment.armor.BacktankBlockEntity cannot be cast to class com.simibubi.create.content.processing.burner.BlazeBurnerBlockEntity (com.simibubi.create.content.equipment.armor.BacktankBlockEntity and com.simibubi.create.content.processing.burner.BlazeBurnerBlockEntity are in unnamed module of loader net.fabricmc.loader.impl.launch.knot.KnotClassLoader @100fc185)
+[05:20:06] [Server thread/ERROR]: See JadeErrorOutput.txt for more information
+[05:24:31] [Server thread/INFO]: Lumi_uwu has made the advancement [Don't forget to recycle]
