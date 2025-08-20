@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/ender_pearl_dust": {
     "criteria": {
       "has_ender_pearl": "2025-08-20 00:47:53 +0000"
@@ -284,6 +290,12 @@
   "tconstruct:recipes/tconstruct/general/tables/crafting_station_from_logs": {
     "criteria": {
       "has_item": "2025-08-17 02:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
     },
     "done": true
   },
@@ -2859,6 +2871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-08-16 21:57:17 +0000"
@@ -3006,6 +3024,12 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-17 04:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
     },
     "done": true
   },
@@ -3861,6 +3885,12 @@
   "techreborn:recipes/crafting_table/misc_block/rubber_plank_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
     },
     "done": true
   },
@@ -4852,6 +4882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_terracotta_from_terracotta_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
@@ -4933,6 +4969,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-08-18 07:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
     },
     "done": true
   },
@@ -5194,6 +5236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-08-16 21:57:21 +0000"
@@ -5215,6 +5263,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/table": {
     "criteria": {
       "has_item": "2025-08-17 04:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
     },
     "done": true
   },
@@ -6180,6 +6234,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-08-20 04:18:54 +0000",
       "onion": "2025-08-19 09:02:52 +0000",
       "tomato": "2025-08-19 23:14:47 +0000",
       "rice": "2025-08-17 04:24:53 +0000",
@@ -8467,6 +8522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/string_from_wool": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:16 +0000"
@@ -9000,6 +9061,12 @@
   "create:recipes/create.palettes/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
     },
     "done": true
   },
@@ -10655,6 +10722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
+    },
+    "done": true
+  },
   "dustrial_decor:recipes/building_blocks/padded_block": {
     "criteria": {
       "has_white_wool": "2025-08-16 21:57:17 +0000"
@@ -11000,6 +11073,12 @@
   "travelersbackpack:recipes/travelersbackpack/blaze_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
     },
     "done": true
   },
@@ -12392,6 +12471,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/fusion_reactor/iridium_ore": {
     "criteria": {
       "has_lithium": "2025-08-16 21:56:14 +0000",
@@ -12576,6 +12661,12 @@
   "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-20 04:24:08 +0000"
     },
     "done": true
   },
@@ -13197,6 +13288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-18 08:49:48 +0000"
@@ -13236,6 +13333,12 @@
   "techreborn:recipes/industrial_grinder/gold_ingot_with_mercury": {
     "criteria": {
       "has_gold_ingot": "2025-08-17 05:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-20 04:21:12 +0000"
     },
     "done": true
   },
@@ -13763,6 +13866,12 @@
   "ae2:recipes/ae2.main/network/cables/dense_smart_blue": {
     "criteria": {
       "has_dyes/black": "2025-08-19 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-08-20 04:25:33 +0000"
     },
     "done": true
   },
