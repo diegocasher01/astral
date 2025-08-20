@@ -828,6 +828,12 @@
     },
     "done": true
   },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-08-20 00:23:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
     "criteria": {
       "has_calcium_carbonate": "2025-08-19 01:00:42 +0000"
@@ -2147,6 +2153,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-08-20 00:23:40 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_boneclub": {
     "criteria": {
       "has_bone": "2025-08-19 01:39:23 +0000"
@@ -3325,6 +3337,12 @@
   "techreborn:recipes/chemical_reactor/purple_wool_from_magenta_wool_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-20 00:01:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2025-08-20 00:23:40 +0000"
     },
     "done": true
   },
@@ -4725,6 +4743,12 @@
   "mcdw:recipes/shields/shield_tower_guard": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/decorations/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-08-20 00:23:33 +0000"
     },
     "done": true
   },
@@ -7257,6 +7281,12 @@
   "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-19 01:20:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-08-20 00:23:40 +0000"
     },
     "done": true
   },
@@ -9915,6 +9945,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/bronze_blocks_wall": {
     "criteria": {
       "has_tag_c_bronze_blocks": "2025-08-20 00:11:13 +0000"
+    },
+    "done": true
+  },
+  "packages:recipes/unlock_package_maker": {
+    "criteria": {
+      "has_stuff": "2025-08-20 00:23:33 +0000"
     },
     "done": true
   },

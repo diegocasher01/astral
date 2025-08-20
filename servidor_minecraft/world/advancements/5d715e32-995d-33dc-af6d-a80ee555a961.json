@@ -8200,6 +8200,12 @@
     },
     "done": true
   },
+  "vinery:coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-08-20 00:33:03 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_vertical_stairs": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
