@@ -3009,6 +3009,12 @@
     },
     "done": true
   },
+  "create:train": {
+    "criteria": {
+      "0": "2025-08-20 01:12:49 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_stormlander": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
@@ -3560,6 +3566,12 @@
   "techreborn:recipes/chemical_reactor/purple_carpet_from_blue_carpet_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-08-20 01:12:40 +0000"
     },
     "done": true
   },
@@ -5953,6 +5965,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-18 08:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-20 03:08:15 +0000"
     },
     "done": true
   },
