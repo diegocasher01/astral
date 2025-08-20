@@ -3226,6 +3226,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-08-20 00:21:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/gray_candle_from_light_gray_candle_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-19 01:06:39 +0000"
@@ -3663,6 +3669,12 @@
   "dustrial_decor:recipes/redstone/industrial_iron_door": {
     "criteria": {
       "has_industrial_billet": "2025-08-19 05:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-08-20 00:21:12 +0000"
     },
     "done": true
   },
@@ -8829,6 +8841,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-08-20 00:21:12 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_backstabber": {
     "criteria": {
       "has_obsidian": "2025-08-19 02:43:30 +0000"
@@ -9202,6 +9220,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/hot_tungstensteel_blocks_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-08-20 00:21:12 +0000"
     },
     "done": true
   },

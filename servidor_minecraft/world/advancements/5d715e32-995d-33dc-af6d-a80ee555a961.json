@@ -4359,6 +4359,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-08-20 00:20:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/gray_candle_from_light_gray_candle_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-17 03:03:15 +0000"
@@ -4945,6 +4951,12 @@
   "dustrial_decor:recipes/redstone/industrial_iron_door": {
     "criteria": {
       "has_industrial_billet": "2025-08-19 00:37:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-08-20 00:20:59 +0000"
     },
     "done": true
   },
@@ -10990,6 +11002,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-08-20 00:15:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-18 08:53:39 +0000"
@@ -11089,6 +11107,12 @@
   "createbigcannons:recipes/createbigcannons/wrought_iron_cannon_end": {
     "criteria": {
       "has_gunpowder": "2025-08-19 02:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-08-20 00:20:57 +0000"
     },
     "done": true
   },
@@ -12056,6 +12080,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-08-20 00:20:59 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_backstabber": {
     "criteria": {
       "has_gold_nugget": "2025-08-16 21:58:37 +0000"
@@ -12605,6 +12635,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/hot_tungstensteel_blocks_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-08-20 00:20:59 +0000"
     },
     "done": true
   },
