@@ -122,3 +122,28 @@
 [00:44:52] [Server thread/INFO]: Grave spawned at: 224, 69, -10 | overworld
 [00:44:53] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3dbf77df (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [00:44:53] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5703ea62 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:45:06] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:45:12] [Server thread/INFO]: Grave at 224, 69, -10 was replaced with Block{minecraft:air}
+[00:45:12] [Server thread/INFO]: Lumi_uwu is retrieving their grave at 224, 69, -10
+[00:45:12] [Server thread/INFO]: Lumi_uwu retrieved the items from the grave
+[00:45:21] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:45:32] [Server thread/INFO]: Lumi_uwu was shot by Skeleton
+[00:45:32] [Server thread/INFO]: Grave spawned at: 237, 79, 2 | overworld
+[00:45:33] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3dbf77df (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:45:33] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5703ea62 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:45:36] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:45:37] [Server thread/INFO]: Grave at 237, 79, 2 was replaced with Block{minecraft:air}
+[00:45:37] [Server thread/INFO]: Lumi_uwu is retrieving their grave at 237, 79, 2
+[00:45:37] [Server thread/INFO]: Lumi_uwu retrieved the items from the grave
+[00:45:50] [Server thread/INFO]: Lumi_uwu fell from a high place
+[00:45:50] [Server thread/INFO]: Grave spawned at: 239, 69, 1 | overworld
+[00:45:51] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3dbf77df (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:45:51] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5703ea62 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:45:52] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:45:54] [Server thread/INFO]: Grave at 239, 69, 1 was replaced with Block{minecraft:grass}
+[00:45:54] [Server thread/INFO]: Lumi_uwu is retrieving their grave at 239, 69, 1
+[00:45:54] [Server thread/INFO]: Lumi_uwu retrieved the items from the grave
+[00:48:03] [Server thread/INFO]: Saving grave backup data
+[00:49:14] [Server thread/INFO]: Octlopez04 has made the advancement [The Logistical Age]
+[00:49:39] [Server thread/INFO]: Lumi_uwu has made the advancement [The Logistical Age]
+[00:54:00] [Server thread/INFO]: Octlopez04 has made the advancement [A New Gauge]

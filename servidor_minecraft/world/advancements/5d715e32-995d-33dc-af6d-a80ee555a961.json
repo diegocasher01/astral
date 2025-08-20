@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/ender_pearl_dust": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-20 00:47:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-08-16 21:58:53 +0000"
@@ -461,6 +467,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/phosphorous_small_dust_from_dust": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -578,6 +590,12 @@
   "createdeco:recipes/createdeco.metals/copper_hull": {
     "criteria": {
       "has_item": "2025-08-17 03:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:20 +0000"
     },
     "done": true
   },
@@ -1008,6 +1026,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/zinc_blocks_stairs": {
+    "criteria": {
+      "has_tag_c_zinc_blocks": "2025-08-20 00:51:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/bronze_blocks_slab_stonecutter": {
     "criteria": {
       "has_tag_c_bronze_blocks": "2025-08-18 08:02:16 +0000"
@@ -1326,6 +1350,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/green_stained_glass_from_lime_stained_glass_with_green_dye": {
     "criteria": {
       "has_green_dye": "2025-08-19 08:48:59 +0000"
@@ -1401,6 +1431,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-08-17 02:54:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:20 +0000"
     },
     "done": true
   },
@@ -3351,6 +3387,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/track_coupler": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-17 03:10:05 +0000"
@@ -3552,6 +3594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-08-20 00:50:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-16 21:57:33 +0000"
@@ -3645,6 +3693,12 @@
   "mcdw:recipes/daggers/dagger_moon": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/zinc_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_zinc_blocks": "2025-08-20 00:51:10 +0000"
     },
     "done": true
   },
@@ -4963,6 +5017,12 @@
   "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/zinc_blocks_wall": {
+    "criteria": {
+      "has_tag_c_zinc_blocks": "2025-08-20 00:51:10 +0000"
     },
     "done": true
   },
@@ -6837,6 +6897,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_campfire_cooking": {
     "criteria": {
       "cooked_mutton_chops": "2025-08-16 21:57:49 +0000"
@@ -7014,6 +7080,12 @@
   "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
     "criteria": {
       "has_furnace": "2025-08-17 03:03:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/zinc_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_zinc_blocks": "2025-08-20 00:51:10 +0000"
     },
     "done": true
   },
@@ -7395,6 +7467,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-20 00:47:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-08-16 21:57:17 +0000"
@@ -7519,6 +7597,12 @@
   "campanion:recipes/food/cracker": {
     "criteria": {
       "has_wheat": "2025-08-16 21:57:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:20 +0000"
     },
     "done": true
   },
@@ -9855,6 +9939,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/zinc_sheet_metal_from_zinc_block_stonecutting": {
+    "criteria": {
+      "has_zinc_block": "2025-08-20 00:51:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/raw_raw_lead_storage_block": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -10441,6 +10531,12 @@
   "techreborn:recipes/chemical_reactor/red_terracotta_from_orange_terracotta_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/zinc_blocks_slab": {
+    "criteria": {
+      "has_tag_c_zinc_blocks": "2025-08-20 00:51:10 +0000"
     },
     "done": true
   },
@@ -12098,6 +12194,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/zinc_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_zinc_blocks": "2025-08-20 00:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-17 02:52:08 +0000"
@@ -12179,6 +12281,12 @@
   "another_furniture:recipes/another_furniture/brown_curtain": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/zinc_dust_from_block": {
+    "criteria": {
+      "has_tag_c_zinc_blocks": "2025-08-20 00:51:10 +0000"
     },
     "done": true
   },
@@ -12458,6 +12566,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-08-20 00:51:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/pink_stained_glass_pane_from_white_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
@@ -12572,6 +12686,12 @@
     },
     "done": true
   },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2025-08-20 00:49:14 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/cactus_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
@@ -12647,6 +12767,12 @@
   "create:recipes/create.base/crafting/kinetics/spout": {
     "criteria": {
       "has_item": "2025-08-20 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:20 +0000"
     },
     "done": true
   },
@@ -13540,6 +13666,12 @@
   "techreborn:recipes/grinder/zinc_dust": {
     "criteria": {
       "has_tag_c_zinc_ingots": "2025-08-17 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/zinc_plate_from_block": {
+    "criteria": {
+      "has_tag_c_zinc_blocks": "2025-08-20 00:51:10 +0000"
     },
     "done": true
   },

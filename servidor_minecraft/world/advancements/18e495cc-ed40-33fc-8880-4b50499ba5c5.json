@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/phosphorous_small_dust_from_dust": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:55 +0000"
@@ -416,6 +422,12 @@
   "createdeco:recipes/createdeco.metals/copper_hull": {
     "criteria": {
       "has_item": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:57 +0000"
     },
     "done": true
   },
@@ -996,6 +1008,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_gold_cable": {
     "criteria": {
       "has_rubber": "2025-08-19 01:29:33 +0000"
@@ -1047,6 +1065,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-08-19 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:57 +0000"
     },
     "done": true
   },
@@ -2453,6 +2477,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/track_coupler": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-19 01:07:44 +0000"
@@ -3048,6 +3078,12 @@
   "extended_drawers:recipes/extended_drawers.main/double_drawer": {
     "criteria": {
       "has_single_drawer": "2025-08-19 01:33:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_bowl": {
+    "criteria": {
+      "has_bowl": "2025-08-20 00:47:39 +0000"
     },
     "done": true
   },
@@ -5034,6 +5070,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_campfire_cooking": {
     "criteria": {
       "cooked_mutton_chops": "2025-08-19 01:57:58 +0000"
@@ -5575,6 +5617,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
     "criteria": {
       "has_plantball": "2025-08-19 01:00:42 +0000"
@@ -5968,6 +6016,12 @@
   "techreborn:recipes/crafting_table/parts/iridium_neutron_reflector": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-20 00:47:39 +0000"
     },
     "done": true
   },
@@ -6887,6 +6941,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-20 00:47:39 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/sickles/sickle_nightmares_bite": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
@@ -7000,6 +7060,12 @@
       "has_blue_dye": "2025-08-20 00:01:47 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "fried_rice": "2025-08-20 00:47:39 +0000"
+    },
+    "done": false
   },
   "ae2:recipes/ae2.main/network/cables/glass_blue": {
     "criteria": {
@@ -7407,6 +7473,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-08-19 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-08-20 00:47:39 +0000"
     },
     "done": true
   },
@@ -8997,6 +9069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-08-20 00:47:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2025-08-19 01:23:16 +0000"
@@ -9260,6 +9338,12 @@
     },
     "done": true
   },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2025-08-20 00:49:39 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/tinker_station": {
     "criteria": {
       "has_item": "2025-08-19 01:03:01 +0000"
@@ -9299,6 +9383,12 @@
   "create:recipes/create.base/crafting/kinetics/spout": {
     "criteria": {
       "has_item": "2025-08-20 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2025-08-20 00:49:57 +0000"
     },
     "done": true
   },
