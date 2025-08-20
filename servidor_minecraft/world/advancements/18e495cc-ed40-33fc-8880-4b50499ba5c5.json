@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/scorched_anvil": {
+    "criteria": {
+      "has_item": "2025-08-20 00:09:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/endstone_small_dust_from_dust": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:55 +0000"
@@ -735,6 +741,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/invar_blocks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/bronze_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_bronze_blocks": "2025-08-20 00:11:13 +0000"
     },
     "done": true
   },
@@ -1775,6 +1787,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_basin": "2025-08-20 00:06:16 +0000"
+    },
+    "done": false
+  },
   "create:root": {
     "criteria": {
       "0": "2025-08-19 01:00:42 +0000"
@@ -2810,6 +2828,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/bronze_blocks_slab": {
+    "criteria": {
+      "has_tag_c_bronze_blocks": "2025-08-20 00:11:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-08-19 01:13:28 +0000"
@@ -2885,6 +2909,12 @@
   "createdeco:recipes/createdeco.metals/andesite_mesh_fence": {
     "criteria": {
       "has_item": "2025-08-19 01:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-20 00:12:46 +0000"
     },
     "done": true
   },
@@ -3079,6 +3109,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/tool/peridot_hoe": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-20 00:12:46 +0000"
     },
     "done": true
   },
@@ -3344,6 +3380,12 @@
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-08-19 02:03:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/bronze_dust_from_block": {
+    "criteria": {
+      "has_tag_c_bronze_blocks": "2025-08-20 00:11:13 +0000"
     },
     "done": true
   },
@@ -4428,6 +4470,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/bronze_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_bronze_blocks": "2025-08-20 00:11:13 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/railways/crafting/track_switch_andesite": {
     "criteria": {
       "has_item": "2025-08-19 01:15:34 +0000"
@@ -5055,6 +5103,12 @@
   "mcdw:recipes/axes/axe_encrusted_anchor": {
     "criteria": {
       "has_gold_block": "2025-08-19 01:30:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_anvil": {
+    "criteria": {
+      "has_item": "2025-08-20 00:09:48 +0000"
     },
     "done": true
   },
@@ -8005,6 +8059,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-08-20 00:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-19 02:30:55 +0000"
@@ -8158,6 +8218,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-19 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/bronze_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_bronze_blocks": "2025-08-20 00:11:13 +0000"
     },
     "done": true
   },
@@ -8799,6 +8865,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/scorched_forge": {
+    "criteria": {
+      "has_item": "2025-08-20 00:09:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2025-08-19 01:13:29 +0000"
@@ -8847,6 +8919,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_forge": {
+    "criteria": {
+      "has_item": "2025-08-20 00:09:48 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_power_bow": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
@@ -8890,6 +8968,12 @@
   "techreborn:recipes/crafting_table/machine/semi_fluid_generator": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/bronze_blocks_stairs": {
+    "criteria": {
+      "has_tag_c_bronze_blocks": "2025-08-20 00:11:13 +0000"
     },
     "done": true
   },
@@ -9130,6 +9214,12 @@
   "mcdw:recipes/crossbows/crossbow_rapid": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/bronze_plate_from_block": {
+    "criteria": {
+      "has_tag_c_bronze_blocks": "2025-08-20 00:11:13 +0000"
     },
     "done": true
   },
@@ -9795,6 +9885,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-08-19 02:30:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/bronze_blocks_wall": {
+    "criteria": {
+      "has_tag_c_bronze_blocks": "2025-08-20 00:11:13 +0000"
     },
     "done": true
   },
