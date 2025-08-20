@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-20 00:37:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-19 01:28:02 +0000"
@@ -3087,6 +3093,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/glistering_melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-20 00:37:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-08-19 01:07:44 +0000"
@@ -3096,6 +3108,12 @@
   "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-08-20 00:37:50 +0000"
     },
     "done": true
   },
@@ -4824,6 +4842,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-08-20 00:36:23 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials_and_you": {
     "criteria": {
       "has_item": "2025-08-19 01:03:01 +0000"
@@ -5527,6 +5551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-20 00:37:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-08-19 01:13:28 +0000"
@@ -6106,6 +6136,12 @@
   "mcdw:recipes/sickles/sickle_frost_scythe": {
     "criteria": {
       "has_stick": "2025-08-19 01:28:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-20 00:37:50 +0000"
     },
     "done": true
   },
@@ -7443,6 +7479,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-08-19 01:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-20 00:37:50 +0000"
     },
     "done": true
   },
@@ -8990,7 +9032,8 @@
       "cooked_porkchop": "2025-08-19 02:33:23 +0000",
       "cooked_mutton": "2025-08-19 02:51:37 +0000",
       "cooked_beef": "2025-08-19 01:19:41 +0000",
-      "bread": "2025-08-19 01:51:10 +0000"
+      "bread": "2025-08-19 01:51:10 +0000",
+      "melon_slice": "2025-08-20 00:37:53 +0000"
     },
     "done": false
   },
@@ -9718,6 +9761,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/yellow_garnet_blocks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-20 00:37:50 +0000"
     },
     "done": true
   },

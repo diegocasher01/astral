@@ -71,3 +71,54 @@
 [00:33:17] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
 [00:33:17] [Server thread/INFO]: Octlopez04 left the game
 [00:33:48] [Server thread/WARN]: Lumi_uwu moved wrongly!
+[00:35:15] [Server thread/INFO]: Lumi_uwu was slain by Vindicator
+[00:35:15] [Server thread/INFO]: Grave spawned at: 136, 65, 24 | overworld
+[00:35:16] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3dbf77df (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:35:16] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5703ea62 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:35:27] [Server thread/INFO]: Grave at 136, 65, 24 was replaced with Block{minecraft:fern}
+[00:35:27] [Server thread/INFO]: Lumi_uwu is retrieving their grave at 136, 65, 24
+[00:35:27] [Server thread/INFO]: Lumi_uwu retrieved the items from the grave
+[00:35:29] [Server thread/INFO]: Villager class_1646['Armorer'/84, l='ServerLevel[world]', x=131.70, y=68.88, z=30.69] died, message: 'Armorer was slain by Vindicator'
+[00:35:32] [Server thread/INFO]: Villager class_1646['Unemployed'/57, l='ServerLevel[world]', x=131.70, y=68.88, z=29.35] died, message: 'Unemployed was slain by Vindicator'
+[00:35:34] [Server thread/INFO]: Villager class_1646['Unemployed'/68, l='ServerLevel[world]', x=129.30, y=68.00, z=32.51] died, message: 'Unemployed was slain by Vindicator'
+[00:36:23] [Server thread/INFO]: Lumi_uwu has made the advancement [Ol' Betsy]
+[00:37:10] [Server thread/INFO]: Villager class_1646['Mason'/70, l='ServerLevel[world]', x=112.30, y=68.42, z=16.30] died, message: 'Mason was slain by Ravager'
+[00:38:03] [Server thread/INFO]: Saving grave backup data
+[00:39:59] [Server thread/INFO]: Lumi_uwu was slain by Ravager
+[00:39:59] [Server thread/INFO]: Grave spawned at: 156, 51, 37 | overworld
+[00:40:01] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3dbf77df (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:40:01] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5703ea62 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:40:16] [Server thread/INFO]: Grave at 156, 51, 37 was replaced with Block{minecraft:air}
+[00:40:16] [Server thread/INFO]: Lumi_uwu is retrieving their grave at 156, 51, 37
+[00:40:16] [Server thread/INFO]: Lumi_uwu retrieved the items from the grave
+[00:40:25] [Server thread/INFO]: Lumi_uwu was slain by Ravager
+[00:40:25] [Server thread/INFO]: Grave spawned at: 156, 51, 36 | overworld
+[00:40:26] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3dbf77df (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:40:26] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5703ea62 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:41:01] [Server thread/INFO]: Lumi_uwu was slain by Ravager
+[00:41:01] [Server thread/INFO]: Grave spawned at: 154, 57, 42 | overworld
+[00:41:01] [Server thread/INFO]: Octlopez04[/100.105.105.97:52898] logged in with entity id 25819 at (109.35851134875273, 65.0, 61.22762211893353)
+[00:41:01] [Server thread/INFO]: Syncing config to Octlopez04 (5d715e32-995d-33dc-af6d-a80ee555a961)
+[00:41:01] [Server thread/INFO]: Loading config from file...
+[00:41:01] [Netty Epoll Server IO #6/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[00:41:01] [Server thread/INFO]: Octlopez04 joined the game
+[00:41:02] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3dbf77df (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:41:02] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5703ea62 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:41:02] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Octlopez04 -> Global
+[00:41:02] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Octlopez04. Normal: GRAVE / Robbing: INVENTORY
+[00:41:02] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3dbf77df (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:41:02] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5703ea62 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:41:02] [Netty Epoll Server IO #6/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[00:41:02] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3dbf77df (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:41:02] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5703ea62 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:41:40] [Server thread/INFO]: Grave at 156, 51, 36 was replaced with Block{minecraft:air}
+[00:41:40] [Server thread/INFO]: Lumi_uwu is retrieving their grave at 156, 51, 36
+[00:41:40] [Server thread/INFO]: Lumi_uwu retrieved the items from the grave
+[00:41:50] [Server thread/INFO]: Grave at 154, 57, 42 was replaced with Block{minecraft:air}
+[00:41:50] [Server thread/INFO]: Lumi_uwu is retrieving their grave at 154, 57, 42
+[00:41:50] [Server thread/INFO]: Lumi_uwu retrieved the items from the grave
+[00:43:03] [Server thread/INFO]: Saving grave backup data
+[00:44:52] [Server thread/INFO]: Lumi_uwu was shot by Skeleton
+[00:44:52] [Server thread/INFO]: Grave spawned at: 224, 69, -10 | overworld
+[00:44:53] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3dbf77df (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:44:53] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5703ea62 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!

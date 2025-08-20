@@ -161,15 +161,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-19 22:37:04 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/createdeco.props/black_placard": {
     "criteria": {
       "has_dye": "2025-08-19 22:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-19 22:37:04 +0000"
     },
     "done": true
   },
