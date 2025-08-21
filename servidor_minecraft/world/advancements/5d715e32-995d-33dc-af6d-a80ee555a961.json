@@ -569,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-21 07:47:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/cyan_carpet_from_white_concrete_powder_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-21 03:18:35 +0000"
@@ -1629,6 +1635,12 @@
   "create:recipes/create.palettes/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-19 23:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-21 07:47:12 +0000"
     },
     "done": true
   },
@@ -4405,6 +4417,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/carrot_from_crate": {
+    "criteria": {
+      "has_carrot_crate": "2025-08-21 07:44:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_terracotta_from_white_terracotta_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
@@ -6521,6 +6539,7 @@
       "onion": "2025-08-19 09:02:52 +0000",
       "tomato": "2025-08-19 23:14:47 +0000",
       "rice": "2025-08-17 04:24:53 +0000",
+      "kelp": "2025-08-21 07:52:36 +0000",
       "beetroot": "2025-08-20 03:14:48 +0000",
       "potato": "2025-08-19 03:28:56 +0000",
       "wheat": "2025-08-19 00:24:18 +0000",
@@ -7635,6 +7654,12 @@
   "create:mechanical_pump_0": {
     "criteria": {
       "0": "2025-08-20 05:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-21 07:47:12 +0000"
     },
     "done": true
   },
@@ -10532,6 +10557,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/kelp": {
+    "criteria": {
+      "has_kelp": "2025-08-21 07:47:12 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/white_tall_stool": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:17 +0000"
@@ -13014,6 +13045,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-08-21 07:43:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_terracotta_from_pink_terracotta_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
@@ -13894,6 +13931,12 @@
   "techreborn:recipes/grinder/glowstone_small_dust_from_glow_berries": {
     "criteria": {
       "has_glow_berries": "2025-08-21 03:18:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
+    "criteria": {
+      "has_kelp": "2025-08-21 07:47:12 +0000"
     },
     "done": true
   },

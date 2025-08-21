@@ -7952,3 +7952,5 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [07:02:10] [Server thread/INFO]: Octlopez04 has made the advancement [Compactification]
 [07:34:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=349, y=63, z=39} class_2338{x=351, y=63, z=39}
 [07:34:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=350, y=64, z=39} class_2338{x=349, y=62, z=39}
+[07:47:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=318, y=58, z=421} class_2338{x=318, y=56, z=422}
+[07:47:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=318, y=57, z=421} class_2338{x=318, y=56, z=422}
