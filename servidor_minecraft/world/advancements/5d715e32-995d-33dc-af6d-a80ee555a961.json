@@ -5333,6 +5333,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/straw": {
+    "criteria": {
+      "has_straw_bale": "2025-08-21 07:40:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/black_carpet_from_white_carpet_with_black_dye": {
     "criteria": {
       "has_black_dye": "2025-08-19 22:34:38 +0000"
@@ -9028,6 +9034,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice_from_bag": {
+    "criteria": {
+      "has_rice_bag": "2025-08-21 07:38:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-08-18 08:29:47 +0000"
@@ -10090,6 +10102,12 @@
   "create:recipes/create.palettes/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-21 07:04:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-08-21 07:37:33 +0000"
     },
     "done": true
   },
@@ -12177,6 +12195,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-08-21 07:39:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/tin_cable": {
     "criteria": {
       "has_tin_ingot": "2025-08-17 03:11:02 +0000"
@@ -14260,6 +14284,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/yellow_garnet_blocks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-08-21 07:39:25 +0000"
     },
     "done": true
   },
