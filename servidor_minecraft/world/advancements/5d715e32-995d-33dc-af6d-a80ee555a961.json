@@ -2060,6 +2060,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2025-08-21 08:11:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/skillet": {
     "criteria": {
       "has_brick": "2025-08-17 04:10:10 +0000"
@@ -2880,6 +2886,12 @@
   "techreborn:recipes/crafting_table/tool/basic_jackhammer": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-08-21 08:11:24 +0000"
     },
     "done": true
   },
@@ -4997,6 +5009,12 @@
     },
     "done": true
   },
+  "vinery:wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-08-21 08:11:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copycat_step_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-08-17 04:14:00 +0000"
@@ -5090,6 +5108,12 @@
   "create:recipes/create.palettes/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-19 23:40:28 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-08-21 08:03:53 +0000"
     },
     "done": true
   },
@@ -5456,6 +5480,12 @@
   "createbigcannons:recipes/createbigcannons/cannon_carriage": {
     "criteria": {
       "has_gunpowder": "2025-08-19 02:34:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_potion": {
+    "criteria": {
+      "has_potion": "2025-08-21 08:11:27 +0000"
     },
     "done": true
   },

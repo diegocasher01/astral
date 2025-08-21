@@ -7955,3 +7955,6 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [07:47:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=318, y=58, z=421} class_2338{x=318, y=56, z=422}
 [07:47:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=318, y=57, z=421} class_2338{x=318, y=56, z=422}
 [08:03:53] [Server thread/INFO]: Octlopez04 has made the advancement [Sploosh]
+[08:09:26] [Server thread/INFO]: [Octlopez04: Set own game mode to Spectator Mode]
+[08:09:48] [Server thread/INFO]: [Octlopez04: Set own game mode to Creative Mode]
+[08:12:28] [Server thread/INFO]: [Octlopez04: Set own game mode to Survival Mode]
