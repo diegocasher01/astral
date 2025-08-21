@@ -10123,3 +10123,4 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [03:06:23] [Server thread/INFO]: [Octlopez04: Set own game mode to Creative Mode]
 [03:06:51] [Server thread/INFO]: [Octlopez04: Set own game mode to Spectator Mode]
 [03:09:39] [Server thread/WARN]: Octlopez04 moved too quickly! -9.487301965349161,2.44694793723297,-4.646638735485681
+[03:12:17] [Server thread/INFO]: [Octlopez04: Set own game mode to Survival Mode]
