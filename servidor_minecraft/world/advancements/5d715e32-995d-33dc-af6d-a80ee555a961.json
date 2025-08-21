@@ -1590,6 +1590,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/benchcart": {
+    "criteria": {
+      "hasitem": "2025-08-21 07:54:31 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/cow_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
@@ -5381,6 +5387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-21 07:54:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/tool/ruby_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -7873,6 +7885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-21 07:54:31 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_hunting_bow": {
     "criteria": {
       "has_iron_nugget": "2025-08-17 03:34:27 +0000"
@@ -9120,6 +9138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-21 07:54:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/lithium_ion_batpack": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -9184,6 +9208,12 @@
   "create:recipes/create.palettes/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-21 07:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-21 07:54:31 +0000"
     },
     "done": true
   },
@@ -12571,6 +12601,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/jukeboxcart": {
+    "criteria": {
+      "hasitem": "2025-08-21 07:54:31 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/gas_mask": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:16 +0000"
@@ -14644,6 +14680,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/raw/raw_tin_from_block": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-08-21 07:54:31 +0000"
     },
     "done": true
   },
