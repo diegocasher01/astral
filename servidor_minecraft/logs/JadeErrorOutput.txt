@@ -58,3 +58,23 @@ java.lang.ClassCastException: class com.simibubi.create.content.equipment.armor.
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:273)
 	at java.base/java.lang.Thread.run(Thread.java:840)
 
+08/21/2025 - 03:54:15
+INSTANCE
+java.lang.ClassCastException: class com.simibubi.create.content.equipment.armor.BacktankBlockEntity cannot be cast to class com.simibubi.create.content.processing.burner.BlazeBurnerBlockEntity (com.simibubi.create.content.equipment.armor.BacktankBlockEntity and com.simibubi.create.content.processing.burner.BlazeBurnerBlockEntity are in unnamed module of loader net.fabricmc.loader.impl.launch.knot.KnotClassLoader @100fc185)
+	at snownee.jade.addon.create.BlazeBurnerProvider.appendServerData(BlazeBurnerProvider.java:58)
+	at snownee.jade.addon.create.BlazeBurnerProvider.appendServerData(BlazeBurnerProvider.java:25)
+	at snownee.jade.Jade.lambda$onInitialize$3(Jade.java:136)
+	at net.minecraft.class_3738.run(class_3738.java:18)
+	at net.minecraft.class_1255.method_18859(class_1255.java:157)
+	at net.minecraft.class_4093.method_18859(class_4093.java:23)
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:808)
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:165)
+	at net.minecraft.class_1255.method_16075(class_1255.java:131)
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:790)
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:784)
+	at net.minecraft.class_1255.method_18857(class_1255.java:140)
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:769)
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:701)
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:273)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+

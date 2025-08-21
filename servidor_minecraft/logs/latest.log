@@ -10138,3 +10138,7 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [03:30:41] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@69ae9d9 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [03:30:41] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1e1bafe6 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [03:30:41] [Netty Epoll Server IO #3/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[03:54:15] [Server thread/ERROR]: Caught unhandled exception : [INSTANCE] java.lang.ClassCastException: class com.simibubi.create.content.equipment.armor.BacktankBlockEntity cannot be cast to class com.simibubi.create.content.processing.burner.BlazeBurnerBlockEntity (com.simibubi.create.content.equipment.armor.BacktankBlockEntity and com.simibubi.create.content.processing.burner.BlazeBurnerBlockEntity are in unnamed module of loader net.fabricmc.loader.impl.launch.knot.KnotClassLoader @100fc185)
+[03:54:15] [Server thread/ERROR]: See JadeErrorOutput.txt for more information
+[03:59:47] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
+[03:59:47] [Server thread/INFO]: Octlopez04 left the game
