@@ -7884,3 +7884,69 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [06:48:35] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@d639946 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [06:52:32] [Worker-Main-45/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
 [06:52:32] [Worker-Main-45/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:56:05] [Server thread/INFO]: [Octlopez04: Set own game mode to Spectator Mode]
+[06:57:11] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1003, y=98, z=-1430}
+[06:57:11] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1000, y=99, z=-1430}
+[06:57:11] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1007, y=98, z=-1430}
+[06:57:11] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1006, y=98, z=-1430}
+[06:57:11] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1005, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1019, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1018, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1017, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1016, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1023, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1022, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1021, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1020, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1011, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1010, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1009, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1008, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1015, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1014, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1013, y=98, z=-1430}
+[06:57:12] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1012, y=98, z=-1430}
+[06:57:13] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1027, y=98, z=-1430}
+[06:57:13] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1026, y=98, z=-1430}
+[06:57:13] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1025, y=98, z=-1430}
+[06:57:13] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1024, y=98, z=-1430}
+[06:57:13] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1031, y=98, z=-1430}
+[06:57:13] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1030, y=98, z=-1430}
+[06:57:13] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1029, y=98, z=-1430}
+[06:57:13] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1028, y=98, z=-1430}
+[06:57:13] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1035, y=98, z=-1430}
+[06:57:13] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1033, y=98, z=-1430}
+[06:57:13] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1032, y=98, z=-1430}
+[06:57:13] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1038, y=98, z=-1430}
+[06:57:13] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1036, y=98, z=-1430}
+[06:57:14] [Worker-Main-33/WARN]: The namespace subterrestrial contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06:57:14] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1048, y=103, z=-1430}
+[06:57:14] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1043, y=99, z=-1430}
+[06:57:14] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1041, y=98, z=-1430}
+[06:57:14] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1044, y=101, z=-1430}
+[06:57:14] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1046, y=103, z=-1430}
+[06:57:14] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1040, y=98, z=-1430}
+[06:57:14] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1052, y=103, z=-1430}
+[06:57:14] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1051, y=103, z=-1430}
+[06:57:14] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1049, y=103, z=-1430}
+[06:57:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1063, y=103, z=-1430}
+[06:57:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1062, y=103, z=-1430}
+[06:57:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1066, y=103, z=-1430}
+[06:57:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1065, y=103, z=-1430}
+[06:57:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1056, y=103, z=-1430}
+[06:57:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1068, y=100, z=-1430}
+[06:57:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1060, y=103, z=-1430}
+[06:57:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1071, y=99, z=-1430}
+[06:57:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1070, y=99, z=-1430}
+[06:57:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1057, y=103, z=-1430}
+[06:57:26] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1074, y=98, z=-1430}
+[06:57:26] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1073, y=99, z=-1430}
+[06:57:26] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1076, y=96, z=-1430}
+[06:57:26] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1080, y=96, z=-1430}
+[06:57:26] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1079, y=96, z=-1430}
+[06:57:26] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1078, y=96, z=-1430}
+[06:57:26] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1086, y=97, z=-1430}
+[06:57:26] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1085, y=97, z=-1430}
+[06:57:26] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=1083, y=97, z=-1430}
+[06:57:49] [Server thread/INFO]: [Octlopez04: Set own game mode to Survival Mode]
+[07:02:10] [Server thread/INFO]: Octlopez04 has made the advancement [Compactification]

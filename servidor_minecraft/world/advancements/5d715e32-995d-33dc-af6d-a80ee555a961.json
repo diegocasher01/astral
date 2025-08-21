@@ -3015,6 +3015,12 @@
     },
     "done": true
   },
+  "vinery:kitchen_sink": {
+    "criteria": {
+      "has_cauldron": "2025-08-21 06:55:29 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/powder_charge": {
     "criteria": {
       "has_gunpowder": "2025-08-19 02:34:42 +0000"
@@ -5879,6 +5885,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_hoe": {
+    "criteria": {
+      "has_iron_hoe": "2025-08-21 06:54:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/blue_carpet_from_cyan_concrete_powder_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
@@ -6483,6 +6495,12 @@
   "create:backtank": {
     "criteria": {
       "0": "2025-08-19 05:59:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-08-21 06:51:36 +0000"
     },
     "done": true
   },
@@ -12216,6 +12234,7 @@
       "minecraft:jungle": "2025-08-17 02:21:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-21 03:02:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-16 21:56:14 +0000",
+      "minecraft:meadow": "2025-08-21 06:58:01 +0000",
       "minecraft:savanna": "2025-08-21 03:06:03 +0000",
       "minecraft:plains": "2025-08-16 21:59:50 +0000"
     },
@@ -13593,6 +13612,12 @@
   "techreborn:recipes/chemical_reactor/yellow_candle_from_candle_with_yellow_dye": {
     "criteria": {
       "has_yellow_dye": "2025-08-19 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-08-21 06:51:36 +0000"
     },
     "done": true
   },
