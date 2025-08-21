@@ -10124,3 +10124,17 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [03:06:51] [Server thread/INFO]: [Octlopez04: Set own game mode to Spectator Mode]
 [03:09:39] [Server thread/WARN]: Octlopez04 moved too quickly! -9.487301965349161,2.44694793723297,-4.646638735485681
 [03:12:17] [Server thread/INFO]: [Octlopez04: Set own game mode to Survival Mode]
+[03:25:27] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
+[03:25:27] [Server thread/INFO]: Octlopez04 left the game
+[03:30:41] [Server thread/INFO]: Octlopez04[/100.105.105.97:53187] logged in with entity id 12963 at (440.69999998807907, 62.0, -515.6999999880791)
+[03:30:41] [Netty Epoll Server IO #3/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[03:30:41] [Server thread/INFO]: Syncing config to Octlopez04 (5d715e32-995d-33dc-af6d-a80ee555a961)
+[03:30:41] [Server thread/INFO]: Loading config from file...
+[03:30:41] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Octlopez04 -> Global
+[03:30:41] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Octlopez04. Normal: GRAVE / Robbing: INVENTORY
+[03:30:41] [Server thread/INFO]: Octlopez04 joined the game
+[03:30:41] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@69ae9d9 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[03:30:41] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1e1bafe6 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[03:30:41] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@69ae9d9 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[03:30:41] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1e1bafe6 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[03:30:41] [Netty Epoll Server IO #3/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
