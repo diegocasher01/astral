@@ -108,7 +108,7 @@
 		// Prevents backpack disappearing in void
 		"voidProtection": true,
 		// Places backpack at place where player died
-		"backpackDeathPlace": false,
+		"backpackDeathPlace": true,
 		// Places backpack at place where player died, replacing all blocks that are breakable and do not have inventory (backpackDeathPlace must be true in order to work)
 		"backpackForceDeathPlace": false,
 		"enableSleepingBagSpawnPoint": false,
@@ -234,9 +234,9 @@
 		// Enables legacy GUI (Blue slots for storage, brown for crafting and green for tools)
 		"enableLegacyGui": false,
 		// Enables tool cycling via keybind (Default Z) + scroll combination, while backpack is worn
-		"enableToolCycling": false,
+		"enableToolCycling": true,
 		// Allows tool cycling using keybinding only (Default Z)
-		"disableScrollWheel": false,
+		"disableScrollWheel": true,
 		// Enables tip, how to obtain a backpack, if there's no crafting recipe for it
 		"obtainTips": true,
 		// Render tools in tool slots on the backpack, while worn

@@ -1,18 +1,17 @@
-[01:24:30] [INFO ] Loaded script client_scripts:hide_from_rei.js in 0.007 s
-[01:24:30] [INFO ] Loaded script client_scripts:ponder.js in 0.002 s
-[01:24:30] [INFO ] Loaded script client_scripts:ponders/desizer.js in 0.002 s
-[01:24:30] [INFO ] Loaded script client_scripts:ponders/desizer_sturdy_cage.js in 0.0 s
-[01:24:30] [INFO ] Loaded script client_scripts:ponders/desizer_ultrapure_carbon.js in 0.0 s
-[01:24:30] [INFO ] Loaded script client_scripts:ponders/distillation.js in 0.0 s
-[01:24:30] [INFO ] Loaded script client_scripts:ponders/electrolyzer.js in 0.001 s
-[01:24:30] [INFO ] Loaded script client_scripts:ponders/moon_portal.js in 0.001 s
-[01:24:30] [INFO ] Loaded script client_scripts:ponders/root_of_continuity.js in 0.001 s
-[01:24:30] [INFO ] Loaded script client_scripts:ponders/seared_melter.js in 0.0 s
-[01:24:30] [INFO ] Loaded script client_scripts:ponders/shimmer_refinery.js in 0.0 s
-[01:24:30] [INFO ] Loaded script client_scripts:ponders/stone_growth_chamber.js in 0.002 s
-[01:24:30] [INFO ] Loaded script client_scripts:ponders/stone_growth_chamber_dummy.js in 0.001 s
-[01:24:30] [INFO ] Hello, World! (You will see this line every time client resources reload)
-[01:24:30] [INFO ] Loaded script client_scripts:rei.js in 0.001 s
-[01:24:30] [INFO ] Loaded script client_scripts:step_up_fix.js in 0.0 s
-[01:24:30] [INFO ] Loaded 15/15 KubeJS client scripts in 0.05 s
-[01:41:12] [ERR  ] Error occurred while handling event 'ponder.override': TypeError: Can't use 'in' on a non-object. (client_scripts:ponder.js#32)
+[09:40:06] [INFO ] Loaded script client_scripts:hide_from_rei.js in 0.008 s
+[09:40:06] [INFO ] Loaded script client_scripts:ponder.js in 0.003 s
+[09:40:06] [INFO ] Loaded script client_scripts:ponders/desizer.js in 0.003 s
+[09:40:06] [INFO ] Loaded script client_scripts:ponders/desizer_sturdy_cage.js in 0.001 s
+[09:40:06] [INFO ] Loaded script client_scripts:ponders/desizer_ultrapure_carbon.js in 0.002 s
+[09:40:06] [INFO ] Loaded script client_scripts:ponders/distillation.js in 0.0 s
+[09:40:06] [INFO ] Loaded script client_scripts:ponders/electrolyzer.js in 0.002 s
+[09:40:06] [INFO ] Loaded script client_scripts:ponders/moon_portal.js in 0.0 s
+[09:40:06] [INFO ] Loaded script client_scripts:ponders/root_of_continuity.js in 0.001 s
+[09:40:06] [INFO ] Loaded script client_scripts:ponders/seared_melter.js in 0.001 s
+[09:40:06] [INFO ] Loaded script client_scripts:ponders/shimmer_refinery.js in 0.0 s
+[09:40:06] [INFO ] Loaded script client_scripts:ponders/stone_growth_chamber.js in 0.002 s
+[09:40:06] [INFO ] Loaded script client_scripts:ponders/stone_growth_chamber_dummy.js in 0.0 s
+[09:40:06] [INFO ] Hello, World! (You will see this line every time client resources reload)
+[09:40:06] [INFO ] Loaded script client_scripts:rei.js in 0.001 s
+[09:40:06] [INFO ] Loaded script client_scripts:step_up_fix.js in 0.001 s
+[09:40:06] [INFO ] Loaded 15/15 KubeJS client scripts in 0.063 s

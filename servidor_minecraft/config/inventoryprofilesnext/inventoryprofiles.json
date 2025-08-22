@@ -42,8 +42,8 @@
         "lock_slots_disable_user_interaction": {
             "value": true
         },
-        "show_locked_slots_background": {
-            "value": false
+        "locked_slots_empty_hotbar_as_semi_locked": {
+            "value": true
         },
         "show_locked_slots_foreground": {
             "value": false
@@ -53,12 +53,11 @@
         "disable_for_drop_item": {
             "value": true
         },
-        "visual_durability_notification": {
-            "value": false
-        },
+        "auto_refill_match_any_food": true,
         "audio_durability_notification": {
             "value": false
-        }
+        },
+        "type_visual_replace_success_notification": "SUBTITLE"
     },
     "Hotkeys": {
         "sort_inventory": {

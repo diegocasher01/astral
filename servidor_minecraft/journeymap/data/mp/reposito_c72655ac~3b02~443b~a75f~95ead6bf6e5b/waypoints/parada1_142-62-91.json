@@ -1,0 +1,22 @@
+{
+  "id": "parada1_142-62-91",
+  "name": "parada1",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--14627903-waypoint-icon.png",
+  "x": 142,
+  "y": 62,
+  "z": 91,
+  "r": 32,
+  "g": 203,
+  "b": 193,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
