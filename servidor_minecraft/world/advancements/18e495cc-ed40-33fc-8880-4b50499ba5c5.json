@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-08-19 01:07:44 +0000"
@@ -92,6 +98,12 @@
   "techreborn:recipes/centrifuge/redstone": {
     "criteria": {
       "has_redstone": "2025-08-19 02:30:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
     },
     "done": true
   },
@@ -167,6 +179,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_block": {
     "criteria": {
       "has_item": "2025-08-19 01:23:16 +0000"
@@ -182,6 +200,12 @@
   "dustrial_decor:recipes/misc/rusty_iron_nugget": {
     "criteria": {
       "has_iron_nugget": "2025-08-19 05:43:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
     },
     "done": true
   },
@@ -491,6 +515,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2025-08-19 01:23:16 +0000"
@@ -563,6 +593,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-19 02:27:35 +0000"
@@ -608,6 +644,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-08-19 01:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
     },
     "done": true
   },
@@ -864,6 +906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/glass_gray": {
     "criteria": {
       "has_dyes/black": "2025-08-19 01:06:39 +0000"
@@ -873,6 +921,12 @@
   "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "definedsblocks:recipes/definedsblocks.general/mana_glass_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
     },
     "done": true
   },
@@ -990,6 +1044,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
@@ -1017,6 +1077,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-08-19 01:18:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 00:23:04 +0000"
     },
     "done": true
   },
@@ -1185,6 +1251,12 @@
   "create:recipes/create.palettes/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-08-19 23:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
     },
     "done": true
   },
@@ -1386,6 +1458,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "reinfchest:recipes/decorations/gold_chest": {
     "criteria": {
       "has_iron_chest": "2025-08-19 01:06:39 +0000"
@@ -1468,6 +1546,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/nugget/emerald_nugget": {
     "criteria": {
       "has_emerald": "2025-08-19 01:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
     },
     "done": true
   },
@@ -1610,6 +1694,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_jar": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
     },
     "done": true
   },
@@ -1907,6 +1997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-19 01:03:32 +0000"
@@ -2079,6 +2175,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/ingot/iridium_alloy_ingot": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
@@ -2232,6 +2334,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-08-19 05:20:12 +0000"
+    },
+    "done": true
+  },
+  "vinery:kitchen_sink": {
+    "criteria": {
+      "has_cauldron": "2025-08-22 03:15:05 +0000"
     },
     "done": true
   },
@@ -2565,9 +2673,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
     "criteria": {
       "has_item": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/calcite_dust": {
+    "criteria": {
+      "has_calcite_dust_material": "2025-08-22 03:24:33 +0000"
     },
     "done": true
   },
@@ -2721,6 +2841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_chill_gale_knife": {
     "criteria": {
       "has_diamond": "2025-08-19 01:30:09 +0000"
@@ -2733,6 +2859,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-08-19 01:06:19 +0000"
@@ -2742,6 +2874,12 @@
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-19 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
     },
     "done": true
   },
@@ -2798,6 +2936,12 @@
   "create:recipes/create.base/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2025-08-19 01:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
     },
     "done": true
   },
@@ -3253,6 +3397,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-19 01:20:24 +0000"
@@ -3506,6 +3656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2025-08-19 01:15:34 +0000"
@@ -3600,6 +3756,12 @@
   "techreborn:recipes/chemical_reactor/gray_candle_from_light_gray_candle_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-19 01:06:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
     },
     "done": true
   },
@@ -3868,6 +4030,12 @@
     },
     "done": true
   },
+  "vinery:wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-08-22 00:03:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copycat_step_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-08-19 01:23:16 +0000"
@@ -4027,6 +4195,12 @@
   "techreborn:recipes/crafting_table/misc_block/rubber_planks": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
     },
     "done": true
   },
@@ -4451,9 +4625,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-19 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-08-22 00:08:50 +0000"
     },
     "done": true
   },
@@ -4550,6 +4736,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-08-19 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
     },
     "done": true
   },
@@ -4652,6 +4844,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-08-19 01:19:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
     },
     "done": true
   },
@@ -4877,6 +5075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_azure_seeker": {
     "criteria": {
       "has_string": "2025-08-19 02:06:30 +0000"
@@ -4886,6 +5090,12 @@
   "reinfchest:recipes/decorations/iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
     },
     "done": true
   },
@@ -5027,6 +5237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/tool/bronze_axe": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-08-19 01:12:59 +0000"
@@ -5078,6 +5294,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
     },
     "done": true
   },
@@ -5183,6 +5405,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/sodalite_small_dust_from_dust": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
@@ -5204,6 +5432,12 @@
   "mcdw:recipes/swords/sword_dancers_sword": {
     "criteria": {
       "has_stick": "2025-08-19 01:28:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
     },
     "done": true
   },
@@ -5375,6 +5609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-08-22 00:23:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/advanced_alloy_blocks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
@@ -5420,6 +5660,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-08-20 01:12:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-22 00:23:04 +0000"
     },
     "done": true
   },
@@ -5753,6 +5999,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/copper_sheet_metal_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-08-19 05:02:46 +0000"
@@ -5780,6 +6032,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/sapphire_blocks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-08-22 03:54:35 +0000"
     },
     "done": true
   },
@@ -5840,6 +6098,12 @@
   "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
     },
     "done": true
   },
@@ -5957,6 +6221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/gray_terracotta_from_terracotta_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-19 01:06:39 +0000"
@@ -6005,9 +6275,21 @@
     },
     "done": false
   },
+  "create:recipes/create.palettes/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.props/blue_placard": {
     "criteria": {
       "has_dye": "2025-08-20 00:01:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-08-22 00:23:04 +0000"
     },
     "done": true
   },
@@ -6147,6 +6429,12 @@
   "create:recipes/create.palettes/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-19 01:20:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
     },
     "done": true
   },
@@ -6294,6 +6582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/dark_oak_drawer": {
     "criteria": {
       "has_planks": "2025-08-19 01:28:02 +0000"
@@ -6438,6 +6732,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-19 02:27:35 +0000"
@@ -6459,6 +6759,12 @@
   "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-08-19 23:56:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
     },
     "done": true
   },
@@ -6648,6 +6954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/dense_smart_gray": {
     "criteria": {
       "has_dyes/black": "2025-08-19 01:06:39 +0000"
@@ -6766,6 +7078,12 @@
   "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 00:23:04 +0000"
     },
     "done": true
   },
@@ -6970,6 +7288,12 @@
   "createdeco:recipes/createdeco.metals/iron_mesh_fence": {
     "criteria": {
       "has_item": "2025-08-19 01:19:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
     },
     "done": true
   },
@@ -7444,6 +7768,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/raw_tungsten_blocks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:55 +0000"
@@ -7673,6 +8003,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-19 01:03:32 +0000"
@@ -7714,6 +8050,12 @@
       "fried_rice": "2025-08-20 00:47:39 +0000"
     },
     "done": false
+  },
+  "create:recipes/create.palettes/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
   },
   "ae2:recipes/ae2.main/network/cables/glass_blue": {
     "criteria": {
@@ -7757,6 +8099,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 00:23:04 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/dense_covered_cyan": {
     "criteria": {
       "has_dyes/black": "2025-08-19 02:21:30 +0000"
@@ -7781,9 +8129,21 @@
     },
     "done": true
   },
+  "definedsblocks:recipes/definedsblocks.general/elf_glass_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-08-19 02:18:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
     },
     "done": true
   },
@@ -7796,6 +8156,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/armor/sapphire_leggings": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
     },
     "done": true
   },
@@ -8172,6 +8538,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-08-22 00:23:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/blue_candle_from_candle_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-20 00:01:47 +0000"
@@ -8269,6 +8641,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-19 02:41:04 +0000"
@@ -8314,6 +8692,12 @@
   "create:recipes/create.palettes/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2025-08-19 01:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
     },
     "done": true
   },
@@ -8527,6 +8911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-22 03:28:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/iron_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
@@ -8566,6 +8956,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_barrel": "2025-08-20 04:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
     },
     "done": true
   },
@@ -8644,6 +9040,12 @@
   "techreborn:recipes/crafting_table/parts/tungsten_grinding_head": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-08-22 00:04:35 +0000"
     },
     "done": true
   },
@@ -8812,6 +9214,12 @@
   "techreborn:recipes/crafting_table/cable/glassfiber_cable_3": {
     "criteria": {
       "has_redstone": "2025-08-19 02:30:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
     },
     "done": true
   },
@@ -9043,6 +9451,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_terracotta_from_blue_terracotta_with_magenta_dye": {
     "criteria": {
       "has_magenta_dye": "2025-08-19 02:21:33 +0000"
@@ -9118,6 +9532,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/bronze_blocks_stairs_stonecutter": {
     "criteria": {
       "has_tag_c_bronze_blocks": "2025-08-20 00:11:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
     },
     "done": true
   },
@@ -9259,6 +9679,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/dense_smart_red": {
     "criteria": {
       "has_dyes/black": "2025-08-20 04:48:24 +0000"
@@ -9286,6 +9712,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-08-19 01:39:23 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-08-22 03:41:52 +0000"
     },
     "done": true
   },
@@ -9343,6 +9775,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-19 02:30:55 +0000"
@@ -9367,6 +9805,8 @@
       "minecraft:beach": "2025-08-20 04:40:41 +0000",
       "minecraft:sparse_jungle": "2025-08-19 01:00:42 +0000",
       "minecraft:river": "2025-08-19 03:18:46 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-22 00:27:23 +0000",
+      "minecraft:stony_shore": "2025-08-22 00:28:44 +0000",
       "minecraft:forest": "2025-08-19 01:49:55 +0000",
       "minecraft:lush_caves": "2025-08-19 02:29:06 +0000",
       "minecraft:jungle": "2025-08-19 03:19:16 +0000",
@@ -9574,6 +10014,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/dense_smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2025-08-19 02:30:54 +0000"
@@ -9682,15 +10128,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-08-20 05:41:39 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/createdeco.bricks/worn_brick_from_brick_blasting": {
     "criteria": {
       "has_brick": "2025-08-20 04:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-20 05:41:39 +0000"
     },
     "done": true
   },
@@ -9934,6 +10380,12 @@
     },
     "done": true
   },
+  "vinery:wine_box": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-19 02:33:23 +0000",
@@ -9985,6 +10437,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-08-19 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-08-22 00:08:50 +0000"
     },
     "done": true
   },
@@ -10552,6 +11010,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-08-19 01:39:23 +0000"
@@ -10726,6 +11190,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_meat": {
     "criteria": {
       "has_raw_meat": "2025-08-19 01:57:57 +0000"
@@ -10890,6 +11360,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/grossular_small_dust_from_dust": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-22 03:25:04 +0000"
     },
     "done": true
   },

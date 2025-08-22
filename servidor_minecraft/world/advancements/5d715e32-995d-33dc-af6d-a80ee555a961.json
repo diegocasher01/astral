@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/green_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-08-18 09:06:37 +0000"
@@ -140,6 +146,12 @@
   "farmersdelight:main/place_cooking_pot": {
     "criteria": {
       "cooking_pot": "2025-08-19 08:56:55 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/lime_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -323,9 +335,27 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/purple_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/green_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -356,6 +386,12 @@
   "create:recipes/create.palettes/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:16 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_blue_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -575,6 +611,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/white_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/cyan_carpet_from_white_concrete_powder_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-21 03:18:35 +0000"
@@ -599,6 +641,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/brown_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/armor/peridot_leggings": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -608,6 +656,12 @@
   "mcdw:recipes/hammers/hammer_suns_grace": {
     "criteria": {
       "has_gold_block": "2025-08-17 05:42:31 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/lime_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -668,6 +722,12 @@
   "mcdw:recipes/crossbows/crossbow_slayer": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/gold_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -752,6 +812,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2025-08-19 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/villager_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -881,9 +947,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/melon_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-22 00:27:14 +0000"
     },
     "done": true
   },
@@ -1176,6 +1254,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/blaze_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -1350,6 +1434,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/magma_cube_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tatami_block_from_full": {
+    "criteria": {
+      "has_canvas": "2025-08-22 03:04:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_blue_stained_glass_pane_with_magenta_dye": {
     "criteria": {
       "has_magenta_dye": "2025-08-20 05:18:43 +0000"
@@ -1437,6 +1533,12 @@
   "createdeco:recipes/createdeco.props/red_copper_lamp": {
     "criteria": {
       "has_item": "2025-08-17 04:32:19 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/orange_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -1536,6 +1638,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/lime_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-08-17 02:54:20 +0000"
@@ -1626,6 +1740,18 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/magenta_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/white_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_dagger": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
@@ -1671,6 +1797,12 @@
   "travelersbackpack:recipes/travelersbackpack/bat_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/gray_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -1800,6 +1932,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/modified": {
     "criteria": {
       "crafted_tool": "2025-08-18 22:43:00 +0000"
@@ -1851,6 +1989,12 @@
   "farmersdelight:recipes/food/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-08-20 06:09:15 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/green_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -2093,6 +2237,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/andesite_bars": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
@@ -2291,6 +2441,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/standard_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-08-18 09:24:46 +0000"
@@ -2348,6 +2504,12 @@
   "techreborn:recipes/chemical_reactor/lime_wool_from_yellow_wool_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-21 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -2411,9 +2573,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/lapis_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-17 02:54:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -2504,6 +2678,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-08-17 05:42:35 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/red_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -2778,6 +2958,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-08-18 08:23:18 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_gray_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -3105,6 +3291,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_blue_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-17 02:54:15 +0000"
@@ -3279,9 +3471,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/ghast_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/nugget/electrum_nugget": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tatami": {
+    "criteria": {
+      "has_canvas": "2025-08-22 03:04:14 +0000"
     },
     "done": true
   },
@@ -3441,6 +3645,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/purple_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/tin_plate_from_block": {
     "criteria": {
       "has_tag_c_tin_blocks": "2025-08-18 07:57:52 +0000"
@@ -3489,9 +3699,21 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/magenta_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/coal_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chocolate_pie_from_slices": {
+    "criteria": {
+      "has_chocolate_pie_slice": "2025-08-21 23:26:41 +0000"
     },
     "done": true
   },
@@ -3785,9 +4007,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/wither_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-08-17 02:51:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/full_tatami_mat_from_halves": {
+    "criteria": {
+      "has_canvas": "2025-08-22 03:04:14 +0000"
     },
     "done": true
   },
@@ -3888,6 +4122,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/light_gray_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/pink_wool_from_light_gray_wool_with_magenta_dye": {
     "criteria": {
       "has_magenta_dye": "2025-08-20 05:18:43 +0000"
@@ -3915,6 +4155,12 @@
   "create:recipes/create.base/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2025-08-17 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-08-22 02:20:16 +0000"
     },
     "done": true
   },
@@ -4116,6 +4362,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/gray_terracotta_from_light_gray_terracotta_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-17 03:03:15 +0000"
@@ -4125,6 +4377,12 @@
   "techreborn:recipes/alloy_smelter/electrum_ingot": {
     "criteria": {
       "has_gold": "2025-08-17 05:42:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas_sign": {
+    "criteria": {
+      "has_canvas": "2025-08-22 03:04:14 +0000"
     },
     "done": true
   },
@@ -4149,6 +4407,12 @@
   "techreborn:recipes/compressor/obsidian_plate_from_block": {
     "criteria": {
       "has_obsidian": "2025-08-19 00:30:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/coal_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -4206,6 +4470,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-08-19 08:30:42 +0000"
@@ -4239,6 +4509,12 @@
   "createdeco:recipes/createdeco.props/yellow_placard": {
     "criteria": {
       "has_dye": "2025-08-19 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/red_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -4369,6 +4645,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/semaphore": {
+    "criteria": {
+      "has_item": "2025-08-22 02:26:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 02:55:01 +0000"
@@ -4390,6 +4672,12 @@
   "farmersdelight:recipes/farmersdelight/straw_bale": {
     "criteria": {
       "has_straw": "2025-08-19 08:54:46 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_blue_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -4562,6 +4850,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-08-22 02:26:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-17 02:52:08 +0000"
@@ -4652,6 +4946,18 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/pink_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/tool_smith": {
     "criteria": {
       "dagger": "2025-08-20 06:51:20 +0000",
@@ -4669,6 +4975,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-08-17 03:23:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -4762,6 +5074,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/yellow_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/pink_stained_glass_from_light_gray_stained_glass_with_magenta_dye": {
     "criteria": {
       "has_magenta_dye": "2025-08-20 05:18:43 +0000"
@@ -4801,6 +5119,12 @@
   "techreborn:recipes/chemical_reactor/purple_wool_from_magenta_wool_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/enderman_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -4901,6 +5225,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/cyan_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/beef_patty": {
     "criteria": {
       "beef_patty": "2025-08-19 01:58:00 +0000"
@@ -4973,6 +5303,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/sapphire_blocks_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -5012,6 +5348,12 @@
   "vinery:wine_bottle": {
     "criteria": {
       "has_glass_bottle": "2025-08-21 08:11:25 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/cyan_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -5357,6 +5699,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/emerald_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-18 21:56:42 +0000"
@@ -5417,6 +5765,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/creeper_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/basket": {
+    "criteria": {
+      "has_canvas": "2025-08-22 03:04:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/tool/ruby_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -5438,6 +5798,12 @@
   "create:recipes/create.palettes/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-18 08:49:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/horse_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -5504,6 +5870,12 @@
   "travelersbackpack:recipes/travelersbackpack/pig_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas_rug": {
+    "criteria": {
+      "has_canvas": "2025-08-22 03:04:14 +0000"
     },
     "done": true
   },
@@ -5630,6 +6002,12 @@
   "techreborn:recipes/chemical_reactor/cyan_carpet_from_light_blue_carpet_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-21 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/iron_golem_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -5849,6 +6227,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-08-16 21:57:17 +0000"
@@ -5876,6 +6260,12 @@
   "vinery:red_grape_crate": {
     "criteria": {
       "has_red_grape": "2025-08-19 00:42:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -5921,6 +6311,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/lime_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/rubber_from_log": {
     "criteria": {
       "has_rubber_log": "2025-08-17 05:35:14 +0000"
@@ -5942,6 +6338,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_blue_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -5981,6 +6383,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/snow_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_green_dye": "2025-08-19 08:48:59 +0000"
@@ -6008,6 +6416,12 @@
   "ae2:recipes/ae2.main/network/cables/dense_covered_magenta": {
     "criteria": {
       "has_dyes/black": "2025-08-20 05:18:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/cactus_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -6167,6 +6581,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/dragon_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-08-17 03:04:48 +0000"
@@ -6217,6 +6637,7 @@
   },
   "tconstruct:smeltery/abilities": {
     "criteria": {
+      "gilded": "2025-08-22 09:53:53 +0000",
       "tool_belt": "2025-08-19 09:20:41 +0000"
     },
     "done": false
@@ -6287,6 +6708,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/light_gray_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_voidcaller_crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
@@ -6308,6 +6735,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-08-18 07:51:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/chicken_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -6482,6 +6915,12 @@
   "mcdw:recipes/crossbows/crossbow_azure_seeker": {
     "criteria": {
       "has_string": "2025-08-18 08:57:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/book_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-22 03:04:14 +0000"
     },
     "done": true
   },
@@ -6709,6 +7148,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2025-08-22 02:23:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/black_stained_glass_from_glass_with_black_dye": {
     "criteria": {
       "has_black_dye": "2025-08-19 22:34:38 +0000"
@@ -6739,6 +7184,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/red_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "beautify:candleabras": {
     "criteria": {
       "requirement": "2025-08-17 03:34:27 +0000"
@@ -6766,6 +7217,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 02:55:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -6802,6 +7259,12 @@
   "create:recipes/create.palettes/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-19 23:40:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/full_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2025-08-22 03:04:14 +0000"
     },
     "done": true
   },
@@ -6895,6 +7358,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/orange_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/ingot/hot_tungstensteel_ingot_from_nugget": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:05 +0000"
@@ -6973,6 +7442,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/blue_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/shields/shield_tower_guard": {
     "criteria": {
       "has_copper_ingot": "2025-08-17 03:04:48 +0000"
@@ -7000,6 +7475,12 @@
   "mcdw:recipes/bows/bow_bubble_bow": {
     "criteria": {
       "has_water_bucket": "2025-08-17 02:25:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/bat_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -7072,6 +7553,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/invar_blocks_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-08-22 02:39:27 +0000"
     },
     "done": true
   },
@@ -7483,6 +7970,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_gray_candle_from_white_candle_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-17 03:03:15 +0000"
@@ -7528,6 +8021,12 @@
   "vinery:basket": {
     "criteria": {
       "has_wheat": "2025-08-16 21:57:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/cyan_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
     },
     "done": true
   },
@@ -7729,6 +8228,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/light_blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-19 02:54:18 +0000"
@@ -7783,6 +8288,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/sponge_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2025-08-19 08:48:59 +0000"
@@ -7804,6 +8315,18 @@
   "tconstruct:tools/part_builder": {
     "criteria": {
       "crafted_block": "2025-08-17 02:52:04 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/yellow_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -7870,6 +8393,12 @@
   "techreborn:recipes/chemical_reactor/black_carpet_from_gray_carpet_with_black_dye": {
     "criteria": {
       "has_black_dye": "2025-08-19 22:34:38 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/brown_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -8024,6 +8553,12 @@
     },
     "done": false
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/orange_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/hot_tungstensteel_storage_block": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -8048,6 +8583,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/diamond_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/blue_stained_glass_pane_from_cyan_stained_glass_pane_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
@@ -8057,6 +8598,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/armor/steel_leggings": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/orange_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -8075,6 +8622,12 @@
   "techreborn:recipes/crafting_table/machine/lv_transformer": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/yellow_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
     },
     "done": true
   },
@@ -8168,6 +8721,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2025-08-17 03:36:42 +0000"
@@ -8183,6 +8742,12 @@
   "create:recipes/create.palettes/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-21 07:04:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/skeleton_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -8255,6 +8820,12 @@
   "techreborn:recipes/industrial_grinder/iron_ingot_with_mercury": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/black_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -8345,6 +8916,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-17 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/red_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -8474,6 +9051,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bookshelf_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/whips/whip_whip": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
@@ -8504,6 +9087,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/pink_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-08-18 08:18:00 +0000"
@@ -8513,6 +9102,24 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/hot_tungstensteel_blocks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:05 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/gray_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/yellow_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -8567,6 +9174,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/cyan_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -8699,6 +9312,12 @@
   "travelersbackpack:recipes/travelersbackpack/ocelot_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-08-19 08:23:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/fox_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -8942,6 +9561,12 @@
   "techreborn:recipes/chemical_reactor/black_carpet_from_gray_concrete_powder_with_black_dye": {
     "criteria": {
       "has_black_dye": "2025-08-19 22:34:38 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-08-22 00:28:14 +0000"
     },
     "done": true
   },
@@ -9283,6 +9908,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/black_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-18 08:53:39 +0000"
@@ -9343,9 +9974,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-18 08:49:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -9499,6 +10142,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/purple_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/armor/bronze_boots": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-08-17 03:28:29 +0000"
@@ -9514,6 +10163,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-19 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/blue_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -9713,6 +10368,12 @@
   "techreborn:recipes/chemical_reactor/green_candle_from_yellow_candle_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/blue_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -10008,6 +10669,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/yellow_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-08-17 03:02:52 +0000"
@@ -10035,6 +10702,12 @@
   "techreborn:recipes/chemical_reactor/blue_terracotta_from_cyan_terracotta_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-17 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/redstone_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -10101,6 +10774,18 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/ingot/lead_ingot_from_nugget": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/painting_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-22 03:04:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/hay_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -10229,6 +10914,12 @@
   "techreborn:recipes/chemical_reactor/light_blue_wool_from_light_gray_wool_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-21 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/white_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
     },
     "done": true
   },
@@ -10388,6 +11079,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/pink_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-17 02:51:33 +0000"
@@ -10415,6 +11112,12 @@
   "techreborn:recipes/chemical_reactor/pink_carpet_from_light_gray_concrete_powder_with_magenta_dye": {
     "criteria": {
       "has_magenta_dye": "2025-08-20 05:18:43 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/orange_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -10574,6 +11277,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/purple_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/methane": {
     "criteria": {
       "has_hydrogen": "2025-08-16 21:56:14 +0000",
@@ -10641,6 +11350,18 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/magenta_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/half_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2025-08-22 03:04:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-17 03:38:07 +0000"
@@ -10689,6 +11410,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/raw_raw_lead_storage_block": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -10728,6 +11455,12 @@
   "techreborn:recipes/chemical_reactor/blue_candle_from_gray_candle_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-21 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/cake_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -10942,6 +11675,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/nether_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-08-18 09:06:37 +0000"
@@ -11032,6 +11771,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-22 03:04:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:16 +0000"
@@ -11053,6 +11798,12 @@
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-08-17 03:29:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
     },
     "done": true
   },
@@ -11398,6 +12149,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/ocelot_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "dustrial_decor:recipes/building_blocks/padded_block": {
     "criteria": {
       "has_white_wool": "2025-08-16 21:57:17 +0000"
@@ -11410,6 +12167,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/gray_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
@@ -11419,6 +12182,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_barrel": "2025-08-17 04:31:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/blue_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -11521,6 +12290,18 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-08-18 09:24:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/brown_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/magenta_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -11764,6 +12545,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/red_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/red_garnet_small_dust_from_dust": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -11785,6 +12572,12 @@
   "create:recipes/create.palettes/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-18 09:06:36 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/gray_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -11857,6 +12650,12 @@
   "techreborn:recipes/chemical_reactor/gray_wool_from_white_wool_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-17 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -12067,6 +12866,18 @@
   "techreborn:recipes/extractor/string_from_crossbow": {
     "criteria": {
       "has_crossbow": "2025-08-19 01:52:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/pumpkin_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/lime_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
     },
     "done": true
   },
@@ -12388,6 +13199,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/brown_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/black_stool": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:17 +0000"
@@ -12487,6 +13304,7 @@
       "minecraft:sparse_jungle": "2025-08-16 21:56:28 +0000",
       "minecraft:river": "2025-08-17 02:21:36 +0000",
       "minecraft:lukewarm_ocean": "2025-08-19 22:17:27 +0000",
+      "minecraft:stony_shore": "2025-08-22 00:28:43 +0000",
       "minecraft:dripstone_caves": "2025-08-21 03:10:23 +0000",
       "minecraft:forest": "2025-08-16 21:59:47 +0000",
       "minecraft:lush_caves": "2025-08-19 02:29:41 +0000",
@@ -12745,6 +13563,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/pink_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-08-16 21:57:50 +0000"
@@ -12814,6 +13638,18 @@
   "mcdw:recipes/sickles/sickle_sickle": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/green_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/cyan_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -13075,6 +13911,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bee_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/shot_balls": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
@@ -13138,6 +13980,12 @@
   "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/enchanted_golden_apple": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-22 09:53:22 +0000"
     },
     "done": true
   },
@@ -13227,6 +14075,7 @@
       "apple": "2025-08-17 04:29:53 +0000",
       "bread": "2025-08-19 02:15:28 +0000",
       "glow_berries": "2025-08-21 03:20:07 +0000",
+      "golden_carrot": "2025-08-22 04:22:09 +0000",
       "cooked_chicken": "2025-08-18 21:58:44 +0000"
     },
     "done": false
@@ -13301,6 +14150,12 @@
   "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
     "criteria": {
       "has_glass": "2025-08-18 09:25:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/cow_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -13448,6 +14303,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/end_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/cracked_red_bricks_slab_vert_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-17 04:21:14 +0000"
@@ -13532,6 +14393,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/quartz_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/pink_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-08-21 23:53:20 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/dagger_soul_knife": {
     "criteria": {
       "has_base": "2025-08-17 03:27:38 +0000"
@@ -13559,6 +14432,12 @@
   "mcdw:recipes/spears/spear_venom_glaive": {
     "criteria": {
       "has_poisonous_potato": "2025-08-19 09:02:52 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_gray_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -13649,6 +14528,12 @@
   "techreborn:recipes/crafting_table/misc_block/rubber_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-08-21 23:26:28 +0000"
     },
     "done": true
   },
@@ -13754,6 +14639,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/netherite_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/gravel": {
     "criteria": {
       "has_flint": "2025-08-16 21:58:52 +0000"
@@ -13799,6 +14690,12 @@
   "dustrial_decor:recipes/building_blocks/cast_iron_balustrade": {
     "criteria": {
       "has_cast_iron_billet": "2025-08-19 00:37:07 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-08-21 23:30:58 +0000"
     },
     "done": true
   },
@@ -13880,6 +14777,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/mighty_smelting": {
+    "criteria": {
+      "crafted_book": "2025-08-22 09:48:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-08-16 21:57:17 +0000"
@@ -13919,6 +14822,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-19 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -14030,6 +14939,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/black_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/alloy_smelter/bronze_ingot": {
     "criteria": {
       "has_copper": "2025-08-17 03:04:48 +0000"
@@ -14138,6 +15053,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/black_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_terracotta_from_magenta_terracotta_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
@@ -14153,6 +15074,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/silver_blocks_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -14195,6 +15122,12 @@
   "vinery:dough": {
     "criteria": {
       "has_wheat": "2025-08-16 21:57:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/sheep_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -14243,6 +15176,12 @@
   "copycats:recipes/crafting/copycat_slope_layer": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 03:03:00 +0000"
     },
     "done": true
   },
@@ -14414,6 +15353,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/iron_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/black_carpet_from_white_concrete_powder_with_black_dye": {
     "criteria": {
       "has_black_dye": "2025-08-19 22:34:37 +0000"
@@ -14468,6 +15413,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/rubber_pressure_plate_from_slab": {
+    "criteria": {
+      "has_rubber_plank_slab": "2025-08-22 08:25:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/green_wool_from_yellow_wool_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
@@ -14483,6 +15434,12 @@
   "createbigcannons:recipes/createbigcannons/machine_gun_round": {
     "criteria": {
       "has_gunpowder": "2025-08-19 02:34:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/sandstone_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -14513,6 +15470,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-08-19 02:34:22 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/brown_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-08-22 02:33:24 +0000"
     },
     "done": true
   },
@@ -14653,6 +15616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-22 09:53:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-08-17 05:42:35 +0000"
@@ -14701,6 +15670,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/pig_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_iron_door": {
     "criteria": {
       "has_item": "2025-08-20 04:25:33 +0000"
@@ -14743,6 +15718,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/wolf_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_void_bow": {
     "criteria": {
       "has_string": "2025-08-18 08:57:06 +0000"
@@ -14758,6 +15739,12 @@
   "techreborn:recipes/chemical_reactor/cyan_carpet_from_light_blue_concrete_powder_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-21 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/squid_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
@@ -14800,6 +15787,12 @@
   "campanion:recipes/misc/leather_pouch": {
     "criteria": {
       "has_leather": "2025-08-18 08:30:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/spider_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
     },
     "done": true
   },
