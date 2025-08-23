@@ -4061,6 +4061,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/glistering_melon_slice": {
+    "criteria": {
+      "has_glistering_melon_slice": "2025-08-23 00:43:39 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/emerald_dust": {
     "criteria": {
       "has_emerald": "2025-08-16 21:57:47 +0000"
@@ -7805,6 +7811,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/ruby_small_dust_from_dust": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-08-23 00:42:00 +0000"
     },
     "done": true
   },
@@ -12135,6 +12147,12 @@
   "techreborn:recipes/chemical_reactor/black_stained_glass_from_gray_stained_glass_with_black_dye": {
     "criteria": {
       "has_black_dye": "2025-08-19 22:34:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-08-23 00:42:00 +0000"
     },
     "done": true
   },
