@@ -3126,6 +3126,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-08-23 01:05:48 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.props/red_decal": {
     "criteria": {
       "has_item": "2025-08-19 01:19:51 +0000"
@@ -6376,7 +6382,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-08-19 01:56:04 +0000",
-      "opened_chest": "2025-08-19 01:50:36 +0000"
+      "opened_chest": "2025-08-19 01:50:36 +0000",
+      "opened_cart": "2025-08-23 01:05:48 +0000"
     },
     "done": false
   },

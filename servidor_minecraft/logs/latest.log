@@ -76,3 +76,20 @@
 [00:58:48] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [01:05:48] [Server thread/INFO]: Lumi_uwu has made the advancement [Tunnel Treasures]
 [01:05:48] [Server thread/INFO]: Octlopez04 has made the advancement [Tunnel Treasures]
+[01:09:22] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
+[01:09:22] [Server thread/INFO]: Octlopez04 left the game
+[01:09:23] [Server thread/INFO]: Octlopez04[/100.105.105.97:52963] logged in with entity id 18968 at (766.0345953841706, -48.0, -59.27453211231377)
+[01:09:23] [Server thread/INFO]: Syncing config to Octlopez04 (5d715e32-995d-33dc-af6d-a80ee555a961)
+[01:09:23] [Server thread/INFO]: Loading config from file...
+[01:09:23] [Netty Epoll Server IO #2/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[01:09:23] [Server thread/INFO]: Octlopez04 joined the game
+[01:09:24] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7bc0cbbe (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:09:24] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@33fa7169 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:09:24] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Octlopez04 -> Global
+[01:09:24] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Octlopez04. Normal: GRAVE / Robbing: INVENTORY
+[01:09:24] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7bc0cbbe (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:09:24] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@33fa7169 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:09:24] [Netty Epoll Server IO #2/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[01:14:27] [Worker-Main-21/WARN]: The namespace kaisyn contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01:15:29] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:16:41] [Server thread/INFO]: server_scripts:misc/interaction.js:259: {AABB:[850.8367650818074d,-14.0d,-223.19999998807907d,855.8367650818074d,-13.5d,-218.19999998807907d],Age:0,Air:300s,BalmData:{},Duration:300,DurationOnUse:0,Effects:[{Ambient:0b,Amplifier:100b,Duration:45,Id:2b,ShowIcon:1b,ShowParticles:1b},{Ambient:0b,Amplifier:100b,Duration:45,Id:4b,ShowIcon:1b,ShowParticles:1b}],FallDistance:0.0f,Fire:-1s,Invulnerable:0b,KubeJSPersistentData:{},Motion:[0.0d,0.0d,0.0d],OnGround:0b,Particle:"minecraft:entity_effect",PortalCooldown:0,Pos:[853.3367650818074d,-14.0d,-220.69999998807907d],Radius:2.5f,RadiusOnUse:-0.5f,RadiusPerTick:-0.008333334f,ReapplicationDelay:20,Rotation:[0.0f,0.0f],UUID:[I;535641160,243746554,-1578624550,-464005076],WaitTime:10,allies:0b,cpaCooldown:0,cpadidTP:0b,enemy:0b,owner:0b} [net.minecraft.class_2487]
