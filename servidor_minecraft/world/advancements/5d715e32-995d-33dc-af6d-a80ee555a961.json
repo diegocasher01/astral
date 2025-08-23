@@ -6954,6 +6954,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-08-23 00:07:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/tool/bronze_sword": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-08-17 03:28:29 +0000"
@@ -10863,6 +10869,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "vegetable_soup": "2025-08-23 00:07:03 +0000",
       "pasta_with_meatballs": "2025-08-19 23:17:13 +0000",
       "vegetable_noodles": "2025-08-20 05:32:32 +0000",
       "fried_rice": "2025-08-19 22:48:07 +0000"

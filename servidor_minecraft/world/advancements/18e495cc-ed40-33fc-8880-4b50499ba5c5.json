@@ -4873,6 +4873,7 @@
   },
   "tconstruct:smeltery/abilities": {
     "criteria": {
+      "gilded": "2025-08-23 00:06:27 +0000",
       "tool_belt": "2025-08-20 05:19:39 +0000"
     },
     "done": false
@@ -7059,7 +7060,8 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "copper": "2025-08-20 04:51:25 +0000",
-      "bronze": "2025-08-19 01:03:34 +0000"
+      "bronze": "2025-08-19 01:03:34 +0000",
+      "iron": "2025-08-23 00:08:48 +0000"
     },
     "done": false
   },
@@ -10761,6 +10763,12 @@
   "createdeco:recipes/createdeco.bricks/cracked_red_brick_tiles_slab_vert_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-19 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
+    "criteria": {
+      "has_grass_variant": "2025-08-23 00:20:03 +0000"
     },
     "done": true
   },
