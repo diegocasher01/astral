@@ -1,113 +1,110 @@
-[23:38:34] [INFO ] Loaded script server_scripts:settings.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:fluid-constants.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:server-constants.js in 0.004 s
-[23:38:35] [INFO ] Loaded script server_scripts:data/loot_tables/entity.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:data/loot_tables/block.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:data/villager_trades.js in 0.003 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/minecraft/stonecutting.js in 0.003 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/minecraft/blasting.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/minecraft/smithing.js in 0.002 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/minecraft/smoking.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/minecraft/compostables.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/minecraft/shapeless.js in 0.002 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/minecraft/shaped.js in 0.009 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/minecraft/smelting.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/emptying.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/mechanical_crafting.js in 0.002 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/cutting.js in 0.002 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/createaddition/rolling.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/createaddition/charging.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/createaddition/liquid_burning.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/pressing.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/item_application.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/estrogen/centrifuging.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/milling.js in 0.002 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/splashing.js in 0.002 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/createbigcannons/melting.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/compacting.js in 0.002 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/filling.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/sandpaper_polishing.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/crushing.js in 0.005 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/deploying.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/mixing.js in 0.014 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/sequenced_assembly.js in 0.014 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/create/haunting.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/ad_astra/space_station.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/ad_astra/cryo_fuel_conversion.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/ad_astra/oxygen_conversion.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/replacements.js in 0.004 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astraladditions/chromatic_vacuum.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astraladditions/shimmer_transmute.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astraladditions/desizer.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/tconstruct/smeltery/casting_table.js in 0.002 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/tconstruct/smeltery/entity_melting.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/tconstruct/smeltery/melting.js in 0.003 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/tconstruct/smeltery/casting_basin.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/tconstruct/smeltery/melting_fuel.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/tconstruct/tools/tool_materials.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/tconstruct/tools/modifiers/modifiers.js in 0.003 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/automobility/auto_mechanic_table/engines.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/removals.js in 0.01 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/radio_telescope.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/signal_coordinator.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/drive_eraser.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/pp_decryptor.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/analog_decryptor.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/vinyl_printer.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/mp_decryptor.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/sequenced_assembly.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/createastral/machines/electrolyzer.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/createastral/machines/distillery.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/createastral/machines/stone_growth_chamber/copper.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/createastral/machines/shimmer_refinery.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/custommachinery/machines.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/techreborn/compressor.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/techreborn/vacuum_freezer.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/techreborn/industrial_electrolyzer.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/techreborn/blast_furnace.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/techreborn/centrifuge.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/techreborn/packing.js in 0.003 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/techreborn/chemical_reactor.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/techreborn/industrial_grinder.js in 0.004 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/techreborn/solid_canning_machine.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/techreborn/grinder.js in 0.002 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/techreborn/implosion_compressor.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/techreborn/wire_mill.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/techreborn/industrial_sawmill.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_generators/machines/boiler.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_generators/machines/particle_accelerator.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_generators/machines/assembler.js in 0.002 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_generators/machines/amalgamation_matrix.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_generators/machines/steam_turbine.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_generators/machines/fusion_reactor.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_generators/shapeless.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_generators/shaped.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/astral_generators/mixing.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/yttr/lamps.js in 0.002 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/yttr/centrifuging.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/yttr/soaking.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/vinery/wood_fired_oven_cooking.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/farmersdelight/cutting.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:recipes/farmersdelight/cooking.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:misc/spawnpointfix.js in 0.001 s
-[23:38:35] [INFO ] Loaded script server_scripts:misc/tconstruct_fluidsyncfix.js in 0.0 s
-[23:38:35] [INFO ] Loaded script server_scripts:misc/interaction.js in 0.004 s
-[23:38:35] [INFO ] Loaded script server_scripts:misc/dragon.js in 0.001 s
-[23:38:35] [INFO ] Loaded 95/95 KubeJS server scripts in 0.173 s
-[23:38:35] [INFO ] Scripts loaded
-[23:38:35] [INFO ] Scanning recipes...
-[23:38:42] [INFO ] [fluids] Found 167 tags, added 7 objects, removed 0 objects
-[23:38:42] [INFO ] [fluids] Found 167 tags, added 14 objects, removed 0 objects
-[23:38:42] [INFO ] [blocks] Found 993 tags, added 42 objects, removed 0 objects
-[23:38:42] [INFO ] [blocks] Found 993 tags, added 84 objects, removed 0 objects
-[23:38:42] [INFO ] [items] Found 1720 tags, added 4 objects, removed 0 objects
-[23:38:42] [INFO ] [items] Found 1720 tags, added 8 objects, removed 0 objects
-[23:38:44] [INFO ] Found 11065 recipes and 2 failed recipes in 442.8 ms
-[23:38:48] [INFO ] Posted recipe events in 3.848 s
-[23:38:48] [INFO ] Modified & removed recipes in 165.3 ms
-[23:38:49] [INFO ] Added recipes in 565.2 ms
-[23:38:49] [INFO ] Added 11023 recipes, removed 1912 recipes, modified 842 recipes, with 0 failed recipes and 0 fall-backed recipes
-[23:38:51] [INFO ] Collecting Custom Machine upgrades from JS scripts.
-[00:21:23] [INFO ] server_scripts:misc/interaction.js:259: {AABB:[871.8000000119209d,6.0d,-18.459179674614177d,876.8000000119209d,6.5d,-13.459179674614179d],Age:0,Air:300s,BalmData:{},Duration:300,DurationOnUse:0,Effects:[{Ambient:0b,Amplifier:100b,Duration:22,Id:2b,ShowIcon:1b,ShowParticles:1b},{Ambient:0b,Amplifier:100b,Duration:22,Id:4b,ShowIcon:1b,ShowParticles:1b}],FallDistance:0.0f,Fire:-1s,Invulnerable:0b,KubeJSPersistentData:{},Motion:[0.0d,0.0d,0.0d],OnGround:0b,Particle:"minecraft:entity_effect",PortalCooldown:0,Pos:[874.3000000119209d,6.0d,-15.959179674614179d],Radius:2.5f,RadiusOnUse:-0.5f,RadiusPerTick:-0.008333334f,ReapplicationDelay:20,Rotation:[0.0f,0.0f],UUID:[I;1642864164,-1432272568,-1938876986,113468610],WaitTime:10,allies:0b,cpaCooldown:0,cpadidTP:0b,enemy:0b,owner:0b} [net.minecraft.class_2487]
-[00:29:49] [INFO ] server_scripts:misc/interaction.js:259: {AABB:[927.8000000119209d,-27.0d,-116.51185125582006d,932.8000000119209d,-26.5d,-111.51185125582006d],Age:0,Air:300s,BalmData:{},Duration:300,DurationOnUse:0,Effects:[{Ambient:0b,Amplifier:100b,Duration:45,Id:2b,ShowIcon:1b,ShowParticles:1b},{Ambient:0b,Amplifier:100b,Duration:45,Id:4b,ShowIcon:1b,ShowParticles:1b}],FallDistance:0.0f,Fire:-1s,Invulnerable:0b,KubeJSPersistentData:{},Motion:[0.0d,0.0d,0.0d],OnGround:0b,Particle:"minecraft:entity_effect",PortalCooldown:0,Pos:[930.3000000119209d,-27.0d,-114.01185125582006d],Radius:2.5f,RadiusOnUse:-0.5f,RadiusPerTick:-0.008333334f,ReapplicationDelay:20,Rotation:[0.0f,0.0f],UUID:[I;741356019,-1600958614,-1997920126,-1184117068],WaitTime:10,allies:0b,cpaCooldown:0,cpadidTP:0b,enemy:0b,owner:0b} [net.minecraft.class_2487]
-[01:16:41] [INFO ] server_scripts:misc/interaction.js:259: {AABB:[850.8367650818074d,-14.0d,-223.19999998807907d,855.8367650818074d,-13.5d,-218.19999998807907d],Age:0,Air:300s,BalmData:{},Duration:300,DurationOnUse:0,Effects:[{Ambient:0b,Amplifier:100b,Duration:45,Id:2b,ShowIcon:1b,ShowParticles:1b},{Ambient:0b,Amplifier:100b,Duration:45,Id:4b,ShowIcon:1b,ShowParticles:1b}],FallDistance:0.0f,Fire:-1s,Invulnerable:0b,KubeJSPersistentData:{},Motion:[0.0d,0.0d,0.0d],OnGround:0b,Particle:"minecraft:entity_effect",PortalCooldown:0,Pos:[853.3367650818074d,-14.0d,-220.69999998807907d],Radius:2.5f,RadiusOnUse:-0.5f,RadiusPerTick:-0.008333334f,ReapplicationDelay:20,Rotation:[0.0f,0.0f],UUID:[I;535641160,243746554,-1578624550,-464005076],WaitTime:10,allies:0b,cpaCooldown:0,cpadidTP:0b,enemy:0b,owner:0b} [net.minecraft.class_2487]
+[02:17:03] [INFO ] Loaded script server_scripts:settings.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:fluid-constants.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:server-constants.js in 0.003 s
+[02:17:03] [INFO ] Loaded script server_scripts:data/loot_tables/entity.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:data/loot_tables/block.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:data/villager_trades.js in 0.004 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/minecraft/stonecutting.js in 0.002 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/minecraft/blasting.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/minecraft/smithing.js in 0.002 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/minecraft/smoking.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/minecraft/compostables.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/minecraft/shapeless.js in 0.002 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/minecraft/shaped.js in 0.012 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/minecraft/smelting.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/emptying.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/mechanical_crafting.js in 0.003 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/cutting.js in 0.002 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/createaddition/rolling.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/createaddition/charging.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/createaddition/liquid_burning.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/pressing.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/item_application.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/estrogen/centrifuging.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/milling.js in 0.002 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/splashing.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/createbigcannons/melting.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/compacting.js in 0.003 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/filling.js in 0.002 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/sandpaper_polishing.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/crushing.js in 0.008 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/deploying.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/mixing.js in 0.011 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/sequenced_assembly.js in 0.013 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/create/haunting.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/ad_astra/space_station.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/ad_astra/cryo_fuel_conversion.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/ad_astra/oxygen_conversion.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/replacements.js in 0.003 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astraladditions/chromatic_vacuum.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astraladditions/shimmer_transmute.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astraladditions/desizer.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/tconstruct/smeltery/casting_table.js in 0.002 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/tconstruct/smeltery/entity_melting.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/tconstruct/smeltery/melting.js in 0.002 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/tconstruct/smeltery/casting_basin.js in 0.002 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/tconstruct/smeltery/melting_fuel.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/tconstruct/tools/tool_materials.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/tconstruct/tools/modifiers/modifiers.js in 0.005 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/automobility/auto_mechanic_table/engines.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/removals.js in 0.008 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/radio_telescope.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/signal_coordinator.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/drive_eraser.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/pp_decryptor.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/analog_decryptor.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/vinyl_printer.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/mp_decryptor.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_signals/machines/sequenced_assembly.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/createastral/machines/electrolyzer.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/createastral/machines/distillery.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/createastral/machines/stone_growth_chamber/copper.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/createastral/machines/shimmer_refinery.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/custommachinery/machines.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/techreborn/compressor.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/techreborn/vacuum_freezer.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/techreborn/industrial_electrolyzer.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/techreborn/blast_furnace.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/techreborn/centrifuge.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/techreborn/packing.js in 0.003 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/techreborn/chemical_reactor.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/techreborn/industrial_grinder.js in 0.003 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/techreborn/solid_canning_machine.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/techreborn/grinder.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/techreborn/implosion_compressor.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/techreborn/wire_mill.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/techreborn/industrial_sawmill.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_generators/machines/boiler.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_generators/machines/particle_accelerator.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_generators/machines/assembler.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_generators/machines/amalgamation_matrix.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_generators/machines/steam_turbine.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_generators/machines/fusion_reactor.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_generators/shapeless.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_generators/shaped.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/astral_generators/mixing.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/yttr/lamps.js in 0.002 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/yttr/centrifuging.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/yttr/soaking.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/vinery/wood_fired_oven_cooking.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/farmersdelight/cutting.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:recipes/farmersdelight/cooking.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:misc/spawnpointfix.js in 0.001 s
+[02:17:03] [INFO ] Loaded script server_scripts:misc/tconstruct_fluidsyncfix.js in 0.0 s
+[02:17:03] [INFO ] Loaded script server_scripts:misc/interaction.js in 0.003 s
+[02:17:03] [INFO ] Loaded script server_scripts:misc/dragon.js in 0.001 s
+[02:17:03] [INFO ] Loaded 95/95 KubeJS server scripts in 0.163 s
+[02:17:03] [INFO ] Scripts loaded
+[02:17:04] [INFO ] Scanning recipes...
+[02:17:10] [INFO ] [fluids] Found 167 tags, added 7 objects, removed 0 objects
+[02:17:10] [INFO ] [fluids] Found 167 tags, added 14 objects, removed 0 objects
+[02:17:10] [INFO ] [blocks] Found 993 tags, added 42 objects, removed 0 objects
+[02:17:10] [INFO ] [blocks] Found 993 tags, added 84 objects, removed 0 objects
+[02:17:10] [INFO ] [items] Found 1720 tags, added 4 objects, removed 0 objects
+[02:17:10] [INFO ] [items] Found 1720 tags, added 8 objects, removed 0 objects
+[02:17:12] [INFO ] Found 11065 recipes and 2 failed recipes in 439.6 ms
+[02:17:15] [INFO ] Posted recipe events in 2.856 s
+[02:17:15] [INFO ] Modified & removed recipes in 123.4 ms
+[02:17:16] [INFO ] Added recipes in 1.166 s
+[02:17:16] [INFO ] Added 11023 recipes, removed 1912 recipes, modified 842 recipes, with 0 failed recipes and 0 fall-backed recipes
+[02:17:18] [INFO ] Collecting Custom Machine upgrades from JS scripts.
