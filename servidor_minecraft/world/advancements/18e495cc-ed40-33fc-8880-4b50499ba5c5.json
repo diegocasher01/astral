@@ -2283,6 +2283,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
+    "criteria": {
+      "has_rail": "2025-08-23 00:55:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_candle_from_light_gray_candle_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-20 00:01:47 +0000"
@@ -3639,6 +3645,7 @@
       "minecraft:vindicator": "2025-08-19 01:51:57 +0000",
       "minecraft:spider": "2025-08-19 02:05:24 +0000",
       "minecraft:creeper": "2025-08-19 02:34:21 +0000",
+      "minecraft:cave_spider": "2025-08-23 00:57:55 +0000",
       "minecraft:zombie": "2025-08-19 02:04:41 +0000",
       "minecraft:zombie_villager": "2025-08-19 02:42:54 +0000"
     },
@@ -4998,6 +5005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-23 00:55:14 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/acacia_drawer": {
     "criteria": {
       "has_planks": "2025-08-19 01:28:02 +0000"
@@ -6039,6 +6052,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/ingot/tin_ingot_from_nugget": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-23 00:55:14 +0000"
     },
     "done": true
   },
@@ -9907,6 +9926,7 @@
     "criteria": {
       "minecraft:bamboo_jungle": "2025-08-19 02:25:49 +0000",
       "minecraft:beach": "2025-08-20 04:40:41 +0000",
+      "minecraft:dark_forest": "2025-08-23 00:57:04 +0000",
       "minecraft:sparse_jungle": "2025-08-19 01:00:42 +0000",
       "minecraft:river": "2025-08-19 03:18:46 +0000",
       "minecraft:lukewarm_ocean": "2025-08-22 00:27:23 +0000",
@@ -11442,6 +11462,12 @@
   "techreborn:recipes/chemical_reactor/blue_carpet_from_white_carpet_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-20 00:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-08-23 00:55:14 +0000"
     },
     "done": true
   },
