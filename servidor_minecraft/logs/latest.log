@@ -10127,3 +10127,5 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [01:11:20] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Octlopez04. Normal: GRAVE / Robbing: INVENTORY
 [01:11:20] [Netty Epoll Server IO #5/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
 [01:19:43] [Server thread/INFO]: Octlopez04 has made the advancement [Wind Maker]
+[02:59:12] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
+[02:59:12] [Server thread/INFO]: Octlopez04 left the game
