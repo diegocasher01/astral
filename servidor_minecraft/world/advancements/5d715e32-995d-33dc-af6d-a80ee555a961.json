@@ -14100,6 +14100,12 @@
     },
     "done": true
   },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-08-24 00:44:49 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/shot_balls": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
