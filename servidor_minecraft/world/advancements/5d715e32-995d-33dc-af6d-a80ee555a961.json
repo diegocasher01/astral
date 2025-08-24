@@ -767,6 +767,12 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-08-24 01:19:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/netherite_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
@@ -4076,6 +4082,12 @@
   "techreborn:recipes/centrifuge/glistering_melon_slice": {
     "criteria": {
       "has_glistering_melon_slice": "2025-08-23 00:43:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-08-24 01:18:52 +0000"
     },
     "done": true
   },
