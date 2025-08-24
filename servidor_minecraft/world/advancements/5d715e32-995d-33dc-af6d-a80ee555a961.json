@@ -5346,6 +5346,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-08-24 00:28:48 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/andesite_door": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
@@ -12311,6 +12317,12 @@
   "dustrial_decor:recipes/building_blocks/padded_block": {
     "criteria": {
       "has_white_wool": "2025-08-16 21:57:17 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-08-24 00:34:37 +0000"
     },
     "done": true
   },
