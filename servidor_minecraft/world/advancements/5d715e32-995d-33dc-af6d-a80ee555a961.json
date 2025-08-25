@@ -4506,6 +4506,12 @@
     },
     "done": true
   },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-08-25 08:22:59 +0000"
+    },
+    "done": true
+  },
   "create:rose_quartz": {
     "criteria": {
       "0": "2025-08-19 23:55:19 +0000"
