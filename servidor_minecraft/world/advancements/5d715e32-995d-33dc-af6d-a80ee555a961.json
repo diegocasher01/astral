@@ -5087,6 +5087,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-08-25 09:03:55 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cracked_bricks_smelting": {
     "criteria": {
       "has_item": "2025-08-17 05:41:17 +0000"
@@ -11809,6 +11815,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/rubber_plank_slab_from_stairs": {
+    "criteria": {
+      "has_rubber_plank_stair": "2025-08-25 09:01:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
@@ -13941,6 +13953,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2025-08-19 22:34:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-08-25 09:03:55 +0000"
     },
     "done": true
   },
