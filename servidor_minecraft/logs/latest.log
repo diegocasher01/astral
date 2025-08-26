@@ -7272,3 +7272,9 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [06:00:17] [FTB Backups scheduled executor 0/INFO]: Writing to file /workspaces/astral/servidor_minecraft/backups/backups.json
 [06:03:46] [Server thread/INFO]: Kao lost connection: Disconnected
 [06:03:46] [Server thread/INFO]: Kao left the game
+[06:11:24] [Server thread/INFO]: Lumi_uwu lost connection: Disconnected
+[06:11:24] [Server thread/INFO]: Lumi_uwu left the game
+[06:15:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=343, y=63, z=26} class_2338{x=393, y=65, z=35}
+[06:15:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=394, y=62, z=35} class_2338{x=394, y=61, z=36}
+[06:15:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=394, y=62, z=35} class_2338{x=394, y=61, z=36}
+[06:15:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=394, y=62, z=35} class_2338{x=394, y=61, z=36}
