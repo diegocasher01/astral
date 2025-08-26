@@ -455,6 +455,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/another_furniture/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-08-26 21:34:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/armor/peridot_leggings": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
@@ -2523,6 +2529,12 @@
     },
     "done": true
   },
+  "create:train": {
+    "criteria": {
+      "0": "2025-08-26 21:43:21 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/storage_block/copper_wall": {
     "criteria": {
       "has_copper": "2025-08-19 01:07:44 +0000"
@@ -3225,6 +3237,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-08-19 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/another_furniture/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-08-26 21:34:58 +0000"
     },
     "done": true
   },
@@ -4772,6 +4790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-08-26 21:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-08-20 01:12:00 +0000"
@@ -5214,6 +5238,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-22 00:08:50 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/another_furniture/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2025-08-26 21:34:58 +0000"
     },
     "done": true
   },
@@ -5805,6 +5835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-26 21:34:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/blasting/refined_iron_ingot_from_iron_ingot": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
@@ -5832,6 +5868,12 @@
   "mcdw:recipes/spears/spear_spear": {
     "criteria": {
       "has_base": "2025-08-19 01:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-26 21:34:58 +0000"
     },
     "done": true
   },
@@ -7645,6 +7687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-26 21:34:58 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_board": {
     "criteria": {
       "has_item": "2025-08-19 01:23:16 +0000"
@@ -8364,6 +8412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-08-26 21:34:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/helium_cell": {
     "criteria": {
       "has_helium": "2025-08-19 01:00:42 +0000"
@@ -8686,6 +8740,12 @@
   "techreborn:recipes/crafting_table/tool/electric_treetap": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-08-26 21:34:58 +0000"
     },
     "done": true
   },
@@ -9332,6 +9392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-08-26 21:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-08-19 02:06:30 +0000"
@@ -9557,6 +9623,12 @@
   "techreborn:recipes/crafting_table/manual": {
     "criteria": {
       "has_book": "2025-08-19 02:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-26 21:34:58 +0000"
     },
     "done": true
   },
@@ -9989,6 +10061,12 @@
   "techreborn:recipes/chemical_reactor/magenta_stained_glass_from_glass_with_magenta_dye": {
     "criteria": {
       "has_magenta_dye": "2025-08-19 02:21:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-26 21:34:58 +0000"
     },
     "done": true
   },
@@ -11424,6 +11502,12 @@
   "techreborn:recipes/chemical_reactor/purple_stained_glass_from_blue_stained_glass_with_magenta_dye": {
     "criteria": {
       "has_magenta_dye": "2025-08-19 02:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-08-26 21:34:58 +0000"
     },
     "done": true
   },

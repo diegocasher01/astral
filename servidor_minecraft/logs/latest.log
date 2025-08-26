@@ -7896,3 +7896,8 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [21:22:11] [Netty Epoll Server IO #4/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
 [21:22:11] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7b82754d (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [21:22:11] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4ed5e15f (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[21:43:21] [Server thread/INFO]: Lumi_uwu has made the advancement [All Aboard!]
+[21:43:38] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
+[21:43:38] [Server thread/INFO]: Octlopez04 left the game
+[21:43:41] [Server thread/INFO]: Lumi_uwu lost connection: Disconnected
+[21:43:41] [Server thread/INFO]: Lumi_uwu left the game
