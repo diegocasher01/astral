@@ -13431,6 +13431,12 @@
     },
     "done": true
   },
+  "ad_astra:space_suit": {
+    "criteria": {
+      "space_suit": "2025-08-26 23:42:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-19 23:39:22 +0000"
