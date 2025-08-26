@@ -7084,3 +7084,117 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [04:58:23] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Lumi_uwu. Normal: GRAVE / Robbing: INVENTORY
 [04:58:23] [Netty Epoll Server IO #0/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
 [04:58:40] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[04:59:55] [Server thread/INFO]: Kao has made the advancement [Sweet Dreams]
+[05:04:40] [Server thread/INFO]: Kao has made the advancement [The Sturdiest Rocks]
+[05:05:12] [Server thread/INFO]: Kao has made the advancement [Stone Age]
+[05:06:51] [Server thread/INFO]: Octlopez04 was slain by Kao
+[05:06:51] [Server thread/INFO]: Grave spawned at: 333, 64, 27 | overworld
+[05:06:52] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:06:52] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:06:57] [Server thread/INFO]: Grave at 333, 64, 27 was replaced with Block{minecraft:air}
+[05:06:57] [Server thread/INFO]: Octlopez04 is retrieving their grave at 333, 64, 27
+[05:06:57] [Server thread/INFO]: Octlopez04 retrieved the items from the grave
+[05:07:35] [Server thread/INFO]: Kao was slain by Octlopez04
+[05:07:35] [Server thread/INFO]: Grave spawned at: 336, 64, 22 | overworld
+[05:07:37] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:07:37] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:07:41] [Server thread/INFO]: Grave at 336, 64, 22 was replaced with Block{minecraft:air}
+[05:07:41] [Server thread/INFO]: Kao is retrieving their grave at 336, 64, 22
+[05:07:41] [Server thread/INFO]: Kao retrieved the items from the grave
+[05:07:59] [Server thread/INFO]: {AABB:[322.77031411314124d,64.0d,9.432079079266302d,332.77031411314124d,64.5d,19.432079079266302d],Age:0,Air:300s,BalmData:{},Duration:60,DurationOnUse:0,Effects:[{Ambient:0b,Amplifier:0b,Duration:60,Id:19b,ShowIcon:1b,ShowParticles:1b}],FallDistance:0.0f,Fire:-1s,Invulnerable:0b,KubeJSPersistentData:{},Motion:[0.0d,0.0d,0.0d],OnGround:0b,Owner:[I;1818277065,2100637710,-2015573259,-1030391320],Particle:"minecraft:entity_effect",PortalCooldown:0,Pos:[327.77031411314124d,64.0d,14.432079079266302d],Radius:5.0f,RadiusOnUse:-0.5f,RadiusPerTick:0.0f,ReapplicationDelay:20,Rotation:[0.0f,0.0f],UUID:[I;-348421573,1438925729,-1285219880,1086727538],WaitTime:10,allies:1b,cpaCooldown:0,cpadidTP:0b,enemy:0b,owner:1b} [net.minecraft.class_2487]
+[05:08:08] [Server thread/INFO]: {AABB:[322.5840928848984d,64.1212968405392d,24.44164972962445d,332.5840928848984d,64.6212968405392d,34.44164972962445d],Age:0,Air:300s,BalmData:{},Duration:60,DurationOnUse:0,Effects:[{Ambient:0b,Amplifier:0b,Duration:60,Id:19b,ShowIcon:1b,ShowParticles:1b}],FallDistance:0.0f,Fire:-1s,Invulnerable:0b,KubeJSPersistentData:{},Motion:[0.0d,0.0d,0.0d],OnGround:0b,Owner:[I;1818277065,2100637710,-2015573259,-1030391320],Particle:"minecraft:entity_effect",PortalCooldown:0,Pos:[327.5840928848984d,64.1212968405392d,29.44164972962445d],Radius:5.0f,RadiusOnUse:-0.5f,RadiusPerTick:0.0f,ReapplicationDelay:20,Rotation:[0.0f,0.0f],UUID:[I;1480840697,-1973402243,-1692667942,-1184760132],WaitTime:10,allies:1b,cpaCooldown:0,cpadidTP:0b,enemy:0b,owner:1b} [net.minecraft.class_2487]
+[05:08:11] [Server thread/INFO]: Octlopez04 was slain by Kao
+[05:08:11] [Server thread/INFO]: Grave spawned at: 325, 65, 22 | overworld
+[05:08:12] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:08:12] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:08:15] [Server thread/INFO]: {AABB:[326.6069731027004d,64.0d,17.777848952658463d,336.6069731027004d,64.5d,27.777848952658463d],Age:0,Air:300s,BalmData:{},Duration:60,DurationOnUse:0,Effects:[{Ambient:0b,Amplifier:0b,Duration:60,Id:19b,ShowIcon:1b,ShowParticles:1b}],FallDistance:0.0f,Fire:-1s,Invulnerable:0b,KubeJSPersistentData:{},Motion:[0.0d,0.0d,0.0d],OnGround:0b,Owner:[I;1818277065,2100637710,-2015573259,-1030391320],Particle:"minecraft:entity_effect",PortalCooldown:0,Pos:[331.6069731027004d,64.0d,22.777848952658463d],Radius:5.0f,RadiusOnUse:-0.5f,RadiusPerTick:0.0f,ReapplicationDelay:20,Rotation:[0.0f,0.0f],UUID:[I;-1968699639,1240288255,-1193882416,1995218158],WaitTime:10,allies:1b,cpaCooldown:0,cpadidTP:0b,enemy:0b,owner:1b} [net.minecraft.class_2487]
+[05:08:16] [Server thread/INFO]: {AABB:[326.46964341613284d,64.0d,17.879892539205198d,336.46964341613284d,64.5d,27.879892539205198d],Age:0,Air:300s,BalmData:{},Duration:60,DurationOnUse:0,Effects:[{Ambient:0b,Amplifier:0b,Duration:60,Id:19b,ShowIcon:1b,ShowParticles:1b}],FallDistance:0.0f,Fire:-1s,Invulnerable:0b,KubeJSPersistentData:{},Motion:[0.0d,0.0d,0.0d],OnGround:0b,Owner:[I;1818277065,2100637710,-2015573259,-1030391320],Particle:"minecraft:entity_effect",PortalCooldown:0,Pos:[331.46964341613284d,64.0d,22.879892539205198d],Radius:5.0f,RadiusOnUse:-0.5f,RadiusPerTick:0.0f,ReapplicationDelay:20,Rotation:[0.0f,0.0f],UUID:[I;755893663,-559263881,-1647667535,1908255753],WaitTime:10,allies:1b,cpaCooldown:0,cpadidTP:0b,enemy:0b,owner:1b} [net.minecraft.class_2487]
+[05:08:20] [Server thread/INFO]: Grave at 325, 65, 22 was replaced with Block{minecraft:air}
+[05:08:20] [Server thread/INFO]: Octlopez04 is retrieving their grave at 325, 65, 22
+[05:08:20] [Server thread/INFO]: Octlopez04 retrieved the items from the grave
+[05:08:24] [Server thread/INFO]: Kao was slain by Octlopez04
+[05:08:24] [Server thread/INFO]: Grave spawned at: 324, 64, 31 | overworld
+[05:08:25] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:08:25] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:08:33] [Server thread/INFO]: Kao was slain by Octlopez04
+[05:08:33] [Server thread/INFO]: Didn't generate grave as grave wouldn't contain anything
+[05:08:34] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:08:34] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:08:46] [Server thread/INFO]: Grave at 324, 64, 31 was replaced with Block{minecraft:air}
+[05:08:46] [Server thread/INFO]: Kao is retrieving their grave at 324, 64, 31
+[05:08:46] [Server thread/INFO]: Kao retrieved the items from the grave
+[05:09:23] [Server thread/INFO]: Octlopez04 was slain by Kao
+[05:09:23] [Server thread/INFO]: Grave spawned at: 338, 64, 25 | overworld
+[05:09:25] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:09:25] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:09:29] [Server thread/INFO]: Grave at 338, 64, 25 was replaced with Block{minecraft:air}
+[05:09:29] [Server thread/INFO]: Octlopez04 is retrieving their grave at 338, 64, 25
+[05:09:29] [Server thread/INFO]: Octlopez04 retrieved the items from the grave
+[05:09:31] [Server thread/INFO]: Saving grave backup data
+[05:10:03] [Server thread/INFO]: Kao was slain by Octlopez04
+[05:10:03] [Server thread/INFO]: Grave spawned at: 329, 64, 25 | overworld
+[05:10:05] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:10:05] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:10:09] [Server thread/INFO]: Grave at 329, 64, 25 was replaced with Block{minecraft:air}
+[05:10:09] [Server thread/INFO]: Kao is retrieving their grave at 329, 64, 25
+[05:10:09] [Server thread/INFO]: Kao retrieved the items from the grave
+[05:10:21] [Server thread/INFO]: Lumi_uwu was slain by Kao
+[05:10:21] [Server thread/INFO]: Grave spawned at: 340, 64, 1 | overworld
+[05:10:22] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:10:22] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:10:26] [Server thread/INFO]: Grave at 340, 64, 1 was replaced with Block{minecraft:air}
+[05:10:26] [Server thread/INFO]: Lumi_uwu is retrieving their grave at 340, 64, 1
+[05:10:26] [Server thread/INFO]: Lumi_uwu retrieved the items from the grave
+[05:10:31] [Server thread/INFO]: Octlopez04 was slain by Kao
+[05:10:31] [Server thread/INFO]: Grave spawned at: 336, 64, 9 | overworld
+[05:10:31] [Netty Epoll Server IO #2/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05:10:31] [Netty Epoll Server IO #2/ERROR]: Combo count: 7 is dual wielding: false
+[05:10:31] [Netty Epoll Server IO #2/ERROR]: Main-hand stack: 0 air
+[05:10:31] [Netty Epoll Server IO #2/ERROR]: Off-hand stack: 0 air
+[05:10:31] [Netty Epoll Server IO #2/ERROR]: Selected slot server: 8 | client: 8
+[05:10:33] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:10:33] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:10:36] [Server thread/INFO]: Grave at 336, 64, 9 was replaced with Block{minecraft:air}
+[05:10:36] [Server thread/INFO]: Octlopez04 is retrieving their grave at 336, 64, 9
+[05:10:36] [Server thread/INFO]: Octlopez04 retrieved the items from the grave
+[05:10:47] [Server thread/INFO]: Kao was slain by Octlopez04
+[05:10:47] [Server thread/INFO]: Grave spawned at: 331, 64, 25 | overworld
+[05:10:49] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:10:49] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:10:54] [Server thread/INFO]: Kao was slain by Octlopez04
+[05:10:54] [Server thread/INFO]: Didn't generate grave as grave wouldn't contain anything
+[05:10:55] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:10:55] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:11:00] [Server thread/INFO]: Grave at 331, 64, 25 was replaced with Block{minecraft:air}
+[05:11:00] [Server thread/INFO]: Kao is retrieving their grave at 331, 64, 25
+[05:11:00] [Server thread/INFO]: Kao retrieved the items from the grave
+[05:11:16] [Server thread/INFO]: Octlopez04 was burnt to a crisp whilst fighting Kao
+[05:11:16] [Server thread/INFO]: Grave spawned at: 327, 64, 36 | overworld
+[05:11:17] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:11:17] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:11:24] [Server thread/INFO]: Grave at 327, 64, 36 was replaced with Block{minecraft:air}
+[05:11:24] [Server thread/INFO]: Octlopez04 is retrieving their grave at 327, 64, 36
+[05:11:24] [Server thread/INFO]: Octlopez04 retrieved the items from the grave
+[05:11:28] [Server thread/INFO]: Kao was slain by Octlopez04
+[05:11:28] [Server thread/INFO]: Grave spawned at: 326, 64, 20 | overworld
+[05:11:29] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:11:29] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:11:34] [Server thread/INFO]: Grave at 326, 64, 20 was replaced with Block{minecraft:air}
+[05:11:34] [Server thread/INFO]: Kao is retrieving their grave at 326, 64, 20
+[05:11:34] [Server thread/INFO]: Kao retrieved the items from the grave
+[05:11:50] [Server thread/INFO]: Kao was slain by Octlopez04
+[05:11:50] [Server thread/INFO]: Grave spawned at: 335, 64, 16 | overworld
+[05:11:50] [Netty Epoll Server IO #5/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05:11:50] [Netty Epoll Server IO #5/ERROR]: Combo count: 7 is dual wielding: false
+[05:11:50] [Netty Epoll Server IO #5/ERROR]: Main-hand stack: 0 air
+[05:11:50] [Netty Epoll Server IO #5/ERROR]: Off-hand stack: 0 air
+[05:11:50] [Netty Epoll Server IO #5/ERROR]: Selected slot server: 5 | client: 5
+[05:11:51] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:11:51] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:11:54] [Server thread/INFO]: Grave at 335, 64, 16 was replaced with Block{minecraft:air}
+[05:11:54] [Server thread/INFO]: Kao is retrieving their grave at 335, 64, 16
+[05:11:54] [Server thread/INFO]: Kao retrieved the items from the grave
+[05:14:06] [Server thread/INFO]: Kao has made the advancement [Monster Hunter]
+[05:14:31] [Server thread/INFO]: Saving grave backup data
+[05:19:03] [Server thread/INFO]: Kao has made the advancement [Ice Bucket Challenge]
+[05:19:11] [Server thread/INFO]: Kao has made the advancement [Diamonds!]

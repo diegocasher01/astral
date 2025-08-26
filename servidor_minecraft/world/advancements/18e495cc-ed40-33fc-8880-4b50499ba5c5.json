@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2025-08-19 01:03:35 +0000"
@@ -2217,6 +2223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-08-19 01:07:44 +0000"
@@ -2370,6 +2382,12 @@
   "vinery:kitchen_sink": {
     "criteria": {
       "has_cauldron": "2025-08-22 03:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
     },
     "done": true
   },
@@ -3396,6 +3414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-19 01:03:32 +0000"
@@ -4110,6 +4134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/sand_cast": {
     "criteria": {
       "has_casting": "2025-08-19 01:28:04 +0000"
@@ -4248,6 +4278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_planks": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
@@ -4306,6 +4342,12 @@
   "techreborn:recipes/crafting_table/parts/helium_coolant_cell_180k": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
     },
     "done": true
   },
@@ -4552,6 +4594,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/iridium_reinforced_stone_blocks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
     },
     "done": true
   },
@@ -5738,6 +5786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/blasting/refined_iron_ingot_from_iron_ingot": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
@@ -6023,6 +6077,12 @@
   "createdeco:recipes/createdeco.bricks/mossy_red_bricks_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-19 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
     },
     "done": true
   },
@@ -6391,6 +6451,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/hot_tungstensteel_storage_block": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
     },
     "done": true
   },
@@ -7383,6 +7449,12 @@
   "create:recipes/create.palettes/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
     },
     "done": true
   },
@@ -8853,6 +8925,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-08-19 02:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
     },
     "done": true
   },
@@ -11631,6 +11709,12 @@
   "techreborn:recipes/crafting_table/parts/superconductor": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:03:48 +0000"
     },
     "done": true
   },
