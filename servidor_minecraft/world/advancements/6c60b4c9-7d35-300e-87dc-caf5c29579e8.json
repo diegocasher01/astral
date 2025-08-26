@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-26 05:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-08-26 05:05:12 +0000"
@@ -29,6 +35,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-08-26 05:19:19 +0000"
@@ -38,6 +50,12 @@
   "vinery:vinemaker_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-08-26 05:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -80,6 +98,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -294,6 +318,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/blackstone": {
     "criteria": {
       "has_cobblestone": "2025-08-26 05:05:12 +0000"
@@ -414,6 +444,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-26 05:04:59 +0000"
@@ -487,6 +523,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/raw_raw_tin_storage_block": {
+    "criteria": {
+      "has_raw_tin": "2025-08-26 05:39:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-08-26 05:19:15 +0000"
@@ -499,9 +541,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_katana": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-26 05:41:02 +0000"
     },
     "done": true
   },
@@ -556,6 +610,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-26 05:05:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -835,6 +895,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_hawkbrand": {
     "criteria": {
       "has_emerald": "2025-08-26 05:19:32 +0000"
@@ -895,6 +961,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/mortar_stone": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/iron_ingot_with_mercury": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:23 +0000"
@@ -934,6 +1006,12 @@
   "create:recipes/create.base/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2025-08-26 05:19:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -1004,9 +1082,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/schedule": {
     "criteria": {
       "has_item": "2025-08-26 05:04:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -1293,6 +1383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/zinc_plate": {
     "criteria": {
       "has_tag_c_zinc_ingots": "2025-08-26 05:19:38 +0000"
@@ -1404,6 +1500,12 @@
   "mcdw:recipes/swords/sword_claymore": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -1641,6 +1743,13 @@
     },
     "done": true
   },
+  "vinery:campfire": {
+    "criteria": {
+      "has_coal": "2025-08-26 05:41:06 +0000",
+      "has_the_recipe": "2025-08-26 05:41:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2025-08-26 05:19:35 +0000"
@@ -1716,6 +1825,12 @@
   "mcdw:recipes/sickles/sickle_sickle": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -1851,6 +1966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-08-26 05:41:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/redstone_small_dust_from_dust": {
     "criteria": {
       "has_redstone": "2025-08-26 05:19:26 +0000"
@@ -1879,6 +2000,12 @@
     "criteria": {
       "has_helium3": "2025-08-26 04:45:46 +0000",
       "has_deuterium": "2025-08-26 04:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -1918,6 +2045,12 @@
     },
     "done": true
   },
+  "techreborn:root": {
+    "criteria": {
+      "raw_metal_in_inventory": "2025-08-26 05:39:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/lantern": {
     "criteria": {
       "has_torch": "2025-08-26 05:34:17 +0000"
@@ -1933,6 +2066,12 @@
   "mcdw:recipes/axes/axe_highland": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -2151,6 +2290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/armor/bronze_boots": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-08-26 05:05:58 +0000"
@@ -2235,6 +2380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-26 05:04:59 +0000"
@@ -2301,6 +2452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-26 05:00:19 +0000"
@@ -2346,6 +2503,12 @@
   "mcdw:recipes/sickles/sickle_jailors_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -2487,6 +2650,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_tin": {
+    "criteria": {
+      "has_raw_tin_ores": "2025-08-26 05:39:08 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/make_part": {
     "criteria": {
       "crafted_part": "2025-08-26 05:20:20 +0000"
@@ -2532,6 +2707,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-08-26 05:05:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -2611,6 +2792,12 @@
   "mcdw:recipes/spears/spear_fortune": {
     "criteria": {
       "has_gold_ingot": "2025-08-26 05:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-08-26 05:41:02 +0000"
     },
     "done": true
   },
@@ -2794,6 +2981,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot": {
     "criteria": {
       "has_bronze_ingot": "2025-08-26 05:05:58 +0000"
@@ -2827,6 +3020,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-08-26 04:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -2896,6 +3095,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/decorations/energy_trash_can": {
     "criteria": {
       "recipe_condition": "2025-08-26 05:19:26 +0000"
@@ -2956,6 +3161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-26 05:41:06 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_shadow_crossbow": {
     "criteria": {
       "has_diamond": "2025-08-26 05:19:11 +0000"
@@ -2965,6 +3176,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-08-26 05:19:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/diorite_dust": {
+    "criteria": {
+      "has_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -2998,6 +3215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/smelting/refined_iron_ingot_from_iron_ingot": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:24 +0000"
@@ -3019,6 +3242,12 @@
   "techreborn:recipes/industrial_grinder/gold_ingot_with_mercury": {
     "criteria": {
       "has_gold_ingot": "2025-08-26 05:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -3097,6 +3326,12 @@
   "techreborn:recipes/grinder/steel_dust": {
     "criteria": {
       "has_tag_c_steel_ingots": "2025-08-26 05:04:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -3190,6 +3425,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/smelting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-08-26 05:39:08 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_pane": {
     "criteria": {
       "has_item": "2025-08-26 05:19:38 +0000"
@@ -3229,6 +3470,12 @@
   "techreborn:recipes/crafting_table/storage_block/copper_wall_stonecutting": {
     "criteria": {
       "has_copper": "2025-08-26 05:19:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
     },
     "done": true
   },
@@ -3287,9 +3534,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/steel_plate": {
     "criteria": {
       "has_tag_c_steel_ingots": "2025-08-26 05:04:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/coal_dust": {
+    "criteria": {
+      "has_coal": "2025-08-26 05:41:06 +0000"
     },
     "done": true
   },
@@ -3538,6 +3797,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-26 05:19:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/blasting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-08-26 05:39:08 +0000"
     },
     "done": true
   },
