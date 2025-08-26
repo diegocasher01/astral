@@ -1,0 +1,29 @@
+{
+	version: 1
+	uuid: "6c60b4c97d35300e87dccaf5c29579e8"
+	name: "Kao"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		225D156FEDCD5C4E: 1
+		0FFF0F95A45D6A56: 1
+	}
+	started: {
+		50A67A22E5C03589: 1756183546222L
+		0000000000000001: 1756183546222L
+		6ADD71B3CD955A72: 1756183546222L
+		225D156FEDCD5C4E: 1756183546222L
+		0FFF0F95A45D6A56: 1756183546317L
+		70E54AE7E953CDB2: 1756183546317L
+	}
+	completed: {
+		225D156FEDCD5C4E: 1756183546225L
+		0FFF0F95A45D6A56: 1756183546318L
+		70E54AE7E953CDB2: 1756183546318L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

@@ -7055,3 +7055,32 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [04:45:54] [Netty Epoll Server IO #5/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
 [04:45:54] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [04:45:54] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[04:55:52] [Server thread/INFO]: Kao has made the advancement [Crops of the Wild]
+[04:57:17] [Server thread/INFO]: Kao has made the advancement [A Seedy Place]
+[04:58:05] [Server thread/INFO]: {AABB:[335.31245311453097d,64.0d,0.8710259496094599d,340.31245311453097d,64.5d,5.87102594960946d],Age:0,Air:300s,BalmData:{},Duration:300,DurationOnUse:0,Effects:[{Ambient:0b,Amplifier:0b,Duration:30,Id:1b,ShowIcon:0b,ShowParticles:0b}],FallDistance:0.0f,Fire:-1s,Invulnerable:0b,KubeJSPersistentData:{},Motion:[0.0d,0.0d,0.0d],OnGround:0b,Particle:"minecraft:entity_effect",PortalCooldown:0,Pos:[337.81245311453097d,64.0d,3.37102594960946d],Radius:2.5f,RadiusOnUse:-0.5f,RadiusPerTick:-0.008333334f,ReapplicationDelay:20,Rotation:[0.0f,0.0f],UUID:[I;1376916368,2120893082,-1692122875,414539677],WaitTime:10,allies:0b,cpaCooldown:0,cpadidTP:0b,enemy:0b,owner:0b} [net.minecraft.class_2487]
+[04:58:18] [Server thread/INFO]: Lumi_uwu[/100.108.54.3:57508] logged in with entity id 15935 at (812.8637281384935, -40.0, -279.5964916970899)
+[04:58:18] [Server thread/INFO]: Syncing config to Lumi_uwu (18e495cc-ed40-33fc-8880-4b50499ba5c5)
+[04:58:18] [Server thread/INFO]: Loading config from file...
+[04:58:18] [Server thread/INFO]: Lumi_uwu joined the game
+[04:58:18] [Netty Epoll Server IO #7/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[04:58:18] [Netty Epoll Server IO #7/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[04:58:18] [Netty Epoll Server IO #7/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[04:58:18] [Netty Epoll Server IO #7/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[04:58:18] [Netty Epoll Server IO #7/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[04:58:19] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Lumi_uwu -> Global
+[04:58:19] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Lumi_uwu. Normal: GRAVE / Robbing: INVENTORY
+[04:58:20] [Server thread/INFO]: Lumi_uwu lost connection: Disconnected
+[04:58:20] [Server thread/INFO]: Lumi_uwu left the game
+[04:58:23] [Server thread/INFO]: Lumi_uwu[/100.108.54.3:57532] logged in with entity id 16197 at (812.8637281384935, -40.0, -279.5964916970899)
+[04:58:23] [Server thread/INFO]: Syncing config to Lumi_uwu (18e495cc-ed40-33fc-8880-4b50499ba5c5)
+[04:58:23] [Server thread/INFO]: Loading config from file...
+[04:58:23] [Netty Epoll Server IO #0/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[04:58:23] [Server thread/INFO]: Lumi_uwu joined the game
+[04:58:23] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[04:58:23] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[04:58:23] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4cf1a038 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[04:58:23] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@9bf5937 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[04:58:23] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Lumi_uwu -> Global
+[04:58:23] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Lumi_uwu. Normal: GRAVE / Robbing: INVENTORY
+[04:58:23] [Netty Epoll Server IO #0/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[04:58:40] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
