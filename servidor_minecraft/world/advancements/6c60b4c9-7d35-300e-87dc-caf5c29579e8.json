@@ -462,6 +462,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/dirt": {
+    "criteria": {
+      "has_dirt": "2025-08-26 05:32:07 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/andesite_mesh_fence": {
     "criteria": {
       "has_item": "2025-08-26 05:19:35 +0000"
@@ -853,6 +859,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2025-08-26 05:27:58 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2025-08-26 05:19:35 +0000"
@@ -1026,6 +1038,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-26 04:55:23 +0000"
+    },
+    "done": true
+  },
+  "vinery:dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-08-26 05:32:07 +0000"
     },
     "done": true
   },
@@ -1900,6 +1918,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/lantern": {
+    "criteria": {
+      "has_torch": "2025-08-26 05:34:17 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/shot_balls": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:23 +0000"
@@ -2014,8 +2038,11 @@
       "large_plate": "2025-08-26 05:20:07 +0000",
       "tough_handle": "2025-08-26 05:21:26 +0000",
       "small_blade": "2025-08-26 05:22:21 +0000",
+      "tool_binding": "2025-08-26 05:26:32 +0000",
       "rod": "2025-08-26 05:17:14 +0000",
       "pick_head": "2025-08-26 05:17:04 +0000",
+      "hammer_head": "2025-08-26 05:25:45 +0000",
+      "small_axe_head": "2025-08-26 05:28:30 +0000",
       "broad_blade": "2025-08-26 05:20:52 +0000",
       "tool_handle": "2025-08-26 05:21:25 +0000"
     },
@@ -2169,6 +2196,12 @@
   "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-08-26 05:19:19 +0000"
+    },
+    "done": true
+  },
+  "definedsblocks:recipes/definedsblocks.general/mossy_coarse_dirt_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-08-26 05:32:07 +0000"
     },
     "done": true
   },
@@ -2608,6 +2641,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-08-26 04:56:16 +0000"
+    },
+    "done": true
+  },
+  "dustrial_decor:recipes/decorations/large_lantern": {
+    "criteria": {
+      "has_torch": "2025-08-26 05:34:17 +0000"
     },
     "done": true
   },
@@ -3175,6 +3214,12 @@
     },
     "done": true
   },
+  "definedsblocks:recipes/definedsblocks.general/flowery_mossy_coarse_dirt_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-08-26 05:32:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/sulfur_cell": {
     "criteria": {
       "has_sulfur": "2025-08-26 04:45:46 +0000"
@@ -3268,6 +3313,8 @@
   },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
+      "sledge_hammer": "2025-08-26 05:26:15 +0000",
+      "vein_hammer": "2025-08-26 05:31:20 +0000",
       "cleaver": "2025-08-26 05:24:14 +0000"
     },
     "done": false
