@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_slice": {
     "criteria": {
       "has_item": "2025-08-26 05:19:38 +0000"
@@ -234,6 +240,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/searchlight": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:24 +0000"
@@ -360,6 +372,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-08-26 05:04:59 +0000"
@@ -375,6 +393,12 @@
   "techreborn:recipes/compressor/iron_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/andesite_dust": {
+    "criteria": {
+      "has_andesite": "2025-08-26 05:56:41 +0000"
     },
     "done": true
   },
@@ -444,6 +468,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
@@ -453,6 +483,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-26 05:04:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
     },
     "done": true
   },
@@ -489,6 +525,12 @@
   "techreborn:recipes/compressor/copper_plate": {
     "criteria": {
       "has_copper_ingot": "2025-08-26 05:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-26 05:56:41 +0000"
     },
     "done": true
   },
@@ -532,6 +574,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-08-26 05:19:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-26 05:57:05 +0000"
     },
     "done": true
   },
@@ -616,6 +664,24 @@
   "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-26 05:49:59 +0000"
     },
     "done": true
   },
@@ -727,6 +793,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_pants": {
     "criteria": {
       "has_item": "2025-08-26 05:19:19 +0000"
@@ -742,6 +814,12 @@
   "techreborn:recipes/centrifuge/lava_cell": {
     "criteria": {
       "has_lava": "2025-08-26 04:45:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
     },
     "done": true
   },
@@ -865,6 +943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.props/green_andesite_lamp": {
     "criteria": {
       "has_item": "2025-08-26 05:19:35 +0000"
@@ -913,6 +997,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-26 05:19:28 +0000"
@@ -934,6 +1030,12 @@
   "create:recipes/create.base/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2025-08-26 05:19:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/granite_dust": {
+    "criteria": {
+      "has_granite": "2025-08-26 05:48:18 +0000"
     },
     "done": true
   },
@@ -1015,9 +1117,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-08-26 05:49:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/sand": {
     "criteria": {
       "has_gravel": "2025-08-26 05:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-08-26 05:48:18 +0000"
     },
     "done": true
   },
@@ -1057,9 +1171,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-08-26 05:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-26 05:57:05 +0000"
     },
     "done": true
   },
@@ -1191,6 +1317,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-08-26 05:19:24 +0000"
@@ -1260,6 +1392,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
     },
     "done": true
   },
@@ -1371,6 +1509,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/tin_cable": {
     "criteria": {
       "has_tin_ingot": "2025-08-26 05:19:33 +0000"
@@ -1380,6 +1524,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-26 04:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-26 05:48:18 +0000"
     },
     "done": true
   },
@@ -1479,6 +1629,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "beautify:iron_blinds": {
     "criteria": {
       "requirement": "2025-08-26 05:19:23 +0000"
@@ -1494,6 +1650,12 @@
   "dustrial_decor:recipes/building_blocks/barbed_iron_bars": {
     "criteria": {
       "has_chain": "2025-08-26 05:19:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
     },
     "done": true
   },
@@ -1568,6 +1730,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-08-26 05:05:12 +0000"
@@ -1596,6 +1764,12 @@
   "techreborn:recipes/centrifuge/deuterium_cell": {
     "criteria": {
       "has_deuterium": "2025-08-26 04:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-26 05:57:05 +0000"
     },
     "done": true
   },
@@ -1653,9 +1827,27 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
   "dustrial_decor:recipes/redstone/industrial_iron_door": {
     "criteria": {
       "has_industrial_billet": "2025-08-26 05:19:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
     },
     "done": true
   },
@@ -1686,6 +1878,12 @@
   "mcdw:recipes/sickles/sickle_soul_scythe": {
     "criteria": {
       "has_diamond": "2025-08-26 05:19:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
     },
     "done": true
   },
@@ -1722,6 +1920,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/armor/bronze_chestplate": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-08-26 05:05:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
     },
     "done": true
   },
@@ -1840,6 +2044,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-26 05:00:19 +0000"
@@ -1858,15 +2074,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-26 05:57:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-08-26 05:19:19 +0000"
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/sickles/sickle_skull_scythe": {
     "criteria": {
       "has_copper_ingot": "2025-08-26 05:19:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
     },
     "done": true
   },
@@ -1933,6 +2167,12 @@
   "mcdw:recipes/swords/sword_frost_slayer": {
     "criteria": {
       "has_diamond": "2025-08-26 05:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-26 05:56:41 +0000"
     },
     "done": true
   },
@@ -2205,6 +2445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-08-26 05:19:15 +0000"
@@ -2332,6 +2578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-08-26 05:19:38 +0000"
@@ -2380,6 +2632,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-26 05:39:14 +0000"
@@ -2401,6 +2659,12 @@
   "mcdw:recipes/axes/axe_anchor": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
     },
     "done": true
   },
@@ -2440,6 +2704,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_obsidian": "2025-08-26 05:19:03 +0000"
@@ -2449,6 +2719,18 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-26 05:04:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-26 05:49:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
     },
     "done": true
   },
@@ -2566,6 +2848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/computer_normal": {
     "criteria": {
       "has_redstone": "2025-08-26 05:19:26 +0000"
@@ -2632,6 +2920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-26 05:04:59 +0000"
@@ -2641,6 +2935,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-08-26 05:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-26 05:56:41 +0000"
     },
     "done": true
   },
@@ -2807,9 +3107,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-08-26 04:56:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
     },
     "done": true
   },
@@ -2822,6 +3134,12 @@
   "mcdw:recipes/crossbows/crossbow_rapid": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-08-26 05:48:18 +0000"
     },
     "done": true
   },
@@ -2903,6 +3221,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "reinfchest:recipes/decorations/iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-08-26 05:19:24 +0000"
@@ -2939,6 +3263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/flint": {
     "criteria": {
       "has_item": "2025-08-26 05:04:59 +0000"
@@ -2972,6 +3302,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/tool/bronze_sword": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-08-26 05:05:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
     },
     "done": true
   },
@@ -3023,6 +3359,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-26 05:39:14 +0000"
@@ -3038,6 +3380,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-08-26 05:19:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
     },
     "done": true
   },
@@ -3155,6 +3503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/alloy_smelter/bronze_ingot": {
     "criteria": {
       "has_copper": "2025-08-26 05:19:19 +0000"
@@ -3218,6 +3572,18 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-08-26 05:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-26 05:48:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
     },
     "done": true
   },
@@ -3461,9 +3827,27 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-08-26 05:56:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/sulfur_cell": {
     "criteria": {
       "has_sulfur": "2025-08-26 04:45:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
     },
     "done": true
   },
@@ -3498,6 +3882,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-08-26 05:19:19 +0000"
@@ -3513,6 +3903,12 @@
   "techreborn:recipes/alloy_smelter/brass_ingot": {
     "criteria": {
       "has_copper": "2025-08-26 05:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-26 05:49:59 +0000"
     },
     "done": true
   },
@@ -3650,6 +4046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-26 05:56:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-26 05:19:28 +0000"
@@ -3671,6 +4073,12 @@
   "mcdw:recipes/spears/spear_spear": {
     "criteria": {
       "has_base": "2025-08-26 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-08-26 05:48:18 +0000"
     },
     "done": true
   },
