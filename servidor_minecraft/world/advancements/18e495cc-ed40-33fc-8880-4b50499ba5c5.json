@@ -4472,6 +4472,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_potion": {
+    "criteria": {
+      "has_potion": "2025-08-26 06:05:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/electron_tube": {
     "criteria": {
       "has_item": "2025-08-19 23:55:33 +0000"

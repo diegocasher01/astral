@@ -2866,6 +2866,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/travelers_gear": {
+    "criteria": {
+      "crafted_chestplate": "2025-08-26 06:03:18 +0000"
+    },
+    "done": false
+  },
   "techreborn:recipes/centrifuge/carrot": {
     "criteria": {
       "has_carrot": "2025-08-26 04:56:31 +0000"
