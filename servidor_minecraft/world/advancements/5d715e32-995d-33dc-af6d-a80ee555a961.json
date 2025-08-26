@@ -5899,6 +5899,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-08-26 23:13:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/portable_fluid_interface": {
     "criteria": {
       "has_item": "2025-08-20 00:20:59 +0000"
@@ -10032,6 +10038,12 @@
   "techreborn:recipes/chemical_reactor/red_stained_glass_pane_from_orange_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-08-26 23:13:14 +0000"
     },
     "done": true
   },
