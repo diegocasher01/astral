@@ -10185,15 +10185,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/grinder/basalt_dust_from_basalt": {
-    "criteria": {
-      "has_basalt": "2025-08-27 01:30:35 +0000"
-    },
-    "done": true
-  },
   "ad_astra:space_suit": {
     "criteria": {
       "space_suit": "2025-08-27 00:46:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/basalt_dust_from_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-27 01:30:35 +0000"
     },
     "done": true
   },
@@ -11440,15 +11440,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-08-27 01:26:52 +0000"
-    },
-    "done": true
-  },
   "vinery:apple_cupcake": {
     "criteria": {
       "has_egg": "2025-08-27 01:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-27 01:26:52 +0000"
     },
     "done": true
   },
