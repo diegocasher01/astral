@@ -2955,6 +2955,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-08-27 01:28:43 +0000"
+    },
+    "done": true
+  },
   "dustrial_decor:recipes/misc/rusty_iron_ingot": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
@@ -6526,6 +6532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-27 01:30:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:55 +0000"
@@ -7943,6 +7955,12 @@
   "createbigcannons:recipes/createbigcannons/gunpowder_pinch": {
     "criteria": {
       "has_gunpowder": "2025-08-19 02:34:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-08-27 01:28:43 +0000"
     },
     "done": true
   },
@@ -9663,6 +9681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-27 01:30:35 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/sickles/sickle_last_laugh_silver": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
@@ -10110,6 +10134,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-19 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/basalt_dust_from_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-27 01:30:35 +0000"
     },
     "done": true
   },
@@ -11839,6 +11869,12 @@
   "techreborn:recipes/crafting_table/machine/fluid_replicator": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-27 01:30:35 +0000"
     },
     "done": true
   },

@@ -300,3 +300,71 @@
 [01:27:07] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
 [01:27:14] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
 [01:27:14] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:28:08] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[01:28:08] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_4
+[01:28:08] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:28:09] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[01:28:13] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:28:13] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_4
+[01:29:17] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_4
+[01:29:17] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_4
+[01:29:17] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:29:17] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[01:29:46] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:29:59] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_4
+[01:29:59] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:30:04] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=260, y=106, z=-197}
+[01:30:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=396, y=105, z=61}
+[01:30:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=397, y=106, z=61}
+[01:30:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=384, y=106, z=61}
+[01:30:22] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=394, y=105, z=61}
+[01:30:46] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=331, y=103, z=239}
+[01:30:46] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=332, y=102, z=239}
+[01:30:52] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=348, y=114, z=233}
+[01:30:52] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=347, y=113, z=231}
+[01:30:52] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=343, y=113, z=227}
+[01:30:52] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=343, y=112, z=232}
+[01:30:52] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=342, y=113, z=233}
+[01:30:52] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=349, y=109, z=237}
+[01:30:52] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=357, y=110, z=236}
+[01:30:52] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=353, y=109, z=236}
+[01:30:52] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=354, y=109, z=239}
+[01:30:52] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=371, y=103, z=239}
+[01:31:18] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[01:31:18] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:31:18] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[01:31:18] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_5
+[01:31:18] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[01:31:59] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[01:31:59] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:32:00] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_4
+[01:32:25] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[01:32:39] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[01:32:40] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[01:32:40] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:32:41] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:32:55] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_5
+[01:33:02] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:33:02] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[01:33:43] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[01:33:43] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[01:33:44] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_5
+[01:33:45] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_5
+[01:33:47] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:33:47] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_4
+[01:33:47] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:33:49] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_4
+[01:34:05] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[01:34:05] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:34:05] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_5
+[01:34:05] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[01:35:23] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=349, y=104, z=242}
+[01:35:23] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=345, y=109, z=249}
+[01:35:23] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=347, y=128, z=240}
+[01:35:23] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=345, y=128, z=241}
+[01:35:23] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=350, y=105, z=244}
+[01:35:23] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=350, y=128, z=242}
+[01:35:23] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=345, y=107, z=240}
+[01:35:23] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=343, y=110, z=245}
+[01:35:46] [Server thread/INFO]: Octlopez04 has made the advancement [Heart of the Machine]
+[01:36:22] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=371, y=102, z=240}
