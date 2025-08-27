@@ -2602,6 +2602,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-08-27 05:42:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2025-08-26 05:19:35 +0000"
@@ -2611,6 +2617,12 @@
   "mcdw:recipes/daggers/dagger_moon": {
     "criteria": {
       "has_gold_ingot": "2025-08-26 05:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-27 05:42:41 +0000"
     },
     "done": true
   },
