@@ -368,3 +368,10 @@
 [01:35:23] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=343, y=110, z=245}
 [01:35:46] [Server thread/INFO]: Octlopez04 has made the advancement [Heart of the Machine]
 [01:36:22] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=371, y=102, z=240}
+[01:38:56] [Server thread/INFO]: Lumi_uwu has made the advancement [Penteconter]
+[01:40:35] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5af73c16 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:40:35] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3937af1c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:40:51] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5af73c16 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:40:51] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3937af1c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:40:52] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=400, y=106, z=61}
+[01:40:52] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location class_2338{x=404, y=101, z=61}

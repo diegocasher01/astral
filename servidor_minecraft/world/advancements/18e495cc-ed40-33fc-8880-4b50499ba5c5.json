@@ -1194,6 +1194,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/silver_ingot_with_mercury": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-27 01:43:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-19 01:23:15 +0000"
@@ -1401,6 +1407,12 @@
   "techreborn:recipes/chemical_reactor/blue_stained_glass_from_cyan_stained_glass_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-19 01:06:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/silver_plate": {
+    "criteria": {
+      "has_tag_c_silver_ingots": "2025-08-27 01:43:16 +0000"
     },
     "done": true
   },
@@ -2550,6 +2562,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/iridium_reinforced_stone_blocks_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/armor/silver_leggings": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-27 01:43:16 +0000"
     },
     "done": true
   },
@@ -3938,6 +3956,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/armor/silver_boots": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-27 01:43:16 +0000"
     },
     "done": true
   },
@@ -7508,6 +7532,12 @@
     },
     "done": false
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-08-27 01:38:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/sodium_persulfate": {
     "criteria": {
       "has_sodium_sulfide": "2025-08-19 01:00:42 +0000"
@@ -8021,6 +8051,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/raw_raw_iridium_storage_block": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/armor/silver_chestplate": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-27 01:43:16 +0000"
     },
     "done": true
   },
@@ -11779,6 +11815,12 @@
   "techreborn:recipes/crafting_table/storage_block/iridium_reinforced_tungstensteel_storage_block": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/armor/silver_helmet": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-27 01:43:16 +0000"
     },
     "done": true
   },
