@@ -5446,6 +5446,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-08-27 00:17:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-08-19 02:20:38 +0000"
@@ -8009,6 +8015,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-08-27 00:17:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/raw_tungsten_blocks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:55 +0000"
@@ -8283,6 +8295,12 @@
   "techreborn:recipes/chemical_reactor/blue_stained_glass_from_glass_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-20 00:01:47 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-08-27 00:18:43 +0000"
     },
     "done": true
   },
@@ -9765,6 +9783,12 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-08-27 00:21:06 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/faucet": {
     "criteria": {
       "has_item": "2025-08-19 01:27:29 +0000"
@@ -9864,6 +9888,12 @@
   "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-08-27 00:17:32 +0000"
     },
     "done": true
   },
@@ -11796,6 +11826,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/bronze_blocks_wall": {
     "criteria": {
       "has_tag_c_bronze_blocks": "2025-08-20 00:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-27 00:17:09 +0000"
     },
     "done": true
   },

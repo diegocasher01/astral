@@ -16203,6 +16203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-27 00:20:51 +0000"
+    },
+    "done": true
+  },
   "packages:recipes/unlock_package_maker": {
     "criteria": {
       "has_stuff": "2025-08-17 03:53:58 +0000"

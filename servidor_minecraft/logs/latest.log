@@ -75,3 +75,5 @@
 [00:01:53] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Lumi_uwu -> Global
 [00:01:53] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Lumi_uwu. Normal: GRAVE / Robbing: INVENTORY
 [00:01:55] [Netty Epoll Server IO #4/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[00:18:43] [Server thread/INFO]: Lumi_uwu has made the advancement [Artificial Intelligence]
+[00:21:06] [Server thread/INFO]: Lumi_uwu has made the advancement [The Copper Age]
