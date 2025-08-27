@@ -1080,6 +1080,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-08-27 05:45:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-26 05:48:18 +0000"
@@ -4620,6 +4626,7 @@
   },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
+      "excavator": "2025-08-27 05:45:33 +0000",
       "sledge_hammer": "2025-08-26 05:26:15 +0000",
       "vein_hammer": "2025-08-26 05:31:20 +0000",
       "cleaver": "2025-08-26 05:24:14 +0000"

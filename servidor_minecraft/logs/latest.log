@@ -10205,3 +10205,13 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [05:35:21] [Server thread/INFO]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
 [05:35:41] [Server thread/INFO]: [Octlopez04: Teleported Kao to Lumi_uwu]
 [05:41:12] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[05:46:14] [Server thread/INFO]: Kao burned to death
+[05:46:14] [Server thread/INFO]: Grave spawned at: 390, 64, 36 | overworld
+[05:46:16] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1939f73 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:46:16] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5ba0ad77 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:46:32] [Server thread/INFO]: Grave at 390, 64, 36 was replaced with Block{minecraft:air}
+[05:46:32] [Server thread/INFO]: Kao is retrieving their grave at 390, 64, 36
+[05:46:32] [Server thread/INFO]: Kao retrieved the items from the grave
+[05:46:58] [Server thread/INFO]: Kao lost connection: Disconnected
+[05:46:58] [Server thread/INFO]: Kao left the game
+[05:50:16] [Server thread/INFO]: Saving grave backup data
