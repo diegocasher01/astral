@@ -3057,6 +3057,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/silver_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_silver_blocks": "2025-08-27 01:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-08-19 01:06:19 +0000"
@@ -7688,6 +7694,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/silver_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_silver_blocks": "2025-08-27 01:50:36 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_frost_slayer": {
     "criteria": {
       "has_diamond": "2025-08-19 01:30:09 +0000"
@@ -10894,6 +10906,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/silver_plate_from_block": {
+    "criteria": {
+      "has_tag_c_silver_blocks": "2025-08-27 01:50:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/ender_pearl_small_dust_from_dust": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
@@ -11263,6 +11281,12 @@
   "techreborn:recipes/extractor/rubber_from_sap": {
     "criteria": {
       "has_sap": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/silver_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_silver_blocks": "2025-08-27 01:50:36 +0000"
     },
     "done": true
   },
