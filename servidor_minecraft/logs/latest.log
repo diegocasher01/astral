@@ -389,3 +389,94 @@
 [02:06:42] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@3937af1c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [02:06:42] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_5
 [02:07:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=22, y=92, z=85} class_2338{x=22, y=91, z=85}
+[02:09:13] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:09:14] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:09:14] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:09:14] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:09:14] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_4
+[02:09:14] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:09:16] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:09:16] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:09:20] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_4
+[02:09:20] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:09:20] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:09:21] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_4
+[02:09:24] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:09:24] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_5
+[02:09:27] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:09:28] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:09:28] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:09:28] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:09:28] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:09:31] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:09:34] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:09:34] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:09:34] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:09:34] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:09:34] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:09:37] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_5
+[02:09:41] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:10:07] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:10:07] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:10:08] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:10:13] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:11:24] [Server thread/INFO]: [Octlopez04: Set own game mode to Creative Mode]
+[02:11:54] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:11:54] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:11:57] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=116, z=-219}
+[02:11:57] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=115, z=-216}
+[02:11:57] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=115, z=-215}
+[02:11:57] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=115, z=-213}
+[02:11:57] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=116, z=-240}
+[02:11:57] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=112, z=-236}
+[02:12:01] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:12:02] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=116, z=-243}
+[02:12:02] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=114, z=-256}
+[02:12:02] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=115, z=-246}
+[02:12:02] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=116, z=-244}
+[02:12:02] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=111, z=-262}
+[02:12:02] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=112, z=-259}
+[02:12:02] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=112, z=-258}
+[02:12:02] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=107, z=-281}
+[02:12:02] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=an,turn=false,waterlogged=false] but failed at location class_2338{x=-365, y=106, z=-283}
+[02:12:22] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:12:23] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:12:23] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:12:24] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:12:24] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:12:24] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:12:25] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=23, y=106, z=-349}
+[02:12:25] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=25, y=105, z=-351}
+[02:12:25] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=23, y=105, z=-351}
+[02:12:32] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:12:32] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:12:33] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:12:33] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:12:33] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:12:33] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:12:33] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:12:34] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:12:34] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_5
+[02:12:34] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_4
+[02:12:35] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:12:35] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:12:35] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:12:44] [Worker-Main-6/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:12:44] [Worker-Main-5/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:13:11] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=-280, y=97, z=170}
+[02:13:11] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=-280, y=98, z=168}
+[02:13:11] [Server thread/WARN]: Tried to load a block entity for block Block{createastral:shimmering_stone} but failed at location class_2338{x=-282, y=97, z=170}
+[02:13:37] [Server thread/INFO]: [Octlopez04: Set own game mode to Survival Mode]
+[02:14:10] [Server thread/INFO]: Octlopez04 has made the advancement [Flowing Power]
+[02:16:54] [Worker-Main-146/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:17:43] [Worker-Main-145/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_5
+[02:17:43] [Worker-Main-146/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:17:47] [Server thread/INFO]: Octlopez04 has made the advancement [Take Aim]
+[02:17:51] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_1
+[02:17:52] [Worker-Main-145/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:17:56] [Worker-Main-146/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:17:59] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:18:02] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
+[02:18:05] [Worker-Main-145/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:18:08] [Worker-Main-146/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_3
+[02:18:09] [Worker-Main-4/WARN]: Empty or non-existent pool: astralrails:moon/moon_rock_2
