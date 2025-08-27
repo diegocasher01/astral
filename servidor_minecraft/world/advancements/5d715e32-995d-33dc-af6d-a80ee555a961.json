@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-27 00:56:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-17 02:54:47 +0000"
@@ -1431,6 +1437,12 @@
   "techreborn:recipes/chemical_reactor/cyan_terracotta_from_green_terracotta_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-27 00:56:12 +0000"
     },
     "done": true
   },
@@ -3957,6 +3969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-27 00:56:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-18 09:25:04 +0000"
@@ -5215,6 +5233,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_andesite_brick_stairs": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-08-27 00:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-08-18 08:32:09 +0000"
@@ -5489,6 +5513,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-19 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-27 00:56:12 +0000"
     },
     "done": true
   },
@@ -5885,6 +5915,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-08-18 07:44:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_brick_slab": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-08-27 00:55:26 +0000"
     },
     "done": true
   },
@@ -6515,6 +6551,12 @@
   "create:recipes/create.palettes/crafting/kinetics/green_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-27 00:56:12 +0000"
     },
     "done": true
   },
@@ -7299,6 +7341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-27 00:56:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/blasting/refined_iron_plate_from_c_iron_plates": {
     "criteria": {
       "has_tag_c_iron_plates": "2025-08-17 03:52:30 +0000"
@@ -7610,6 +7658,12 @@
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2025-08-19 08:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-27 00:56:39 +0000"
     },
     "done": true
   },
@@ -9751,6 +9805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-27 00:56:12 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/red_brick_tiles_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-17 04:21:14 +0000"
@@ -10153,6 +10213,12 @@
   "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
     "criteria": {
       "has_item": "2025-08-17 03:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-27 00:56:39 +0000"
     },
     "done": true
   },
@@ -11276,6 +11342,12 @@
     },
     "done": false
   },
+  "create:recipes/create.palettes/cut_andesite_brick_wall": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-08-27 00:55:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-21 07:04:45 +0000"
@@ -12094,6 +12166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-27 00:56:39 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_planks": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-08-17 02:51:32 +0000"
@@ -12568,6 +12646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-27 00:56:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/pyrite_small_dust_from_dust": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -12961,6 +13045,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/manganese_small_dust_from_dust": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-27 00:56:12 +0000"
     },
     "done": true
   },
@@ -13630,6 +13720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-27 00:56:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-08-17 03:10:05 +0000"
@@ -13988,6 +14084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-27 00:56:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-08-19 22:36:11 +0000"
@@ -14093,6 +14195,12 @@
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-27 00:56:12 +0000"
     },
     "done": true
   },
@@ -16266,6 +16374,12 @@
   "another_furniture:recipes/another_furniture/spruce_drawer": {
     "criteria": {
       "has_planks": "2025-08-16 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-27 00:56:12 +0000"
     },
     "done": true
   },

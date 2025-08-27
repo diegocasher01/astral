@@ -5356,6 +5356,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-08-27 00:56:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/bronze_blocks_wall_stonecutter": {
     "criteria": {
       "has_tag_c_bronze_blocks": "2025-08-20 00:11:13 +0000"
@@ -10696,6 +10702,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/enchanted_golden_apple": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-27 00:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-08-19 05:02:46 +0000"
@@ -11257,6 +11269,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/ingot/invar_ingot_from_nugget": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-08-27 00:56:25 +0000"
     },
     "done": true
   },
@@ -11832,6 +11850,12 @@
   "techreborn:recipes/compressor/zinc_plate_from_block": {
     "criteria": {
       "has_tag_c_zinc_blocks": "2025-08-19 05:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-27 00:47:25 +0000"
     },
     "done": true
   },
