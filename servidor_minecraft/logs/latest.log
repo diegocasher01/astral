@@ -10179,3 +10179,26 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [05:08:05] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1939f73 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [05:08:05] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5ba0ad77 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [05:08:07] [Netty Epoll Server IO #3/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[05:26:57] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1939f73 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:26:57] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5ba0ad77 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:26:57] [Server thread/INFO]: Kao has reached the goal [One Small Step]
+[05:27:07] [Server thread/INFO]: Kao couldn't breathe anymore
+[05:27:07] [Server thread/INFO]: Grave spawned at: 189, 100, -8 | moon
+[05:27:13] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1939f73 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:27:13] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5ba0ad77 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:27:38] [Server thread/INFO]: Kao has reached the goal [Astronaut]
+[05:28:50] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1939f73 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:28:50] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5ba0ad77 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:29:00] [Server thread/INFO]: Grave at 189, 100, -8 was replaced with Block{createastral:shimmering_stone}
+[05:29:00] [Server thread/INFO]: Kao is retrieving their grave at 189, 100, -8
+[05:29:00] [Server thread/INFO]: Kao retrieved the items from the grave
+[05:29:10] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1939f73 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:29:10] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5ba0ad77 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:29:30] [Server thread/INFO]: Kao got cut in half by a Mechanical Saw
+[05:29:30] [Server thread/INFO]: Grave spawned at: 377, 64, 9 | overworld
+[05:29:32] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1939f73 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:29:32] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5ba0ad77 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:29:41] [Server thread/INFO]: Grave at 377, 64, 9 was replaced with Block{minecraft:jungle_sapling}
+[05:29:41] [Server thread/INFO]: Kao is retrieving their grave at 377, 64, 9
+[05:29:41] [Server thread/INFO]: Kao retrieved the items from the grave
+[05:30:16] [Server thread/INFO]: Saving grave backup data
