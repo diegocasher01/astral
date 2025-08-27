@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-08-27 00:44:38 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_block_from_ingots": {
     "criteria": {
       "has_item": "2025-08-19 23:56:02 +0000"
@@ -3559,6 +3565,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/semaphore": {
+    "criteria": {
+      "has_item": "2025-08-27 00:44:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-19 01:08:08 +0000"
@@ -3734,6 +3746,12 @@
   "techreborn:recipes/crafting_table/misc_block/stripped_rubber_wood": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-08-27 00:44:38 +0000"
     },
     "done": true
   },
@@ -9846,6 +9864,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-19 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:space_suit": {
+    "criteria": {
+      "space_suit": "2025-08-27 00:46:05 +0000"
     },
     "done": true
   },
