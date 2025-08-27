@@ -1122,6 +1122,12 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/building_blocks/engraved_cast_iron_block_from_cast_iron_pillar": {
+    "criteria": {
+      "has_cast_iron_pillar": "2025-08-27 01:26:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-08-18 08:45:46 +0000"
@@ -2900,6 +2906,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2025-08-27 01:26:50 +0000"
     },
     "done": true
   },
@@ -6620,6 +6632,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-27 01:26:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-27 00:56:12 +0000"
@@ -7583,6 +7601,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-08-27 01:26:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/black_stained_glass_from_glass_with_black_dye": {
     "criteria": {
       "has_black_dye": "2025-08-19 22:34:38 +0000"
@@ -7772,6 +7796,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/silver_blocks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "dustrial_decor:recipes/decorations/large_glow_lantern": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-27 01:26:50 +0000"
     },
     "done": true
   },
@@ -8078,6 +8108,12 @@
   "dustrial_decor:recipes/redstone/industrial_iron_trapdoor": {
     "criteria": {
       "has_industrial_billet": "2025-08-19 00:37:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-08-27 01:26:50 +0000"
     },
     "done": true
   },
@@ -8732,6 +8768,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-19 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-27 01:26:50 +0000"
     },
     "done": true
   },
@@ -10373,6 +10415,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/tracer_tip": {
+    "criteria": {
+      "has_glowstone": "2025-08-27 01:26:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/brown_stained_glass_pane_from_green_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
@@ -11519,6 +11567,12 @@
   "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt_alt": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:moon": {
+    "criteria": {
+      "moon": "2025-08-27 01:24:21 +0000"
     },
     "done": true
   },
@@ -13738,6 +13792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-27 01:26:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_stained_glass_from_white_stained_glass_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
@@ -15367,6 +15427,12 @@
   "vinery:apple_cupcake": {
     "criteria": {
       "has_egg": "2025-08-16 21:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-27 01:26:50 +0000"
     },
     "done": true
   },
