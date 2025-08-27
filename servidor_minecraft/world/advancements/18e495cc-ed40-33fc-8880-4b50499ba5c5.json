@@ -8454,6 +8454,12 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/building_blocks/cinder_block": {
+    "criteria": {
+      "has_concrete": "2025-08-27 05:02:21 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_fence_gate": {
     "criteria": {
       "has_item": "2025-08-19 01:23:16 +0000"

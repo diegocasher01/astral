@@ -10163,3 +10163,19 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [05:03:51] [Server thread/INFO]: <Octlopez04> [x:415, y:87, z:302, dim:minecraft:overworld]
 [05:04:15] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [05:04:16] [Server thread/INFO]: [Lumi_uwu: Teleported Lumi_uwu to Octlopez04]
+[05:05:15] [Server thread/INFO]: [Lumi_uwu: Teleported Lumi_uwu to Kao]
+[05:05:30] [Server thread/INFO]: [Lumi_uwu: Teleported Lumi_uwu to Octlopez04]
+[05:08:03] [Server thread/INFO]: Lumi_uwu lost connection: Disconnected
+[05:08:03] [Server thread/INFO]: Lumi_uwu left the game
+[05:08:05] [Server thread/INFO]: Lumi_uwu[/100.108.54.3:52225] logged in with entity id 9793 at (336.80107410543553, 64.0, 25.554883641053106)
+[05:08:05] [Server thread/INFO]: Syncing config to Lumi_uwu (18e495cc-ed40-33fc-8880-4b50499ba5c5)
+[05:08:05] [Server thread/INFO]: Loading config from file...
+[05:08:05] [Server thread/INFO]: Lumi_uwu joined the game
+[05:08:05] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1939f73 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:08:05] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5ba0ad77 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:08:05] [Netty Epoll Server IO #3/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[05:08:05] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Lumi_uwu -> Global
+[05:08:05] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Lumi_uwu. Normal: GRAVE / Robbing: INVENTORY
+[05:08:05] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1939f73 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:08:05] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5ba0ad77 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[05:08:07] [Netty Epoll Server IO #3/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
