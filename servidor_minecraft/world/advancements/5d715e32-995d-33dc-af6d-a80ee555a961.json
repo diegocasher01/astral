@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-08-27 02:21:57 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/birch_drawer": {
     "criteria": {
       "has_planks": "2025-08-16 21:58:03 +0000"
@@ -3723,6 +3729,12 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/building_blocks/cast_iron_pillar": {
+    "criteria": {
+      "has_cast_iron_block": "2025-08-27 02:18:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_carpet_from_magenta_concrete_powder_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
@@ -3930,6 +3942,12 @@
   "interiors:recipes/building_blocks/crafting/floor_chair/magenta_floor_chair": {
     "criteria": {
       "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-27 02:17:47 +0000"
     },
     "done": true
   },
@@ -5140,6 +5158,7 @@
       "minecraft:spider": "2025-08-18 08:57:05 +0000",
       "minecraft:creeper": "2025-08-18 22:53:26 +0000",
       "minecraft:witch": "2025-08-19 02:16:07 +0000",
+      "minecraft:wither_skeleton": "2025-08-27 02:17:14 +0000",
       "minecraft:cave_spider": "2025-08-23 01:01:01 +0000",
       "minecraft:zombie": "2025-08-18 08:49:55 +0000",
       "minecraft:zombie_villager": "2025-08-26 05:38:02 +0000"
@@ -5476,6 +5495,12 @@
   "mcdw:recipes/swords/sword_obsidian_claymore": {
     "criteria": {
       "has_obsidian": "2025-08-19 00:30:09 +0000"
+    },
+    "done": true
+  },
+  "dustrial_decor:recipes/building_blocks/cast_iron_bricks": {
+    "criteria": {
+      "has_cast_iron_block": "2025-08-27 02:18:57 +0000"
     },
     "done": true
   },
@@ -7913,6 +7938,12 @@
     },
     "done": true
   },
+  "ae2:main/presses": {
+    "criteria": {
+      "silicon": "2025-08-27 02:27:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2025-08-19 08:48:59 +0000"
@@ -8387,6 +8418,12 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/building_blocks/bolted_industrial_iron_stairs": {
+    "criteria": {
+      "has_bolted_industrial_iron_block": "2025-08-27 02:20:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-08-19 23:47:18 +0000"
@@ -8516,6 +8553,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-08-18 07:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/dagger_eternal_knife": {
+    "criteria": {
+      "has_crying_obsidian": "2025-08-27 02:21:57 +0000"
     },
     "done": true
   },
@@ -10529,6 +10572,12 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/building_blocks/bolted_industrial_iron_slab": {
+    "criteria": {
+      "has_bolted_industrial_iron_block": "2025-08-27 02:20:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-18 08:49:48 +0000"
@@ -10954,6 +11003,12 @@
   "createbigcannons:recipes/createbigcannons/casting_sand": {
     "criteria": {
       "has_sand": "2025-08-18 09:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-08-27 02:21:57 +0000"
     },
     "done": true
   },
@@ -11601,6 +11656,12 @@
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-08-18 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_the_starless_night": {
+    "criteria": {
+      "has_crying_obsidian": "2025-08-27 02:21:57 +0000"
     },
     "done": true
   },
@@ -15986,6 +16047,12 @@
   "techreborn:recipes/centrifuge/poisonous_potato": {
     "criteria": {
       "has_poisonous_potato": "2025-08-19 09:02:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/gray_concrete_powder_from_concrete": {
+    "criteria": {
+      "has_gray_concrete": "2025-08-27 02:20:17 +0000"
     },
     "done": true
   },
