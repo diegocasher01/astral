@@ -1,0 +1,22 @@
+{
+  "id": "PORTAL_186-102-8",
+  "name": "PORTAL",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--14178478-waypoint-icon.png",
+  "x": 186,
+  "y": 102,
+  "z": -8,
+  "r": 39,
+  "g": 167,
+  "b": 82,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "ad_astra:moon"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

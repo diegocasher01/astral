@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = true
-  world = 100.121.2.98:25565
+  is_server = false
+  world = C:/Users/ojtlo/AppData/Roaming/.minecraft/modpacks/050502de-83dd-3d05-99e2-54fa0b32596c/saves/world
 }
 

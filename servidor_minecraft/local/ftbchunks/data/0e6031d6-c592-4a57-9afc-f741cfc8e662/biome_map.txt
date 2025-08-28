@@ -1,0 +1,7 @@
+#010 minecraft:forest
+#286 minecraft:grove
+#51E minecraft:jagged_peaks
+#3DC minecraft:plains
+#5FF minecraft:river
+#524 minecraft:snowy_slopes
+#169 minecraft:taiga

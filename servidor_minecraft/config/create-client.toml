@@ -22,7 +22,7 @@
 	maximumContraptionLightVolume = 1
 	#.
 	#Log a stack-trace when rendering issues happen within a moving contraption.
-	explainRenderErrors = false
+	explainRenderErrors = true
 	#.
 	#The fluid unit that will be displayed when viewing fluids
 	#Example: 1000 mB or 81000 Droplets

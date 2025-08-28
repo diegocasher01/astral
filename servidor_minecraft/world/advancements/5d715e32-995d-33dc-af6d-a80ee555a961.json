@@ -4217,6 +4217,12 @@
     },
     "done": true
   },
+  "extended_drawers:recipes/extended_drawers.main/upgrade_frame": {
+    "criteria": {
+      "has_upgrade_frame": "2025-08-27 13:12:35 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-08-17 05:42:35 +0000"

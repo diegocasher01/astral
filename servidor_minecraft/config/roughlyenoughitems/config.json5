@@ -3,7 +3,7 @@
 		"favorites": [],
 		"hiddenFavorites": [],
 		"displayHistory": [],
-		"cheating": true,
+		"cheating": false,
 		"favoritesEnabled": true,
 		"reduceMotion": false,
 		"keyBindings": {
@@ -71,7 +71,7 @@
 		"scrollingEntryListWidget": true,
 		// Declares whether entry panel should be invisible when not searching
 		"hideEntryPanelIfIdle": true,
-		"rainbow": false,
+		"rainbow": true,
 		"horizontalEntriesBoundaries": 1.0,
 		"verticalEntriesBoundaries": 1.0,
 		"horizontalEntriesBoundariesColumns": 50,
