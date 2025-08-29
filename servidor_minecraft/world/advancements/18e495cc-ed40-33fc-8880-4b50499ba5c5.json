@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-29 00:31:15 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/dense_covered_red": {
     "criteria": {
       "has_dyes/black": "2025-08-20 04:48:24 +0000"
@@ -341,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-29 00:31:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-19 01:23:15 +0000"
@@ -434,6 +446,12 @@
   "createdeco:recipes/createdeco.bricks/red_short_bricks_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-19 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "campanion:recipes/tools/day_pack": {
+    "criteria": {
+      "has_leather": "2025-08-29 00:31:15 +0000"
     },
     "done": true
   },
@@ -1179,6 +1197,12 @@
   "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_blue_stained_glass_pane_with_magenta_dye": {
     "criteria": {
       "has_magenta_dye": "2025-08-19 02:21:33 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
+    "criteria": {
+      "has_leather": "2025-08-29 00:31:15 +0000"
     },
     "done": true
   },
@@ -2153,6 +2177,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2025-08-29 00:26:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-22 00:08:50 +0000"
@@ -2772,6 +2802,12 @@
   "copycats:recipes/crafting/copycat_stone_button": {
     "criteria": {
       "has_item": "2025-08-19 01:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-29 00:31:15 +0000"
     },
     "done": true
   },
@@ -3703,6 +3739,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2025-08-29 00:26:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/implosion_compressor": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
@@ -3772,6 +3814,12 @@
   "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_blue_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-20 04:48:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-08-29 00:26:59 +0000"
     },
     "done": true
   },
@@ -4995,6 +5043,12 @@
     },
     "done": true
   },
+  "vinery:red_grape_crate": {
+    "criteria": {
+      "has_red_grape": "2025-08-29 00:30:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-08-22 00:08:50 +0000"
@@ -5112,6 +5166,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-08-19 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-29 00:31:15 +0000"
     },
     "done": true
   },
@@ -5305,6 +5365,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/tool/peridot_sword": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-08-29 00:25:55 +0000"
     },
     "done": true
   },
@@ -5589,6 +5655,12 @@
       "has_tag_c_iron_plates": "2025-08-19 01:19:51 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-08-29 00:30:39 +0000"
+    },
+    "done": false
   },
   "techreborn:recipes/techreborn.item_group/crafting_table/raw/raw_tungsten_from_block": {
     "criteria": {
@@ -8258,6 +8330,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-08-29 00:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-19 01:20:24 +0000"
@@ -8468,6 +8546,12 @@
   "techreborn:recipes/chemical_reactor/purple_wool_from_white_wool_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2025-08-27 01:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-29 00:31:15 +0000"
     },
     "done": true
   },
@@ -8752,6 +8836,12 @@
   "create:recipes/create.palettes/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-22 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-08-29 00:28:04 +0000"
     },
     "done": true
   },
@@ -9420,6 +9510,12 @@
   "create:recipes/create.palettes/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-23 00:30:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-08-29 00:26:59 +0000"
     },
     "done": true
   },
@@ -10419,6 +10515,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-08-29 00:26:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/magenta_carpet_from_purple_carpet_with_pink_dye": {
     "criteria": {
       "has_pink_dye": "2025-08-27 05:14:34 +0000"
@@ -10755,6 +10857,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-29 00:30:39 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/compressed_plantball": {
     "criteria": {
       "has_plantball_material": "2025-08-19 01:33:24 +0000"
@@ -10764,6 +10872,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/tin_blocks_stairs_stonecutter": {
     "criteria": {
       "has_tag_c_tin_blocks": "2025-08-19 05:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-29 00:31:15 +0000"
     },
     "done": true
   },
@@ -12594,6 +12708,12 @@
   "create:recipes/create.palettes/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-23 00:30:25 +0000"
+    },
+    "done": true
+  },
+  "campanion:recipes/misc/leather_pouch": {
+    "criteria": {
+      "has_leather": "2025-08-29 00:31:15 +0000"
     },
     "done": true
   },
