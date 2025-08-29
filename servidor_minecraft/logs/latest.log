@@ -58,3 +58,28 @@
 [00:00:15] [FTB Backups backup thread 0/INFO]: Backup size 153.5MB World Size 232.2MB
 [00:00:15] [FTB Backups backup thread 0/INFO]: Writing to file /workspaces/astral/servidor_minecraft/backups/backups.json
 [00:00:15] [FTB Backups backup thread 0/INFO]: New backup created at /workspaces/astral/servidor_minecraft/backups/2025-8-29_0-0-0.zip size: 153.5MB Took: 0m, 15s, 225ms Sha1: 62b1d3a72deb119e4f190156f2978c177143e6e9
+[00:05:17] [Server thread/INFO]: Lumi_uwu[/100.108.54.3:52022] logged in with entity id 12214 at (354.1369171821279, 64.0, 10.35249255690682)
+[00:05:18] [Server thread/INFO]: Syncing config to Lumi_uwu (18e495cc-ed40-33fc-8880-4b50499ba5c5)
+[00:05:18] [Server thread/INFO]: Loading config from file...
+[00:05:18] [Server thread/INFO]: Lumi_uwu joined the game
+[00:05:18] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6a8d92ad (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:05:18] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@247bdafa (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:05:18] [Netty Epoll Server IO #4/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[00:05:18] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6a8d92ad (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:05:18] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@247bdafa (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:05:19] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Lumi_uwu -> Global
+[00:05:19] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Lumi_uwu. Normal: GRAVE / Robbing: INVENTORY
+[00:05:20] [Server thread/INFO]: Lumi_uwu lost connection: Disconnected
+[00:05:20] [Server thread/INFO]: Lumi_uwu left the game
+[00:05:22] [Server thread/INFO]: Lumi_uwu[/100.108.54.3:52052] logged in with entity id 12243 at (354.1369171821279, 64.0, 10.35249255690682)
+[00:05:22] [Server thread/INFO]: Syncing config to Lumi_uwu (18e495cc-ed40-33fc-8880-4b50499ba5c5)
+[00:05:22] [Server thread/INFO]: Loading config from file...
+[00:05:22] [Netty Epoll Server IO #5/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[00:05:22] [Server thread/INFO]: Lumi_uwu joined the game
+[00:05:23] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6a8d92ad (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:05:23] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@247bdafa (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:05:23] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: Lumi_uwu -> Global
+[00:05:23] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Lumi_uwu. Normal: GRAVE / Robbing: INVENTORY
+[00:05:23] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6a8d92ad (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:05:23] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@247bdafa (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:05:23] [Netty Epoll Server IO #5/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
