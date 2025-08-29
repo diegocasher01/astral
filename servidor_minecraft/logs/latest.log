@@ -7089,3 +7089,5 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [07:13:23] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-662, y=112, z=1294}
 [07:13:34] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-662, y=112, z=1297}
 [07:13:34] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=-662, y=112, z=1296}
+[07:23:43] [Server thread/INFO]: [Octlopez04: Set own game mode to Spectator Mode]
+[07:25:10] [Server thread/INFO]: [Octlopez04: Set own game mode to Survival Mode]
