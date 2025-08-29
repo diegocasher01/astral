@@ -12870,6 +12870,12 @@
     },
     "done": true
   },
+  "estrogen:recipes/estrogen.estrogen/estrogen_chip_cookie": {
+    "criteria": {
+      "has_estrogen_pill": "2025-08-29 07:49:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-18 08:23:18 +0000"
