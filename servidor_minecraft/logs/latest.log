@@ -83,3 +83,7 @@
 [00:05:23] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6a8d92ad (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [00:05:23] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@247bdafa (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [00:05:23] [Netty Epoll Server IO #5/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[00:16:34] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:16:41] [Server thread/INFO]: [Octlopez04: Made Lumi_uwu a server operator]
+[00:16:41] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6a8d92ad (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:16:41] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@247bdafa (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
