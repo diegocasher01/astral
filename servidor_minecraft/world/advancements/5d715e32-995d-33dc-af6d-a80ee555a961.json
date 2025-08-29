@@ -8851,6 +8851,12 @@
     },
     "done": true
   },
+  "create:red_signal": {
+    "criteria": {
+      "0": "2025-08-29 08:42:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_stained_glass_pane_from_light_gray_stained_glass_pane_with_light_blue_dye": {
     "criteria": {
       "has_light_blue_dye": "2025-08-29 00:30:04 +0000"
