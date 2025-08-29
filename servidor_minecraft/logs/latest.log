@@ -7022,3 +7022,5 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [06:43:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=407, y=70, z=31} class_2338{x=405, y=69, z=32}
 [06:43:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=407, y=70, z=31} class_2338{x=405, y=69, z=32}
 [06:43:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=407, y=70, z=31} class_2338{x=405, y=69, z=32}
+[07:07:49] [Server thread/INFO]: SearchWorkerManager ff781136: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[07:07:49] [Server thread/INFO]: SearchWorkerManager ff781136: RandomSpreadSearchWorker succeeded with 1565 radius, 16 samples
