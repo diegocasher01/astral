@@ -4149,6 +4149,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-08-29 17:28:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-08-17 04:24:47 +0000"
@@ -10465,6 +10471,12 @@
   "create:recipes/create.base/crafting/appliances/schedule_clear": {
     "criteria": {
       "has_item": "2025-08-29 08:10:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/jungle_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-29 17:25:54 +0000"
     },
     "done": true
   },

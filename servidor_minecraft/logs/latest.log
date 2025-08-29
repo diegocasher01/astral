@@ -7868,3 +7868,4 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [16:32:47] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Octlopez04 -> Global
 [16:32:47] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Octlopez04. Normal: GRAVE / Robbing: INVENTORY
 [16:32:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[17:28:04] [Server thread/INFO]: Octlopez04 has made the advancement [Bonfire Lit]
