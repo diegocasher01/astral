@@ -14310,6 +14310,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/upgrade_slots": {
+    "criteria": {
+      "has_modified": "2025-08-28 23:44:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/onion": {
     "criteria": {
       "has_onion_crate": "2025-08-21 07:39:10 +0000"
