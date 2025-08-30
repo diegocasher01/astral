@@ -4263,6 +4263,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/silver_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_silver_blocks": "2025-08-30 04:36:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-08-17 03:03:06 +0000"
@@ -5475,6 +5481,7 @@
   "tconstruct:tools/tool_smith": {
     "criteria": {
       "dagger": "2025-08-20 06:51:20 +0000",
+      "sword": "2025-08-30 04:37:56 +0000",
       "mattock": "2025-08-17 03:22:34 +0000",
       "pickaxe": "2025-08-17 02:58:07 +0000",
       "hand_axe": "2025-08-27 00:08:55 +0000"
@@ -10963,6 +10970,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/silver_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_silver_blocks": "2025-08-30 04:36:20 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_frost_slayer": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 05:42:35 +0000"
@@ -15562,6 +15575,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/silver_plate_from_block": {
+    "criteria": {
+      "has_tag_c_silver_blocks": "2025-08-30 04:36:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/ender_pearl_small_dust_from_dust": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -16054,6 +16073,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-08-19 02:34:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/silver_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_silver_blocks": "2025-08-30 04:36:20 +0000"
     },
     "done": true
   },
