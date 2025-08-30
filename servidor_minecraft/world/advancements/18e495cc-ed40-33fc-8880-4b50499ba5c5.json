@@ -7530,6 +7530,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/schedule_clear": {
+    "criteria": {
+      "has_item": "2025-08-30 04:48:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-19 01:05:54 +0000"
