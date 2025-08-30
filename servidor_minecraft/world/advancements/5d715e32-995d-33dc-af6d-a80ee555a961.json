@@ -5753,6 +5753,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/white_concrete_powder_from_concrete": {
+    "criteria": {
+      "has_white_concrete": "2025-08-30 06:46:18 +0000"
+    },
+    "done": true
+  },
   "reinfchest:recipes/decorations/diamond_chest": {
     "criteria": {
       "has_diamond": "2025-08-18 07:51:38 +0000"
@@ -11660,6 +11666,12 @@
   "techreborn:recipes/chemical_reactor/brown_wool_from_green_wool_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2025-08-30 06:44:30 +0000"
     },
     "done": true
   },
