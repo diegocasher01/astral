@@ -2337,6 +2337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-30 05:59:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_candle_from_blue_candle_with_magenta_dye": {
     "criteria": {
       "has_magenta_dye": "2025-08-19 02:21:33 +0000"
@@ -3540,6 +3546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-30 05:59:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/red_garnet_blocks_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
@@ -4310,6 +4322,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-08-30 05:59:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-08-20 05:12:19 +0000"
@@ -4968,6 +4986,12 @@
   "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-19 02:54:11 +0000"
+    },
+    "done": true
+  },
+  "dustrial_decor:recipes/decorations/gold_chain": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-30 05:59:26 +0000"
     },
     "done": true
   },
