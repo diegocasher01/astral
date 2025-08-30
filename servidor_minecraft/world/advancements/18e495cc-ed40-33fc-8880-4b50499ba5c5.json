@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-08-30 06:29:26 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/dense_covered_red": {
     "criteria": {
       "has_dyes/black": "2025-08-20 04:48:24 +0000"
@@ -10740,6 +10746,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-19 01:08:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/upgrade_slots": {
+    "criteria": {
+      "has_modified": "2025-08-30 06:24:28 +0000"
     },
     "done": true
   },
