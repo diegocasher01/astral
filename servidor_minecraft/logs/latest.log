@@ -7049,3 +7049,4 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [04:44:36] [Netty Epoll Server IO #5/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1b13e57b (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [04:44:36] [Netty Epoll Server IO #5/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
 [05:03:43] [Server thread/INFO]: Lumi_uwu has made the advancement [Traffic Control]
+[05:45:47] [Server thread/INFO]: Lumi_uwu has made the advancement [Bonfire Lit]
