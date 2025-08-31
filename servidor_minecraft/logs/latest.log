@@ -7868,3 +7868,4 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [08:37:05] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@a009c51 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [08:37:05] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@299dbd25 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [08:37:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
+[09:00:02] [Server thread/INFO]: Octlopez04 has made the advancement [Engineers hate this simple trick!]
