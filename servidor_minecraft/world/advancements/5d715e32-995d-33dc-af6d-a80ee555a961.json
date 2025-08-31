@@ -3117,6 +3117,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/smelting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-08-31 01:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-08-18 08:23:18 +0000"
@@ -12312,6 +12318,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-08-31 01:40:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/white_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-08-21 23:53:20 +0000"
@@ -15891,7 +15903,8 @@
       "glow_berries": "2025-08-21 03:20:07 +0000",
       "melon_slice": "2025-08-29 00:47:34 +0000",
       "golden_carrot": "2025-08-22 04:22:09 +0000",
-      "cooked_chicken": "2025-08-18 21:58:44 +0000"
+      "cooked_chicken": "2025-08-18 21:58:44 +0000",
+      "mushroom_stew": "2025-08-31 01:45:25 +0000"
     },
     "done": false
   },
