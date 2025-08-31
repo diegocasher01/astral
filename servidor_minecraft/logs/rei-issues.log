@@ -1,4 +1,4 @@
-[01:33:48] [Worker-Main-5/ERROR] [REI] ReltServer of ReltServer [roughly_enough_loot_tables] plugin failed to reloadable-plugin/EntryTypeRegistryImpl/!
+[08:36:45] [Worker-Main-6/ERROR] [REI] ReltServer of ReltServer [roughly_enough_loot_tables] plugin failed to reloadable-plugin/EntryTypeRegistryImpl/!
 java.lang.ExceptionInInitializerError
 	at griglog.relt.rei_plugin.ReltServer.registerEntryTypes(ReltPlugin.kt:37)
 	at me.shedaniel.rei.impl.common.entry.type.EntryTypeRegistryImpl.acceptPlugin(EntryTypeRegistryImpl.java:56)
