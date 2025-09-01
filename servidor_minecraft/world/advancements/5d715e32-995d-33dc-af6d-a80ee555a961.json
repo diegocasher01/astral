@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2025-09-01 16:19:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
@@ -3441,6 +3447,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-09-01 16:19:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-08-21 08:11:24 +0000"
@@ -5317,6 +5329,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_boots": {
+    "criteria": {
+      "has_item": "2025-09-01 16:19:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
@@ -6042,6 +6060,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_block_from_ingots": {
+    "criteria": {
+      "has_item": "2025-09-01 16:19:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/sapphire_blocks_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -6402,6 +6426,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2025-09-01 16:19:29 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/spears/spear_grave_bane": {
     "criteria": {
       "has_gold_ingot": "2025-08-17 05:42:35 +0000"
@@ -6723,6 +6753,12 @@
   "farmersdelight:recipes/farmersdelight/canvas_rug": {
     "criteria": {
       "has_canvas": "2025-08-22 03:04:14 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-01 16:19:29 +0000"
     },
     "done": true
   },
@@ -7621,6 +7657,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_helmet": {
+    "criteria": {
+      "has_item": "2025-09-01 16:19:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_tin": {
     "criteria": {
       "has_raw_tin_ores": "2025-08-17 02:56:54 +0000"
@@ -7978,6 +8020,12 @@
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-08-23 00:07:03 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/cobalt_platform": {
+    "criteria": {
+      "has_bars": "2025-09-01 16:19:29 +0000"
     },
     "done": true
   },
@@ -8460,6 +8508,12 @@
   "reinfchest:recipes/decorations/copper_chest": {
     "criteria": {
       "has_copper_ingot": "2025-08-17 03:04:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_leggings": {
+    "criteria": {
+      "has_item": "2025-09-01 16:19:29 +0000"
     },
     "done": true
   },
