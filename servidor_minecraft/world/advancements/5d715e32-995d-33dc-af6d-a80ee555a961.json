@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/another_furniture/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-09-01 15:04:03 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_slope": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
@@ -398,6 +404,12 @@
   "interiors:recipes/building_blocks/crafting/floor_chair/green_floor_chair": {
     "criteria": {
       "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-09-01 15:04:03 +0000"
     },
     "done": true
   },
@@ -6036,6 +6048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-09-01 15:04:03 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/iron_catwalk": {
     "criteria": {
       "has_item": "2025-08-17 03:52:30 +0000"
@@ -6147,6 +6165,12 @@
   "travelersbackpack:recipes/travelersbackpack/end_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/another_furniture/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-09-01 15:04:03 +0000"
     },
     "done": true
   },
@@ -7239,6 +7263,12 @@
   "techreborn:recipes/chemical_reactor/gray_carpet_from_light_gray_carpet_with_black_dye": {
     "criteria": {
       "has_black_dye": "2025-08-19 22:34:38 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/another_furniture/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-09-01 15:04:03 +0000"
     },
     "done": true
   },
@@ -9783,6 +9813,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/another_furniture/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-09-01 15:04:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-17 03:38:07 +0000"
@@ -11040,6 +11076,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_brick": {
     "criteria": {
       "has_item": "2025-08-17 04:18:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/another_furniture/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-09-01 15:04:03 +0000"
     },
     "done": true
   },
@@ -14899,6 +14941,12 @@
   "create:recipes/create.base/crafting/kinetics/large_cogwheel": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-09-01 15:04:03 +0000"
     },
     "done": true
   },
