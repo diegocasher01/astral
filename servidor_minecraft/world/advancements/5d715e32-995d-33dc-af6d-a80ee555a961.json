@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/wood_plate": {
     "criteria": {
       "has_planks": "2025-08-17 02:51:32 +0000"
@@ -1052,6 +1058,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-18 09:25:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
     },
     "done": true
   },
@@ -2004,6 +2016,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-09-01 14:55:06 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/chair/gray_chair": {
     "criteria": {
       "has_seat": "2025-08-22 02:33:24 +0000"
@@ -2398,6 +2416,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-18 09:25:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
     },
     "done": true
   },
@@ -3162,6 +3186,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-08-18 08:23:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/brass_blocks_wall": {
+    "criteria": {
+      "has_tag_c_brass_blocks": "2025-09-01 14:55:03 +0000"
     },
     "done": true
   },
@@ -3957,6 +3987,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/brass_blocks_stairs": {
+    "criteria": {
+      "has_tag_c_brass_blocks": "2025-09-01 14:55:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-09-01 14:39:42 +0000"
@@ -4335,6 +4371,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-08-17 03:03:06 +0000"
@@ -4436,6 +4478,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-17 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/brass_sheet_metal_from_brass_block_stonecutting": {
+    "criteria": {
+      "has_brass_block": "2025-09-01 14:55:03 +0000"
     },
     "done": true
   },
@@ -4821,6 +4869,12 @@
   "techreborn:recipes/crafting_table/misc_block/rubber_plank_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/brass_door": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
     },
     "done": true
   },
@@ -6300,6 +6354,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-17 02:55:01 +0000"
@@ -6996,6 +7056,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/brass_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_brass_blocks": "2025-09-01 14:55:03 +0000"
+    },
+    "done": true
+  },
   "dustrial_decor:recipes/misc/cardboard": {
     "criteria": {
       "has_paper": "2025-08-18 21:55:55 +0000"
@@ -7401,6 +7467,12 @@
   "techreborn:recipes/grinder/saw_small_dust_from_stairs": {
     "criteria": {
       "has_tag_minecraft_stairs": "2025-08-20 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/brass_dust": {
+    "criteria": {
+      "has_tag_c_brass_ingots": "2025-09-01 14:55:06 +0000"
     },
     "done": true
   },
@@ -8517,6 +8589,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/wrought_iron_drop_mortar_end": {
     "criteria": {
       "has_gunpowder": "2025-08-19 02:34:42 +0000"
@@ -9087,6 +9165,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-08-22 02:33:24 +0000"
@@ -9354,6 +9438,12 @@
   "create:mechanical_pump_0": {
     "criteria": {
       "0": "2025-08-20 05:53:22 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-09-01 14:55:06 +0000"
     },
     "done": true
   },
@@ -9736,6 +9826,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-08-16 21:57:17 +0000"
@@ -9897,6 +9993,12 @@
   "create:recipes/create.palettes/crafting/kinetics/train_door": {
     "criteria": {
       "has_item": "2025-08-20 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-09-01 14:55:06 +0000"
     },
     "done": true
   },
@@ -10077,6 +10179,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-08-18 21:56:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/brass_dust_from_block": {
+    "criteria": {
+      "has_tag_c_brass_blocks": "2025-09-01 14:55:03 +0000"
     },
     "done": true
   },
@@ -10689,6 +10797,12 @@
   "techreborn:recipes/chemical_reactor/glyceryl": {
     "criteria": {
       "has_nitro_carbon": "2025-08-16 21:56:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-09-01 14:55:06 +0000"
     },
     "done": true
   },
@@ -12446,6 +12560,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/brass_bars": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
+    },
+    "done": true
+  },
   "ad_astra:moon": {
     "criteria": {
       "moon": "2025-08-27 01:24:21 +0000"
@@ -12455,6 +12575,12 @@
   "techreborn:recipes/chemical_reactor/light_blue_wool_from_light_gray_wool_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-21 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/brass_blocks_slab": {
+    "criteria": {
+      "has_tag_c_brass_blocks": "2025-09-01 14:55:03 +0000"
     },
     "done": true
   },
@@ -12695,6 +12821,12 @@
   "create:recipes/create.base/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
     },
     "done": true
   },
@@ -13321,6 +13453,12 @@
   "create:recipes/create.base/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2025-08-17 03:33:40 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/brass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
     },
     "done": true
   },
@@ -14218,6 +14356,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/brass_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_brass_blocks": "2025-09-01 14:55:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
@@ -14722,6 +14866,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
+    },
+    "done": true
+  },
   "campanion:recipes/combat/iron_spear": {
     "criteria": {
       "has_iron": "2025-08-17 03:10:05 +0000"
@@ -14989,6 +15139,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-08-18 08:32:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/brass_plate": {
+    "criteria": {
+      "has_tag_c_brass_ingots": "2025-09-01 14:55:06 +0000"
     },
     "done": true
   },
@@ -17195,6 +17351,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/copper_cable": {
     "criteria": {
       "has_copper_ingot": "2025-08-17 03:04:48 +0000"
@@ -17366,6 +17528,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/gem/ruby_gem_from_block": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/brass_hull": {
+    "criteria": {
+      "has_item": "2025-09-01 14:55:06 +0000"
     },
     "done": true
   },
@@ -17698,6 +17866,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/brass_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_brass_blocks": "2025-09-01 14:55:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-08-18 09:06:37 +0000"
@@ -18007,6 +18181,12 @@
   "create:recipes/create.palettes/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
       "has_item": "2025-08-26 06:24:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/brass_plate_from_block": {
+    "criteria": {
+      "has_tag_c_brass_blocks": "2025-09-01 14:55:03 +0000"
     },
     "done": true
   },
