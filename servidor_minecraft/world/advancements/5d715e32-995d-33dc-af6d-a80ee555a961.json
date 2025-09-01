@@ -8023,15 +8023,15 @@
     },
     "done": true
   },
-  "tconstruct:recipes/tconstruct/general/common/cobalt_platform": {
-    "criteria": {
-      "has_bars": "2025-09-01 16:19:29 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/tconstruct/general/common/materials/cobalt_ingot_smelting": {
     "criteria": {
       "has_item": "2025-09-01 15:13:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/cobalt_platform": {
+    "criteria": {
+      "has_bars": "2025-09-01 16:19:29 +0000"
     },
     "done": true
   },
