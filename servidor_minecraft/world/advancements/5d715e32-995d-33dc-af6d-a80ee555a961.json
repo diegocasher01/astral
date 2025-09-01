@@ -779,6 +779,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/sugar": {
+    "criteria": {
+      "has_sugar_cane": "2025-09-01 14:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-08-19 02:54:18 +0000"
@@ -6743,6 +6749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-09-01 14:18:14 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/iron_golem_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-08-22 09:36:26 +0000"
@@ -7680,6 +7692,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-09-01 14:18:13 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/white_sofa": {
     "criteria": {
       "has_wool": "2025-08-16 21:57:17 +0000"
@@ -7925,6 +7943,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/raw/raw_tungsten_from_block": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-09-01 14:18:13 +0000"
     },
     "done": true
   },
@@ -11428,6 +11452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-09-01 14:18:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/vacuum_freezer/helium": {
     "criteria": {
       "has_heliumplasma": "2025-08-16 21:56:14 +0000"
@@ -12337,6 +12367,7 @@
     "criteria": {
       "vegetable_soup": "2025-08-23 00:07:03 +0000",
       "pasta_with_meatballs": "2025-08-19 23:17:13 +0000",
+      "chicken_soup": "2025-09-01 14:25:26 +0000",
       "vegetable_noodles": "2025-08-20 05:32:32 +0000",
       "fried_rice": "2025-08-19 22:48:07 +0000"
     },
