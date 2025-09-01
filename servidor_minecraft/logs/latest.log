@@ -10094,3 +10094,5 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [22:44:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
 [22:44:26] [Netty Epoll Server IO #2/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
 [22:44:39] [Server thread/INFO]: [Octlopez04: Set own game mode to Survival Mode]
+[23:58:32] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
+[23:58:32] [Server thread/INFO]: Octlopez04 left the game
