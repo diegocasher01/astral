@@ -7975,6 +7975,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-09-01 15:13:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/tool/bronze_sword": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-08-17 03:28:29 +0000"
@@ -14671,6 +14677,12 @@
   "techreborn:recipes/chemical_reactor/purple_stained_glass_from_magenta_stained_glass_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/materials/raw_cobalt_block_from_raws": {
+    "criteria": {
+      "has_item": "2025-09-01 15:13:07 +0000"
     },
     "done": true
   },
