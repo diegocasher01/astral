@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/cannon_welder": {
+    "criteria": {
+      "has_blaze_burner": "2025-09-01 14:41:06 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/crafting_station_from_logs": {
     "criteria": {
       "has_item": "2025-08-17 02:51:50 +0000"
@@ -3933,6 +3939,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/cannon_welder_mirrored": {
+    "criteria": {
+      "has_blaze_burner": "2025-09-01 14:41:06 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/copper_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-08-17 03:04:48 +0000"
@@ -3942,6 +3954,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-09-01 14:39:42 +0000"
     },
     "done": true
   },
@@ -5071,6 +5089,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-01 14:39:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-08-18 09:06:37 +0000"
@@ -5344,6 +5368,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-19 00:45:00 +0000",
+      "minecraft:blaze": "2025-09-01 14:38:50 +0000",
       "minecraft:skeleton": "2025-08-18 08:48:38 +0000",
       "minecraft:ravager": "2025-08-19 01:55:07 +0000",
       "minecraft:vindicator": "2025-08-19 01:52:30 +0000",
@@ -14481,6 +14506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-01 14:39:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_wool_from_white_wool_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
@@ -16180,6 +16211,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-09-01 14:41:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/brown_stained_glass_from_green_stained_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-17 03:06:17 +0000"
@@ -17317,6 +17354,12 @@
   "railways:recipes/railways/crafting/smokestack_diesel": {
     "criteria": {
       "has_item": "2025-08-17 04:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-01 14:39:42 +0000"
     },
     "done": true
   },
