@@ -7034,3 +7034,17 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [23:06:07] [Netty Epoll Server IO #4/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
 [23:06:08] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5b6f0dde (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [23:06:08] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5a3c97de (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[23:15:30] [Server thread/INFO]: SearchWorkerManager 5d89b303: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23:15:30] [Server thread/INFO]: SearchWorkerManager 5d89b303: RandomSpreadSearchWorker succeeded with 1024 radius, 13 samples
+[23:17:46] [Server thread/WARN]: Automobile (vehicle of Octlopez04) moved wrongly! 0.567424314665999
+[23:17:46] [Server thread/WARN]: Automobile (vehicle of Octlopez04) moved wrongly! 1.2422589340636137
+[23:17:47] [Server thread/WARN]: Automobile (vehicle of Octlopez04) moved wrongly! 0.38213675100760724
+[23:17:52] [Server thread/WARN]: The namespace kaisyn contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[23:17:53] [Server thread/WARN]: Automobile (vehicle of Octlopez04) moved too quickly! 10.169141868466909,0.0,2.941629880045639
+[23:17:53] [Server thread/WARN]: Automobile (vehicle of Octlopez04) moved too quickly! 10.921572798170246,0.0,3.0994422413940015
+[23:17:53] [Server thread/WARN]: Automobile (vehicle of Octlopez04) moved too quickly! 11.657230517707376,0.0,3.3227464398630104
+[23:17:53] [Server thread/WARN]: Automobile (vehicle of Octlopez04) moved too quickly! 12.361209118368379,0.0,3.631730541686693
+[23:17:53] [Server thread/WARN]: Automobile (vehicle of Octlopez04) moved too quickly! 13.105455480608498,0.0,3.6989511222650435
+[23:20:27] [Server thread/WARN]: Automobile (vehicle of Octlopez04) moved wrongly! 0.33442346100832765
+[23:20:27] [Server thread/WARN]: Automobile (vehicle of Octlopez04) moved wrongly! 0.7531650979969982
+[23:23:05] [Server thread/INFO]: Octlopez04 has reached the goal [Clay Island]
