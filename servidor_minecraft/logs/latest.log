@@ -10115,3 +10115,32 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [23:42:20] [Server thread/WARN]: Automobile (vehicle of Octlopez04) moved too quickly! -1.3852712372495262,0.19000001810491085,12.324586096302937
 [23:46:51] [Server thread/INFO]: SearchWorkerManager 71811414: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [23:46:53] [Server thread/INFO]: SearchWorkerManager 71811414: RandomSpreadSearchWorker failed with 10628 radius, 522 samples
+[23:48:44] [Server thread/INFO]: [Octlopez04: Set own game mode to Creative Mode]
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1035}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=67, z=1032}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1039}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1038}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1037}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1058}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1057}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1056}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1063}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1060}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1050}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1049}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1046}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1042}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1040}
+[23:49:20] [Server thread/WARN]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location class_2338{x=1366, y=66, z=1054}
+[23:49:25] [Server thread/INFO]: [Octlopez04: Set own game mode to Survival Mode]
+[23:49:48] [Server thread/INFO]: Octlopez04 fell from a high place
+[23:49:48] [Server thread/INFO]: Grave spawned at: 1268, 96, 926 | overworld
+[23:49:50] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1d24004e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[23:49:50] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@1053d5e3 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[23:49:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4051ms or 81 ticks behind
+[23:49:56] [Server thread/INFO]: Scheduling graph refresh at 317, 64, 35
+[23:50:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3615ms or 72 ticks behind
+[23:50:14] [Server thread/INFO]: Grave at 1268, 96, 926 was replaced with Block{minecraft:air}
+[23:50:14] [Server thread/INFO]: Octlopez04 is retrieving their grave at 1268, 96, 926
+[23:50:14] [Server thread/INFO]: Octlopez04 retrieved the items from the grave
+[23:51:57] [Server thread/INFO]: Saving grave backup data
