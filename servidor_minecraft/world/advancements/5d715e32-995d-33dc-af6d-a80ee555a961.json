@@ -828,6 +828,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-09-03 13:37:58 +0000"
+    },
+    "done": true
+  },
   "dustrial_decor:recipes/misc/cast_iron_billet": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 03:10:05 +0000"
