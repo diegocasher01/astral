@@ -27317,3 +27317,5 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.RuntimeExc
 [15:16:43] [Netty Epoll Server IO #3/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
 [15:29:38] [Server thread/INFO]: Octlopez04 claimed 1 chunks around [minecraft:overworld:8:10]for team Octlopez04
 [15:29:44] [Server thread/INFO]: [Octlopez04: Marked chunk [8, 10] in minecraft:overworld to be force loaded]
+[15:40:15] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
+[15:40:15] [Server thread/INFO]: Octlopez04 left the game
