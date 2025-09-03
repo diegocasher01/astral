@@ -5748,6 +5748,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/cannon_builder": {
+    "criteria": {
+      "has_piston_extension_pole": "2025-09-03 15:22:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-17 03:03:15 +0000"
@@ -15549,6 +15555,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/cannon_drill": {
+    "criteria": {
+      "has_piston_extension_pole": "2025-09-03 15:22:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/painting_from_canvas": {
     "criteria": {
       "has_canvas": "2025-08-22 03:04:14 +0000"
@@ -17494,6 +17506,12 @@
   "tconstruct:recipes/tconstruct/general/tables/scorched_forge": {
     "criteria": {
       "has_item": "2025-08-18 08:02:16 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/cannon_loader": {
+    "criteria": {
+      "has_piston_extension_pole": "2025-09-03 15:22:40 +0000"
     },
     "done": true
   },
