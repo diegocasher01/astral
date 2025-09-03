@@ -14614,6 +14614,12 @@
     },
     "done": true
   },
+  "trashcans:ultimate_trash_can": {
+    "criteria": {
+      "has_ultimate_trash_can": "2025-09-02 23:59:08 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_folding_door": {
     "criteria": {
       "has_item": "2025-08-17 04:14:00 +0000"
