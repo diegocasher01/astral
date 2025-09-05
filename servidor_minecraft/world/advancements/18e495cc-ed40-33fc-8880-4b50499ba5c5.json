@@ -2421,6 +2421,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_twisting_vine_bow": {
+    "criteria": {
+      "has_twisting_vines": "2025-09-05 05:00:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_stained_glass_from_cyan_stained_glass_with_light_gray_dye": {
     "criteria": {
       "has_light_gray_dye": "2025-09-05 04:41:47 +0000"
@@ -7006,6 +7012,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_tulip_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-09-05 04:50:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-08-27 01:30:35 +0000"
@@ -11381,6 +11393,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/tool/peridot_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-09-05 04:50:30 +0000"
     },
     "done": true
   },

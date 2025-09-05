@@ -792,6 +792,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-09-05 04:47:03 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/tools/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2025-08-19 23:47:18 +0000"
@@ -3805,6 +3811,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-09-05 04:52:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_stained_glass_pane_from_blue_stained_glass_pane_with_white_dye": {
     "criteria": {
       "has_white_dye": "2025-08-26 04:52:11 +0000"
@@ -4779,6 +4791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-09-05 04:52:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-17 02:55:01 +0000"
@@ -5034,6 +5052,12 @@
   "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair": {
     "criteria": {
       "has_seat": "2025-08-22 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_tulip_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-09-05 04:47:17 +0000"
     },
     "done": true
   },
@@ -8102,6 +8126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-09-05 04:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-08-19 22:36:11 +0000"
@@ -9424,6 +9454,12 @@
   "techreborn:recipes/chemical_reactor/light_blue_carpet_from_white_carpet_with_light_blue_dye": {
     "criteria": {
       "has_light_blue_dye": "2025-08-29 00:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-09-05 04:47:03 +0000"
     },
     "done": true
   },
@@ -11060,6 +11096,12 @@
   "techreborn:recipes/extractor/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-08-17 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_twisting_vine_bow": {
+    "criteria": {
+      "has_twisting_vines": "2025-09-05 04:59:51 +0000"
     },
     "done": true
   },
@@ -17184,6 +17226,7 @@
       "minecraft:jungle": "2025-08-17 02:21:33 +0000",
       "minecraft:ocean": "2025-08-29 07:11:36 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-21 03:02:31 +0000",
+      "minecraft:flower_forest": "2025-09-05 04:46:59 +0000",
       "minecraft:frozen_peaks": "2025-08-29 07:14:32 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-16 21:56:14 +0000",
       "minecraft:meadow": "2025-08-21 06:58:01 +0000",
