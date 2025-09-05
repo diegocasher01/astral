@@ -5411,6 +5411,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/blue_concrete_powder_from_concrete": {
+    "criteria": {
+      "has_blue_concrete": "2025-09-05 18:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-08-19 01:58:52 +0000"

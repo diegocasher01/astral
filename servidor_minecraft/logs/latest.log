@@ -7936,3 +7936,67 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [17:47:36] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@748bb846 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [17:47:36] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7bbd8c75 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [17:47:36] [Netty Epoll Server IO #6/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Attempting to create an automatic backup
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Found world folder at /workspaces/astral/servidor_minecraft/./world/.
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Last backup size: 191.6MB Current world size: 297.3MB Current Available space: 12.6GB ExpectedSize 208.6MB
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world minecraft:overworld save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world ad_astra:mercury save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world ad_astra:moon_debris_orbit save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world ae2:spatial_storage save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world ad_astra:mars save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world createastral:moon_debris save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world ad_astra:glacio_orbit save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world minecraft:the_end save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world minecraft:the_nether save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world ad_astra:moon_orbit save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world ad_astra:glacio save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world ad_astra:earth_orbit save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world ad_astra:venus save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world ad_astra:moon save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world ad_astra:mercury_orbit save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world ad_astra:mars_orbit save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Setting world ad_astra:venus_orbit save state to true
+[18:00:00] [ftbbackups2_Worker-1/INFO]: Writing to file /workspaces/astral/servidor_minecraft/backups/backups.json
+[18:00:00] [FTB Backups backup thread 0/INFO]: Waiting for world save to complete.
+[18:00:00] [FTB Backups backup thread 0/INFO]: Detected MC Version 1.18.2, Data version 2975
+[18:00:00] [FTB Backups backup thread 0/INFO]: Save Name: world
+[18:00:02] [FTB Backups backup thread 0/WARN]: Did not find a region folder for level: /workspaces/astral/servidor_minecraft/./world/./DIM1
+[18:00:02] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder ad_astra:earth_orbit
+[18:00:02] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder ad_astra:glacio_orbit
+[18:00:02] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder ad_astra:moon_debris_orbit
+[18:00:02] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder ad_astra:mars
+[18:00:02] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder ad_astra:mars_orbit
+[18:00:02] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder ad_astra:glacio
+[18:00:02] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder ad_astra:venus_orbit
+[18:00:02] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder ad_astra:mercury
+[18:00:02] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder ad_astra:moon_orbit
+[18:00:02] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder ad_astra:mercury_orbit
+[18:00:02] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder ad_astra:venus
+[18:00:02] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder createastral:moon_debris
+[18:00:02] [FTB Backups backup thread 0/WARN]: Found possible mod dimension with no region folder ae2:spatial_storage
+[18:00:02] [FTB Backups backup thread 0/WARN]: Did not find a region folder for level: /workspaces/astral/servidor_minecraft/./world/./DIM-1
+[18:00:14] [FTB Backups backup thread 0/INFO]: Backup preview created, Scan took 12465ms, Capture took 2040ms
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world minecraft:overworld save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:mercury save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:moon_debris_orbit save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world ae2:spatial_storage save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:mars save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world createastral:moon_debris save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:glacio_orbit save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world minecraft:the_end save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world minecraft:the_nether save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:moon_orbit save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:glacio save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:earth_orbit save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:venus save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:moon save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:mercury_orbit save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:mars_orbit save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Setting world ad_astra:venus_orbit save state to false
+[18:00:29] [FTB Backups backup thread 0/INFO]: Backup size 200.8MB World Size 297.3MB
+[18:00:29] [FTB Backups backup thread 0/INFO]: Writing to file /workspaces/astral/servidor_minecraft/backups/backups.json
+[18:00:29] [FTB Backups backup thread 0/INFO]: New backup created at /workspaces/astral/servidor_minecraft/backups/2025-9-5_18-0-0.zip size: 200.8MB Took: 0m, 29s, 426ms Sha1: 57026c2cb76f829ebefbaa248ca51d865417903c
+[18:00:34] [FTB Backups scheduled executor 0/INFO]: More backups than 1 found, Removing oldest backup
+[18:00:34] [FTB Backups scheduled executor 0/INFO]: Removed old backup 2025-9-3_0-0-0.zip
+[18:00:34] [FTB Backups scheduled executor 0/INFO]: File missing, removing from backups /workspaces/astral/servidor_minecraft/backups/2025-9-3_0-0-0.zip
+[18:00:34] [FTB Backups scheduled executor 0/INFO]: Writing to file /workspaces/astral/servidor_minecraft/backups/backups.json
