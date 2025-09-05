@@ -7919,3 +7919,20 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [17:45:47] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7bbd8c75 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [17:45:51] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@748bb846 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [17:45:51] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7bbd8c75 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:46:46] [Server thread/INFO]: Octlopez04 has made the advancement [Super Critical]
+[17:47:00] [Server thread/INFO]: Lumi_uwu has made the advancement [Super Critical]
+[17:47:13] [Server thread/INFO]: Saving grave backup data
+[17:47:34] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
+[17:47:34] [Server thread/INFO]: Octlopez04 left the game
+[17:47:35] [Server thread/INFO]: Octlopez04[/100.105.105.97:51593] logged in with entity id 2612 at (334.815359252047, 64.0, 32.30664248947122)
+[17:47:35] [Server thread/INFO]: Syncing config to Octlopez04 (5d715e32-995d-33dc-af6d-a80ee555a961)
+[17:47:35] [Server thread/INFO]: Loading config from file...
+[17:47:35] [Netty Epoll Server IO #6/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[17:47:35] [Server thread/INFO]: Octlopez04 joined the game
+[17:47:35] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@748bb846 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:47:35] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7bbd8c75 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:47:35] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Octlopez04 -> Global
+[17:47:35] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Octlopez04. Normal: GRAVE / Robbing: INVENTORY
+[17:47:36] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@748bb846 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:47:36] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7bbd8c75 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:47:36] [Netty Epoll Server IO #6/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config

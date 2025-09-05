@@ -2505,6 +2505,12 @@
     },
     "done": true
   },
+  "techreborn:alarm": {
+    "criteria": {
+      "crit1": "2025-09-05 17:47:00 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_stained_glass_from_cyan_stained_glass_with_light_gray_dye": {
     "criteria": {
       "has_light_gray_dye": "2025-09-05 04:41:47 +0000"
