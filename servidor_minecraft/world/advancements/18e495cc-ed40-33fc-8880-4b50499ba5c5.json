@@ -6582,6 +6582,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/light_blue_concrete_powder_from_concrete": {
+    "criteria": {
+      "has_light_blue_concrete": "2025-09-05 18:23:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-19 02:30:54 +0000"
