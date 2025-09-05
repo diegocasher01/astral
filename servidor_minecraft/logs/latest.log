@@ -10155,3 +10155,6 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [17:22:01] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@176a5d3f (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [17:22:03] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@733fee5e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [17:22:03] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@176a5d3f (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:29:16] [Server thread/INFO]: Lumi_uwu has made the advancement [Heart of the Machine]
+[17:30:20] [Server thread/INFO]: Villager LunarianEntity['Lunarian Mason'/4020, l='ServerLevel[world]', x=-321.81, y=101.00, z=-239.54] died, message: 'Lunarian Mason was pummeled by Ice Spit'
+[17:30:33] [Server thread/INFO]: Octlopez04 has completed the challenge [Centennial]

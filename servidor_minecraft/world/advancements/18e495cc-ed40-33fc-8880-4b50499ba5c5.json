@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/compressor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-09-05 17:29:16 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_block": {
     "criteria": {
       "has_item": "2025-08-19 01:23:16 +0000"
@@ -314,6 +320,12 @@
   "techreborn:recipes/chemical_reactor/purple_carpet_from_white_carpet_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2025-08-27 01:02:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-09-05 17:29:16 +0000"
     },
     "done": true
   },
@@ -915,6 +927,12 @@
   "create:water_wheel": {
     "criteria": {
       "0": "2025-08-19 01:18:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-09-05 17:25:32 +0000"
     },
     "done": true
   },
@@ -2847,6 +2865,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-09-05 17:25:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/ingot/silver_ingot_from_nugget": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:55 +0000"
@@ -3702,6 +3726,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/grinder": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-09-05 17:29:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/red_garnet_blocks_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
@@ -3753,6 +3783,12 @@
   "techreborn:recipes/chemical_reactor/blue_stained_glass_from_light_blue_stained_glass_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-20 00:01:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:machineblock": {
+    "criteria": {
+      "crit1": "2025-09-05 17:29:16 +0000"
     },
     "done": true
   },
@@ -4150,6 +4186,12 @@
   "farmersdelight:recipes/farmersdelight/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-08-20 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/misc/seeds_certus": {
+    "criteria": {
+      "has_dusts/certus_quartz": "2025-09-05 17:25:32 +0000"
     },
     "done": true
   },
@@ -5508,6 +5550,12 @@
   "techreborn:recipes/chemical_reactor/purple_candle_from_magenta_candle_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2025-08-27 01:02:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-09-05 17:25:32 +0000"
     },
     "done": true
   },
@@ -8804,6 +8852,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/extractor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-09-05 17:29:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/rice": {
     "criteria": {
       "has_rice_panicle": "2025-08-29 00:25:55 +0000"
@@ -11979,6 +12033,12 @@
     },
     "done": true
   },
+  "ae2:main/root": {
+    "criteria": {
+      "certus": "2025-09-05 17:25:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
@@ -12252,6 +12312,12 @@
   "createdeco:recipes/createdeco.bricks/cracked_red_bricks_slab_vert_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-19 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/canning_machine": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-09-05 17:29:16 +0000"
     },
     "done": true
   },
@@ -12570,6 +12636,12 @@
   "ae2:recipes/ae2.main/network/cables/dense_smart_pink": {
     "criteria": {
       "has_dyes/black": "2025-08-27 05:14:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-09-05 17:25:32 +0000"
     },
     "done": true
   },
