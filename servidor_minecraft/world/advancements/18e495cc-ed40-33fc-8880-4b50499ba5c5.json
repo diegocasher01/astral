@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "dustrial_decor:recipes/decorations/large_soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-09-05 17:31:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/andesite_dust": {
     "criteria": {
       "has_andesite": "2025-08-19 01:08:08 +0000"
@@ -1260,15 +1266,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/cut_calcite_brick_stairs": {
-    "criteria": {
-      "has_cut_calcite_bricks": "2025-09-05 17:14:31 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_brick_stairs": {
+    "criteria": {
+      "has_cut_calcite_bricks": "2025-09-05 17:14:31 +0000"
     },
     "done": true
   },
@@ -1559,6 +1565,12 @@
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-09-05 17:34:08 +0000"
+    },
+    "done": false
   },
   "techreborn:recipes/chemical_reactor/green_wool_from_lime_wool_with_gray_dye": {
     "criteria": {
@@ -2487,6 +2499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-09-05 17:31:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_stained_glass_from_cyan_stained_glass_with_light_gray_dye": {
     "criteria": {
       "has_light_gray_dye": "2025-09-05 04:41:47 +0000"
@@ -2964,6 +2982,12 @@
   "techreborn:recipes/blast_furnace/titanium_ingot": {
     "criteria": {
       "has_titanium_dust": "2025-08-19 01:00:42 +0000"
+    },
+    "done": true
+  },
+  "dustrial_decor:recipes/building_blocks/cast_iron_pillar": {
+    "criteria": {
+      "has_cast_iron_block": "2025-09-05 17:33:51 +0000"
     },
     "done": true
   },
@@ -4212,6 +4236,7 @@
       "minecraft:slime": "2025-08-23 01:20:19 +0000",
       "minecraft:cave_spider": "2025-08-23 00:57:55 +0000",
       "minecraft:enderman": "2025-08-26 05:58:18 +0000",
+      "minecraft:endermite": "2025-09-05 17:33:58 +0000",
       "minecraft:zombie": "2025-08-19 02:04:41 +0000",
       "minecraft:zombie_villager": "2025-08-19 02:42:54 +0000"
     },
@@ -4357,6 +4382,7 @@
   },
   "tconstruct:tools/tool_smith": {
     "criteria": {
+      "sword": "2025-09-05 17:29:37 +0000",
       "mattock": "2025-08-20 04:51:25 +0000",
       "pickaxe": "2025-08-19 01:03:34 +0000",
       "hand_axe": "2025-08-27 00:09:14 +0000"
@@ -4468,6 +4494,12 @@
   "mcdw:recipes/swords/sword_obsidian_claymore": {
     "criteria": {
       "has_obsidian": "2025-08-19 02:43:30 +0000"
+    },
+    "done": true
+  },
+  "dustrial_decor:recipes/building_blocks/cast_iron_bricks": {
+    "criteria": {
+      "has_cast_iron_block": "2025-09-05 17:33:51 +0000"
     },
     "done": true
   },
@@ -6243,6 +6275,12 @@
       "has_item": "2025-08-19 01:14:57 +0000"
     },
     "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "eng": "2025-09-05 17:42:40 +0000"
+    },
+    "done": false
   },
   "techreborn:recipes/extractor/flint": {
     "criteria": {
@@ -13367,6 +13405,12 @@
   "packages:recipes/unlock_package_maker": {
     "criteria": {
       "has_stuff": "2025-08-20 00:23:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-09-05 17:31:18 +0000"
     },
     "done": true
   },
