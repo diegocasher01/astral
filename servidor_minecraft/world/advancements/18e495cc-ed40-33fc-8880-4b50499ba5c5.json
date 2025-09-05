@@ -1242,6 +1242,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_calcite_brick_stairs": {
+    "criteria": {
+      "has_cut_calcite_bricks": "2025-09-05 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-08-19 01:18:50 +0000"
@@ -1404,6 +1416,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-08-19 02:14:00 +0000"
@@ -1467,6 +1485,12 @@
   "createdeco:recipes/createdeco.props/light_blue_decal": {
     "criteria": {
       "has_item": "2025-08-19 01:19:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
     },
     "done": true
   },
@@ -1796,6 +1820,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-08-19 01:30:09 +0000"
@@ -2018,6 +2048,12 @@
   "techreborn:recipes/compressor/redstone_plate": {
     "criteria": {
       "has_redstone_block": "2025-08-19 01:33:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
     },
     "done": true
   },
@@ -2409,6 +2445,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.props/yellow_copper_lamp": {
     "criteria": {
       "has_item": "2025-08-20 04:48:24 +0000"
@@ -2586,6 +2628,12 @@
   "trashcans:recipes/decorations/energy_trash_can": {
     "criteria": {
       "recipe_condition": "2025-08-19 02:30:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
     },
     "done": true
   },
@@ -3012,6 +3060,12 @@
   "create:recipes/create.palettes/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-19 01:08:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
     },
     "done": true
   },
@@ -3973,6 +4027,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_calcite_brick_slab": {
+    "criteria": {
+      "has_cut_calcite_bricks": "2025-09-05 17:14:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_blue_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-08-20 04:48:24 +0000"
@@ -4917,6 +4977,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/bronze_sliding_breechblock": {
     "criteria": {
       "has_bronze_ingot": "2025-08-19 01:12:59 +0000"
@@ -5064,6 +5130,12 @@
   "techreborn:recipes/chemical_reactor/cyan_carpet_from_light_blue_carpet_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-19 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
     },
     "done": true
   },
@@ -5617,6 +5689,12 @@
   "mcdw:recipes/hammers/hammer_mace": {
     "criteria": {
       "has_stick": "2025-08-19 01:28:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
     },
     "done": true
   },
@@ -7608,6 +7686,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2025-08-19 01:15:34 +0000"
@@ -7992,6 +8076,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/armor/ruby_boots": {
     "criteria": {
       "has_the_recipe": "2025-08-19 05:57:56 +0000"
@@ -8201,6 +8291,12 @@
   "techreborn:recipes/centrifuge/rubber_logs": {
     "criteria": {
       "has_rubber_logs": "2025-08-20 05:22:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
     },
     "done": true
   },
@@ -8441,6 +8537,12 @@
   "createbigcannons:recipes/createbigcannons/basin_foundry_lid": {
     "criteria": {
       "has_basin": "2025-08-19 01:20:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
     },
     "done": true
   },
@@ -9813,6 +9915,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_gray_dye": "2025-08-19 01:06:39 +0000"
@@ -10162,6 +10270,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-19 02:29:11 +0000"
@@ -10339,6 +10453,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-08-19 23:57:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
     },
     "done": true
   },
@@ -11865,6 +11985,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_calcite_brick_wall": {
+    "criteria": {
+      "has_cut_calcite_bricks": "2025-09-05 17:14:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/enchanted_golden_apple": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-08-27 00:47:25 +0000"
@@ -12648,6 +12774,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-08-19 01:20:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-05 17:11:50 +0000"
     },
     "done": true
   },

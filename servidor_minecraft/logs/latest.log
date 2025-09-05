@@ -10135,3 +10135,23 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [17:09:55] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@733fee5e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [17:09:55] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@176a5d3f (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [17:09:55] [Netty Epoll Server IO #6/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[17:13:56] [Server thread/INFO]: Octlopez04 burned to death
+[17:13:56] [Server thread/INFO]: Grave spawned at: 390, 64, 18 | overworld
+[17:13:57] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@733fee5e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:13:57] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@176a5d3f (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:14:03] [Server thread/INFO]: Grave at 390, 64, 18 was replaced with Block{minecraft:air}
+[17:14:03] [Server thread/INFO]: Octlopez04 is retrieving their grave at 390, 64, 18
+[17:14:03] [Server thread/INFO]: Octlopez04 retrieved the items from the grave
+[17:14:25] [Server thread/INFO]: Saving grave backup data
+[17:16:34] [Server thread/INFO]: Lumi_uwu tried to swim in lava
+[17:16:34] [Server thread/INFO]: Grave spawned at: 394, 64, 20 | overworld
+[17:16:36] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@733fee5e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:16:36] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@176a5d3f (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:16:48] [Server thread/INFO]: Grave at 394, 64, 20 was replaced with Block{minecraft:air}
+[17:16:48] [Server thread/INFO]: Lumi_uwu is retrieving their grave at 394, 64, 20
+[17:16:48] [Server thread/INFO]: Lumi_uwu retrieved the items from the grave
+[17:19:25] [Server thread/INFO]: Saving grave backup data
+[17:22:01] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@733fee5e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:22:01] [Netty Epoll Server IO #6/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@176a5d3f (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:22:03] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@733fee5e (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:22:03] [Netty Epoll Server IO #3/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@176a5d3f (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
