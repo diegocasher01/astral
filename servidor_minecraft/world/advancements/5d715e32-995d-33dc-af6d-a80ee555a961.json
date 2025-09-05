@@ -1949,6 +1949,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-09-05 04:43:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-08-27 02:07:45 +0000"
@@ -3469,6 +3475,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-09-05 04:43:08 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/pig_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
@@ -4854,6 +4866,12 @@
   "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
     "criteria": {
       "has_furnace": "2025-08-17 03:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-05 04:40:57 +0000"
     },
     "done": true
   },
@@ -7298,6 +7316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-09-05 04:43:08 +0000"
+    },
+    "done": true
+  },
   "campanion:recipes/combat/stone_spear": {
     "criteria": {
       "has_stone": "2025-08-17 02:54:20 +0000"
@@ -7631,6 +7655,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-08-17 05:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-09-05 04:43:09 +0000"
     },
     "done": true
   },
@@ -14365,6 +14395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-05 04:42:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-18 08:53:39 +0000"
@@ -17131,6 +17167,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-29 07:14:31 +0000",
       "minecraft:deep_ocean": "2025-08-29 07:11:09 +0000",
+      "minecraft:sunflower_plains": "2025-09-05 04:43:06 +0000",
       "minecraft:birch_forest": "2025-08-17 02:22:22 +0000",
       "minecraft:bamboo_jungle": "2025-08-17 02:21:22 +0000",
       "minecraft:savanna_plateau": "2025-09-02 23:49:13 +0000",
@@ -17353,9 +17390,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-05 04:40:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/calcite_small_dust": {
     "criteria": {
       "has_calcite_small_dust_material": "2025-08-17 05:38:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-05 04:42:24 +0000"
     },
     "done": true
   },
@@ -17864,6 +17913,12 @@
   "vinery:apple_cupcake": {
     "criteria": {
       "has_egg": "2025-08-16 21:58:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-05 04:40:57 +0000"
     },
     "done": true
   },
