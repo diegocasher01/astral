@@ -13393,6 +13393,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/jungle_cabinet": {
+    "criteria": {
+      "has_jungle_trapdoor": "2025-09-05 03:38:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_stained_glass_from_light_gray_stained_glass_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-19 03:31:00 +0000"
