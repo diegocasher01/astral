@@ -7879,3 +7879,5 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [04:21:01] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6580dee8 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [04:21:01] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@31b991a0 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [04:25:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=324, y=63, z=38} class_2338{x=324, y=62, z=38}
+[04:36:01] [Server thread/WARN]: The namespace kaisyn contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[04:39:15] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]

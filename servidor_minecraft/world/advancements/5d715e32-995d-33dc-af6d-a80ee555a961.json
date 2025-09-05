@@ -5170,6 +5170,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-09-05 04:33:46 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/wolf_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-08-19 08:23:03 +0000"
@@ -7892,6 +7898,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/pink_concrete_powder_from_concrete": {
+    "criteria": {
+      "has_pink_concrete": "2025-09-05 04:26:13 +0000"
+    },
+    "done": true
+  },
   "create:millstone": {
     "criteria": {
       "0": "2025-08-17 05:36:17 +0000"
@@ -8267,6 +8279,12 @@
   "create:recipes/create.palettes/crafting/kinetics/copper_door": {
     "criteria": {
       "has_item": "2025-08-20 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/red_concrete_powder_from_concrete": {
+    "criteria": {
+      "has_red_concrete": "2025-09-05 04:25:58 +0000"
     },
     "done": true
   },
@@ -13711,6 +13729,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/light_blue_concrete_powder_from_concrete": {
+    "criteria": {
+      "has_light_blue_concrete": "2025-09-05 04:26:08 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_swift_striker": {
     "criteria": {
       "has_diamond": "2025-08-18 07:51:38 +0000"
@@ -13786,6 +13810,12 @@
   "beautify:bookstack": {
     "criteria": {
       "requirement": "2025-08-19 08:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-09-05 04:33:46 +0000"
     },
     "done": true
   },

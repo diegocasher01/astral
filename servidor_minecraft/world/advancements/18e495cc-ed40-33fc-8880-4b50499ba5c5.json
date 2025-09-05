@@ -11435,6 +11435,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/red_concrete_powder_from_concrete": {
+    "criteria": {
+      "has_red_concrete": "2025-09-05 04:25:58 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_backstabber": {
     "criteria": {
       "has_obsidian": "2025-08-19 02:43:30 +0000"
