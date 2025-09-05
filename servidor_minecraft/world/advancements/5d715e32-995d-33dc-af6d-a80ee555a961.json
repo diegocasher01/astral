@@ -5948,6 +5948,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/cyan_concrete_powder_from_concrete": {
+    "criteria": {
+      "has_cyan_concrete": "2025-09-05 18:06:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-08-17 04:21:14 +0000"
@@ -18840,6 +18846,12 @@
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-08-31 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/green_concrete_powder_from_concrete": {
+    "criteria": {
+      "has_green_concrete": "2025-09-05 18:03:57 +0000"
     },
     "done": true
   },
