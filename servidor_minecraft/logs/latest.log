@@ -8001,3 +8001,5 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [18:00:34] [FTB Backups scheduled executor 0/INFO]: File missing, removing from backups /workspaces/astral/servidor_minecraft/backups/2025-9-3_0-0-0.zip
 [18:00:34] [FTB Backups scheduled executor 0/INFO]: Writing to file /workspaces/astral/servidor_minecraft/backups/backups.json
 [19:20:40] [Server thread/INFO]: Lumi_uwu has made the advancement [Kelp Drive]
+[19:56:27] [Server thread/INFO]: Lumi_uwu lost connection: Disconnected
+[19:56:27] [Server thread/INFO]: Lumi_uwu left the game
