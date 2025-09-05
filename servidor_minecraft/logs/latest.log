@@ -7933,3 +7933,9 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [04:45:02] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [04:49:30] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [04:52:13] [Server thread/INFO]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[05:04:46] [Server thread/INFO]: SearchWorkerManager 66ce1c4f: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[05:04:46] [Server thread/INFO]: SearchWorkerManager 66ce1c4f: RandomSpreadSearchWorker succeeded with 680 radius, 2 samples
+[05:07:34] [Server thread/INFO]: Lumi_uwu lost connection: Disconnected
+[05:07:34] [Server thread/INFO]: Lumi_uwu left the game
+[05:07:36] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
+[05:07:36] [Server thread/INFO]: Octlopez04 left the game
