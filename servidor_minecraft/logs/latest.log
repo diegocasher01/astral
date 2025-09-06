@@ -10096,3 +10096,28 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [00:38:20] [Netty Epoll Server IO #7/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
 [00:38:37] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[01:10:02] [Server thread/INFO]: Lumi_uwu[/100.108.54.3:60764] logged in with entity id 13114 at (355.18173183843, 64.0, 10.216934471647312)
+[01:10:02] [Server thread/INFO]: Syncing config to Lumi_uwu (18e495cc-ed40-33fc-8880-4b50499ba5c5)
+[01:10:02] [Server thread/INFO]: Loading config from file...
+[01:10:02] [Server thread/INFO]: Lumi_uwu joined the game
+[01:10:02] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7bad4d56 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:10:02] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@13073f1 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:10:03] [Netty Epoll Server IO #1/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[01:10:03] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7bad4d56 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:10:03] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@13073f1 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:10:03] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Lumi_uwu -> Global
+[01:10:03] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Lumi_uwu. Normal: GRAVE / Robbing: INVENTORY
+[01:10:04] [Server thread/INFO]: Lumi_uwu lost connection: Disconnected
+[01:10:04] [Server thread/INFO]: Lumi_uwu left the game
+[01:10:07] [Server thread/INFO]: Lumi_uwu[/100.108.54.3:60783] logged in with entity id 13148 at (355.18173183843, 64.0, 10.216934471647312)
+[01:10:07] [Server thread/INFO]: Syncing config to Lumi_uwu (18e495cc-ed40-33fc-8880-4b50499ba5c5)
+[01:10:07] [Server thread/INFO]: Loading config from file...
+[01:10:07] [Netty Epoll Server IO #2/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[01:10:07] [Server thread/INFO]: Lumi_uwu joined the game
+[01:10:07] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7bad4d56 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:10:07] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@13073f1 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:10:07] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Lumi_uwu -> Global
+[01:10:07] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Lumi_uwu. Normal: GRAVE / Robbing: INVENTORY
+[01:10:07] [Netty Epoll Server IO #2/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[01:10:07] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7bad4d56 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:10:07] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@13073f1 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
