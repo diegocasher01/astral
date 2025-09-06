@@ -8152,6 +8152,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/red_brass_lamp": {
+    "criteria": {
+      "has_item": "2025-09-06 01:50:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/water_coolant_cell_30k": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -8785,6 +8791,12 @@
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_cyan_dye": "2025-08-21 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/brass_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-09-06 01:50:41 +0000"
     },
     "done": true
   },
@@ -10368,6 +10380,12 @@
   "campanion:recipes/misc/wooden_rod": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/green_brass_lamp": {
+    "criteria": {
+      "has_item": "2025-09-06 01:50:41 +0000"
     },
     "done": true
   },
@@ -12929,6 +12947,12 @@
   "mcdw:recipes/bows/bow_soul_bow": {
     "criteria": {
       "has_iron_nugget": "2025-08-17 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/brass_catwalk": {
+    "criteria": {
+      "has_item": "2025-09-06 01:50:41 +0000"
     },
     "done": true
   },
@@ -15832,6 +15856,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/blue_brass_lamp": {
+    "criteria": {
+      "has_item": "2025-09-06 01:50:41 +0000"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-08-16 21:58:30 +0000"
@@ -16076,6 +16106,12 @@
   "createdeco:recipes/createdeco.props/cyan_placard": {
     "criteria": {
       "has_dye": "2025-08-21 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/yellow_brass_lamp": {
+    "criteria": {
+      "has_item": "2025-09-06 01:50:41 +0000"
     },
     "done": true
   },
@@ -18336,6 +18372,12 @@
   "tconstruct:recipes/tconstruct/general/tables/tinker_station": {
     "criteria": {
       "has_item": "2025-08-17 02:51:50 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/big_cartridge_sheet": {
+    "criteria": {
+      "has_brass_sheet": "2025-09-06 01:50:41 +0000"
     },
     "done": true
   },

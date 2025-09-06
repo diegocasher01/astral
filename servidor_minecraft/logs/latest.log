@@ -10121,3 +10121,7 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [01:10:07] [Netty Epoll Server IO #2/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
 [01:10:07] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@7bad4d56 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [01:10:07] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@13073f1 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:48:55] [Server thread/INFO]: Lumi_uwu has made the advancement [Real Alloys]
+[01:56:20] [Server thread/INFO]: Lumi_uwu has made the advancement [Sploosh]
+[01:57:02] [Server thread/INFO]: Lumi_uwu lost connection: Disconnected
+[01:57:02] [Server thread/INFO]: Lumi_uwu left the game
