@@ -15718,3 +15718,6 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.RuntimeExc
 [04:35:36] [Netty Epoll Server IO #4/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
 [04:44:08] [Server thread/INFO]: Octlopez04 has made the advancement [Busy Hands]
 [04:48:51] [Server thread/INFO]: Octlopez04 has reached the goal [Organize-o-Tron]
+[04:54:44] [Server thread/WARN]: Octlopez04 moved wrongly!
+[04:58:51] [Server thread/INFO]: Octlopez04 lost connection: Disconnected
+[04:58:51] [Server thread/INFO]: Octlopez04 left the game
