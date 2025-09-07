@@ -12521,6 +12521,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-09-07 03:28:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-08-18 21:55:55 +0000"
@@ -14395,6 +14401,12 @@
   "techreborn:recipes/chemical_reactor/light_gray_wool_from_white_wool_with_light_gray_dye": {
     "criteria": {
       "has_light_gray_dye": "2025-09-05 17:46:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_panicle": {
+    "criteria": {
+      "has_rice_bale": "2025-09-07 03:25:23 +0000"
     },
     "done": true
   },
