@@ -13029,6 +13029,12 @@
     },
     "done": true
   },
+  "campanion:recipes/tools/tent_bag": {
+    "criteria": {
+      "has_rope": "2025-09-07 03:35:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/portable_fluid_interface": {
     "criteria": {
       "has_item": "2025-08-20 00:20:59 +0000"
@@ -15968,6 +15974,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-08-19 02:15:55 +0000"
+    },
+    "done": true
+  },
+  "campanion:recipes/tools/rope_bridge_post": {
+    "criteria": {
+      "has_rope": "2025-09-07 03:35:05 +0000"
     },
     "done": true
   },
