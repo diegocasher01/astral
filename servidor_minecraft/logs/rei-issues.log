@@ -1,4 +1,4 @@
-[02:03:33] [Worker-Main-4/ERROR] [REI] ReltServer of ReltServer [roughly_enough_loot_tables] plugin failed to reloadable-plugin/EntryTypeRegistryImpl/!
+[23:28:16] [Worker-Main-4/ERROR] [REI] ReltServer of ReltServer [roughly_enough_loot_tables] plugin failed to reloadable-plugin/EntryTypeRegistryImpl/!
 java.lang.ExceptionInInitializerError
 	at griglog.relt.rei_plugin.ReltServer.registerEntryTypes(ReltPlugin.kt:37)
 	at me.shedaniel.rei.impl.common.entry.type.EntryTypeRegistryImpl.acceptPlugin(EntryTypeRegistryImpl.java:56)
@@ -292,6 +292,14 @@ java.lang.ExceptionInInitializerError
 	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572)
 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714)
 	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+	at net.minecraft.class_4014.method_18365(class_4014.java:69)
+	at net.minecraft.class_4014.method_18367(class_4014.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
@@ -316,4 +324,4 @@ Caused by: java.lang.RuntimeException: Cannot load class me.shedaniel.rei.api.cl
 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
 	at griglog.relt.rei_plugin.TableEntryDef.<clinit>(TableEntryDef.kt:29)
-	... 299 more
+	... 307 more
