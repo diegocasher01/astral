@@ -12669,6 +12669,12 @@
     },
     "done": true
   },
+  "create:steam_whistle": {
+    "criteria": {
+      "0": "2025-09-09 23:55:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-08-18 08:32:09 +0000"
