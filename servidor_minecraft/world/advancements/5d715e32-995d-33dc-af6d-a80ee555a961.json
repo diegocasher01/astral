@@ -6268,6 +6268,12 @@
     },
     "done": true
   },
+  "create:display_link": {
+    "criteria": {
+      "0": "2025-09-10 13:05:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/clay_dust": {
     "criteria": {
       "has_clay_ball": "2025-08-17 03:57:04 +0000"
