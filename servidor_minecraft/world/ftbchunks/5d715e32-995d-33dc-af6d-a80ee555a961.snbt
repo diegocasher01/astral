@@ -6,9 +6,9 @@
 		"minecraft:overworld": [
 			{ x: 8, z: 8, time: 1756839814142L }
 			{ x: 7, z: 8, time: 1756839814142L }
-			{ x: 8, z: 9, time: 1756839819205L }
-			{ x: 7, z: 9, time: 1756839129586L }
-			{ x: 8, z: 10, time: 1756913378850L }
+			{ x: 8, z: 9, time: 1756839819205L, force_loaded: 1757508806273L }
+			{ x: 7, z: 9, time: 1756839129586L, force_loaded: 1757508809675L }
+			{ x: 8, z: 10, time: 1757508802741L, force_loaded: 1757508808995L }
 		]
 	}
 	member_data: {

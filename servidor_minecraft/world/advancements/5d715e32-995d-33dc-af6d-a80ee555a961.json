@@ -14524,6 +14524,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/decorations/skull_cloudy": {
+    "criteria": {
+      "has_monitor": "2025-09-10 12:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-08-31 03:17:18 +0000"
