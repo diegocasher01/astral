@@ -7932,3 +7932,5 @@ Caused by: java.lang.ClassNotFoundException: snownee.jade.api.fabric.CustomEncha
 [12:00:43] [FTB Backups scheduled executor 0/INFO]: Removed old backup 2025-9-6_18-0-0.zip
 [12:00:43] [FTB Backups scheduled executor 0/INFO]: File missing, removing from backups /workspaces/astral/servidor_minecraft/backups/2025-9-6_18-0-0.zip
 [12:00:43] [FTB Backups scheduled executor 0/INFO]: Writing to file /workspaces/astral/servidor_minecraft/backups/backups.json
+[12:21:13] [Server thread/WARN]: Missing graph at class_2338{x=370, y=65, z=19}
+[12:21:13] [Server thread/WARN]: Missing graph at class_2338{x=370, y=65, z=19}
