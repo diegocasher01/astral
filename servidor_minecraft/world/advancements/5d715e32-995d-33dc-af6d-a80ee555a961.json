@@ -1441,6 +1441,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_glass_pane": {
+    "criteria": {
+      "has_item": "2025-09-10 10:01:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_copper_cable_alt": {
     "criteria": {
       "has_copper": "2025-08-17 03:04:48 +0000"
