@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-11 02:51:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-21 07:04:45 +0000"
@@ -639,6 +645,12 @@
   "techreborn:recipes/techreborn.item_group/crafting_table/ingot/advanced_alloy_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_stairs": {
+    "criteria": {
+      "has_polished_cut_diorite": "2025-09-11 02:51:53 +0000"
     },
     "done": true
   },
@@ -2045,6 +2057,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_diorite_brick_stairs": {
+    "criteria": {
+      "has_small_diorite_bricks": "2025-09-11 02:51:39 +0000"
+    },
+    "done": true
+  },
   "dustrial_decor:recipes/decorations/large_gold_chain": {
     "criteria": {
       "has_gold_ingot": "2025-08-17 05:42:35 +0000"
@@ -2144,6 +2162,12 @@
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2025-08-17 03:10:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_wall": {
+    "criteria": {
+      "has_small_diorite_bricks": "2025-09-11 02:51:39 +0000"
     },
     "done": true
   },
@@ -8771,6 +8795,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_diorite_wall": {
+    "criteria": {
+      "has_polished_cut_diorite": "2025-09-11 02:51:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-17 03:38:07 +0000"
@@ -10213,6 +10243,12 @@
   "techreborn:recipes/chemical_reactor/light_blue_candle_from_light_gray_candle_with_cyan_dye": {
     "criteria": {
       "has_cyan_dye": "2025-08-21 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_slab": {
+    "criteria": {
+      "has_polished_cut_diorite": "2025-09-11 02:51:53 +0000"
     },
     "done": true
   },
@@ -14848,6 +14884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-11 02:51:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/green_stained_glass_from_lime_stained_glass_with_gray_dye": {
     "criteria": {
       "has_gray_dye": "2025-08-17 03:03:15 +0000"
@@ -15211,6 +15253,12 @@
   "mcdw:recipes/whips/whip_whip": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_slab": {
+    "criteria": {
+      "has_small_diorite_bricks": "2025-09-11 02:51:39 +0000"
     },
     "done": true
   },
@@ -17304,6 +17352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-11 02:51:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-08-18 09:06:37 +0000"
@@ -17457,6 +17511,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-08-19 02:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-11 02:51:43 +0000"
     },
     "done": true
   },
