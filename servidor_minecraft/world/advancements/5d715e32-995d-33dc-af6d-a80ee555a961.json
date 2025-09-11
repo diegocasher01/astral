@@ -1423,6 +1423,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/speaker": {
+    "criteria": {
+      "has_computer": "2025-09-11 02:46:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2025-08-17 03:52:30 +0000"
@@ -5523,6 +5529,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/monitor_advanced": {
+    "criteria": {
+      "has_computer": "2025-09-11 02:46:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/raw_tin_blocks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-17 05:35:04 +0000"
@@ -7001,6 +7013,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/cable": {
+    "criteria": {
+      "has_computer": "2025-09-11 02:46:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_stained_glass_pane_from_cyan_stained_glass_pane_with_light_gray_dye": {
     "criteria": {
       "has_light_gray_dye": "2025-09-05 17:46:32 +0000"
@@ -7340,6 +7358,12 @@
   "create:recipes/create.palettes/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-19 23:40:28 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_drive": {
+    "criteria": {
+      "has_computer": "2025-09-11 02:46:58 +0000"
     },
     "done": true
   },
@@ -8099,6 +8123,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/monitor_normal": {
+    "criteria": {
+      "has_computer": "2025-09-11 02:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-08-16 21:58:03 +0000"
@@ -8402,6 +8432,12 @@
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/wireless_modem_advanced": {
+    "criteria": {
+      "has_computer": "2025-09-11 02:46:58 +0000"
     },
     "done": true
   },
@@ -11318,6 +11354,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/wireless_modem_normal": {
+    "criteria": {
+      "has_computer": "2025-09-11 02:46:58 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/whips/whip_vine_whip": {
     "criteria": {
       "has_leather": "2025-08-18 08:30:08 +0000"
@@ -12506,6 +12548,12 @@
   "createdeco:recipes/createdeco.props/pink_placard": {
     "criteria": {
       "has_dye": "2025-08-27 00:59:08 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/wired_modem": {
+    "criteria": {
+      "has_computer": "2025-09-11 02:46:58 +0000"
     },
     "done": true
   },
@@ -14449,6 +14497,12 @@
   "farmersdelight:recipes/farmersdelight/rice_panicle": {
     "criteria": {
       "has_rice_bale": "2025-09-07 03:25:23 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/decorations/skull_dan200": {
+    "criteria": {
+      "has_computer": "2025-09-11 02:46:58 +0000"
     },
     "done": true
   },
@@ -18638,6 +18692,12 @@
   "ae2:recipes/ae2.main/network/parts/quartz_fiber_part": {
     "criteria": {
       "has_dusts/quartz": "2025-09-05 17:25:04 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/printer": {
+    "criteria": {
+      "has_computer": "2025-09-11 02:46:58 +0000"
     },
     "done": true
   },
