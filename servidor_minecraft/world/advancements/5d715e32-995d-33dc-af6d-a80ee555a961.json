@@ -5655,6 +5655,12 @@
     },
     "done": true
   },
+  "create:windmill_maxed": {
+    "criteria": {
+      "0": "2025-09-11 03:00:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/large_cogwheel_from_little": {
     "criteria": {
       "has_item": "2025-08-17 03:27:35 +0000"
