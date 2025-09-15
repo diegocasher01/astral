@@ -8,7 +8,7 @@
 	#.
 	#The multiplier for the dash delta movement
 	#Range: 0 ~ 100
-	dashDeltaModifier = 2
+	dashDeltaModifier = 3
 
 #.
 #Settings for the centrifuge
