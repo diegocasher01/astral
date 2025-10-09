@@ -1,0 +1,17 @@
+{
+	id: "4f72f4a2-6241-4656-b260-c84a844bc076"
+	type: "party"
+	owner: "5d715e32-995d-33dc-af6d-a80ee555a961"
+	ranks: {
+		5d715e32-995d-33dc-af6d-a80ee555a961: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Astrogold"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1759969168018L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Octlopez04\"}]}" }]
+	extra: { }
+}

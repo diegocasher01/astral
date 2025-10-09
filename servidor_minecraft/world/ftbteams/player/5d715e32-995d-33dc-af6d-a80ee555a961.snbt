@@ -1,0 +1,15 @@
+{
+	id: "5d715e32-995d-33dc-af6d-a80ee555a961"
+	type: "player"
+	player_name: "Octlopez04"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Octlopez04"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6159"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "18e495cc-ed40-33fc-8880-4b50499ba5c5"
+	type: "player"
+	player_name: "Lumi_uwu"
+	ranks: {
+		18e495cc-ed40-33fc-8880-4b50499ba5c5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Lumi_uwu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#599AFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
